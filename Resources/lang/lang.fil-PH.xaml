@@ -6,7 +6,7 @@
 
     <!--#region MainWindow -->
 
-    <v:String x:Key="MainWindow_Title">Tagalunsad para sa Minecraft Bedrock</v:String>
+    <v:String x:Key="MainWindow_Title"></v:String>
     <v:String x:Key="MainWindow_Disclaimer">HINDI NAUUGNAY O PINATAPARAN NG MOJANG</v:String>
 
     <!--#endregion-->
@@ -49,7 +49,7 @@
     <v:String x:Key="ProgressBar_Extracting">Kinukuha</v:String>
     <v:String x:Key="ProgressBar_Uninstalling">Tinatanggal</v:String>
     <v:String x:Key="ProgressBar_RegisteringPackage">Nagtatala ng Bungkos</v:String>
-    <v:String x:Key="ProgressBar_RemovingPackage">Tinatanggal ang Pagtatala ng Bungkos</v:String>
+    <v:String x:Key="ProgressBar_RemovingPackage">Tinatanggal ang Pagrehistro ng Bungkos</v:String>
     <v:String x:Key="ProgressBar_BackingUp">Nagiimbak upang Mag-impok ng Datos</v:String>
 
     <!--#endregion-->
@@ -68,21 +68,21 @@
     
     <!-- #region Dungeons Section -->
 
-    <v:String x:Key="Dungeons_InstallationPage_GameVariant">GAME VARIANT</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_GameVariant_Windows">Windows Launcher</v:String>
+    <v:String x:Key="Dungeons_InstallationPage_GameVariant">BARYANTE NG LARO</v:String>
+    <v:String x:Key="Dungeons_InstallationPage_GameVariant_Windows">Tagalunsad para sa Windows</v:String>
     <v:String x:Key="Dungeons_InstallationPage_GameVariant_Steam">Steam</v:String>
     <v:String x:Key="Dungeons_InstallationPage_GameVariant_Store">Microsoft Store</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_HintText_DefaultPath">&lt;Default path&gt;</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_Header_InstallLocation">INSTALL LOCATION</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_Header_ModFolderLocation">SYMBOLIC MODS FOLDER LOCATION</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_InstructionsTab">Instructions</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_PathsTab">Paths</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_GeneralTab">General</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_InstallStorePatch">Install Store Patch</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_UpdateStorePatch">Update Store Patch</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_RemoveModManager">Uninstall Symbolic Link</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_InstallModManager">Install  Symbolic Link</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_RepairOrUpdateGame">Repair/Update Game</v:String>
+    <v:String x:Key="Dungeons_InstallationPage_HintText_DefaultPath">&lt;daanan na dati&gt;</v:String>
+    <v:String x:Key="Dungeons_InstallationPage_Header_InstallLocation">PAROROONAN NG PAGTALAGA</v:String>
+    <v:String x:Key="Dungeons_InstallationPage_Header_ModFolderLocation">PAROROONAN NG SIMBOLIKONG TAGATIKLOP NG MGA MODIPIKASYON</v:String>
+    <v:String x:Key="Dungeons_InstallationPage_InstructionsTab">Mga Panuto</v:String>
+    <v:String x:Key="Dungeons_InstallationPage_PathsTab">Mga Daanan</v:String>
+    <v:String x:Key="Dungeons_InstallationPage_GeneralTab">Pangunahin</v:String>
+    <v:String x:Key="Dungeons_InstallationPage_InstallStorePatch"></v:String>
+    <v:String x:Key="Dungeons_InstallationPage_UpdateStorePatch"></v:String>
+    <v:String x:Key="Dungeons_InstallationPage_RemoveModManager"></v:String>
+    <v:String x:Key="Dungeons_InstallationPage_InstallModManager"></v:String>
+    <v:String x:Key="Dungeons_InstallationPage_RepairOrUpdateGame"></v:String>
 
 
     <!--#endregion-->
@@ -268,46 +268,46 @@
 
     <v:String x:Key="GeneralSettingsScreen_ExternalLauncherSubtitle">PAGPIPILIAN NG PANLABAS NA TAGALUNSAD</v:String>
     <v:String x:Key="GeneralSettingsScreen_ExternalLauncherNameSubtitle">TUTUNGUHAN</v:String>
-    <v:String x:Key="GeneralSettingsScreen_ExternalLauncherPathSubtitle">PANGALAN</v:String>
-    <v:String x:Key="GeneralSettingsScreen_ExternalLauncherArgumentsSubtitle">ARGUMENTO</v:String>
-    <v:String x:Key="GeneralSettingsScreen_ExternalLauncherIconSubtitle">LARAWAN</v:String>
+    <v:String x:Key="GeneralSettingsScreen_ExternalLauncherPathSubtitle"></v:String>
+    <v:String x:Key="GeneralSettingsScreen_ExternalLauncherArgumentsSubtitle"></v:String>
+    <v:String x:Key="GeneralSettingsScreen_ExternalLauncherIconSubtitle"></v:String>
 
     <!--#endregion-->
 
     <!--#region AcountsSettingsPage -->
 
-    <v:String x:Key="AcountsSettingsPage_SelectedAccount_Subtitle">PINILING TALAMBUHAY</v:String>
-    <v:String x:Key="AcountsSettingsPage_InsiderHub_Text">PAGPIPILIANG INSIDER</v:String>
-    <v:String x:Key="AcountsSettingsPage_InsiderHubNew_Text">Pagpipiliang Karaniwan</v:String>
-    <v:String x:Key="AcountsSettingsPage_InsiderHubLegacy_Text">Pagpipiiliang Pamana</v:String>
-    <v:String x:Key="AcountsSettingsPage_ManageAccounts_Text">Pamahalaan ang mga Panagutan</v:String>
-    <v:String x:Key="AcountsSettingsPage_AccountSettings_Text">PAGPIPILIANG PANGPANAGUTAN</v:String>
+    <v:String x:Key="AcountsSettingsPage_SelectedAccount_Subtitle"></v:String>
+    <v:String x:Key="AcountsSettingsPage_InsiderHub_Text"></v:String>
+    <v:String x:Key="AcountsSettingsPage_InsiderHubNew_Text"></v:String>
+    <v:String x:Key="AcountsSettingsPage_InsiderHubLegacy_Text"></v:String>
+    <v:String x:Key="AcountsSettingsPage_ManageAccounts_Text"></v:String>
+    <v:String x:Key="AcountsSettingsPage_AccountSettings_Text"></v:String>
 
     <!--#endregion-->
 
     <!--#region AboutPage -->
 
-    <v:String x:Key="AboutPage_Title">TUNGKOL SA TAGALUNSAD NG MINECRAFT: BERSIYONG BEDROCK</v:String>
-    <v:String x:Key="AboutPage_DevelopedBy_Text">BINUO NI</v:String>
-    <v:String x:Key="AboutPage_OriginallyDevelopedBy_Text">KUMUHA SA GAWA NI</v:String>
-    <v:String x:Key="AboutPage_SpecialThanks_Text">MARAMING PASASALAMAT KAY</v:String>
+    <v:String x:Key="AboutPage_Title"></v:String>
+    <v:String x:Key="AboutPage_DevelopedBy_Text"></v:String>
+    <v:String x:Key="AboutPage_OriginallyDevelopedBy_Text"></v:String>
+    <v:String x:Key="AboutPage_SpecialThanks_Text"></v:String>
 
-    <v:String x:Key="AboutPage_McMrArm_Text">Para sa paglikha ng orihinal na pangtalaga ng Minecraft Bersiyong Windows 10 (kung saan nagmula ang gawaing ito)</v:String>
-    <v:String x:Key="AboutPage_BsCommunity_Text">Para sa kanilang paggawa sa SkinView3D, na ginagamit para sa pagpapagana ng pagtingin sa tauhan sa tagalunsad</v:String>
-    <v:String x:Key="AboutPage_Mojang_Text">Para sa Minecraft!!!</v:String>
-    <v:String x:Key="AboutPage_BsRepo_Text">Repositoryo ng SkinView3D</v:String>
-    <v:String x:Key="AboutPage_CurrentBuild">Kasalukuyang Gawa: </v:String>
+    <v:String x:Key="AboutPage_McMrArm_Text"></v:String>
+    <v:String x:Key="AboutPage_BsCommunity_Text"></v:String>
+    <v:String x:Key="AboutPage_Mojang_Text"></v:String>
+    <v:String x:Key="AboutPage_BsRepo_Text"></v:String>
+    <v:String x:Key="AboutPage_CurrentBuild"></v:String>
 
     <!--#endregion-->
 
     <!--#region AdvancedSettings -->
 
-    <v:String x:Key="AdvancedSettings_Title">Pagpipiliang Pasulong</v:String>
-    <v:String x:Key="AdvancedSettings_LauncherOptions_Text">PAGPIPIIAN SA TAGALUNSAD</v:String>
-    <v:String x:Key="AdvancedSettings_PathSubtitle_Text">SANGGUNIAN NG IMBAKAN</v:String>
-    <v:String x:Key="AdvancedSettings_RestartButton_Text">Simulan Muli</v:String>
-    <v:String x:Key="AdvancedSettings_Notice_Text">* Ang lahat ng mga pagpipilian ay sisimulan muli ang tagalunsad</v:String>
-    <v:String x:Key="AdvancedSettings_PortableMode_Text">Paganahin ang Paraan ng Nagagalaw</v:String>
+    <v:String x:Key="AdvancedSettings_Title"></v:String>
+    <v:String x:Key="AdvancedSettings_LauncherOptions_Text"></v:String>
+    <v:String x:Key="AdvancedSettings_PathSubtitle_Text"></v:String>
+    <v:String x:Key="AdvancedSettings_RestartButton_Text"></v:String>
+    <v:String x:Key="AdvancedSettings_Notice_Text"></v:String>
+    <v:String x:Key="AdvancedSettings_PortableMode_Text"></v:String>
 
     <!--#endregion-->
 
@@ -317,138 +317,135 @@
 
     <!--#region FirstLaunch -->
 
-    <v:String x:Key="FirstLaunch_WelcomeTitle">Maligayang Pagdating!</v:String>
-    <v:String x:Key="FirstLaunch_WelcomeSubTitle">Maligayang Pagdating sa Tagalunsad para sa Minecraft Bedrock!</v:String>
-    <v:String x:Key="FirstLaunch_CreateProfileSubTitle">Lumikha ng iyong unang talambuhay!</v:String>
-    <v:String x:Key="FirstLaunch_AlmostThereTitle">Malapit na!</v:String>
-    <v:String x:Key="FirstLaunch_OneThingTitle">Isa pang bagay...</v:String>
-    <v:String x:Key="FirstLaunch_OneThingSubtitle">Suriin lamang ang mga ito upang matiyak na nais mo lang sila.</v:String>
-    <v:String x:Key="FirstLaunch_ChooseAccountTitle">Pumili ng Panagutan sa Insider</v:String>
-    <v:String x:Key="FirstLaunch_ChooseAccountSubtitle">* Gagamitin ito upang mapatunayan at matalaga ang mga beta. Dapat kang sumali sa Xbox Insider Hub para sa napiling panagutan upang magtalaga ng mga beta. Maaaring kailanganin mong buksan muli ang tagalunsad o tanggalin ang Minecraft para sa pagtatalaga ng mga beta upang gumana ito.</v:String>
+    <v:String x:Key="FirstLaunch_WelcomeTitle"></v:String>
+    <v:String x:Key="FirstLaunch_WelcomeSubTitle"></v:String>
+    <v:String x:Key="FirstLaunch_CreateProfileSubTitle"></v:String>
+    <v:String x:Key="FirstLaunch_AlmostThereTitle"></v:String>
+    <v:String x:Key="FirstLaunch_OneThingTitle"></v:String>
+    <v:String x:Key="FirstLaunch_OneThingSubtitle"></v:String>
+    <v:String x:Key="FirstLaunch_ChooseAccountTitle"></v:String>
+    <v:String x:Key="FirstLaunch_ChooseAccountSubtitle"></v:String>
 
-    <v:String x:Key="FirstLaunch_BeforeStartingToUse" xml:space="preserve">Bago gamitin, lubos na tinatagubilin na pindutin mo ang sipi upang lumikha ng isang dating pagtalaga na naka-impok na datos habang pinapalitan ng tagalunsad ang orihinal na sanggunian ng isang sumasagisag na kawing na nagbibigay-daan sa amin upang maipasa muli ang naka-impok na datos.
+    <v:String x:Key="FirstLaunch_BeforeStartingToUse" xml:space="preserve"></v:String>
 
-(Huwag mag-alala, hindi mawawala ang iyong datos sa pamamagitan ng paggawa nito, mawawalan ka lamang ng datos kung pinindot mo ang maglaro at hindi nakasipi ang iyong mga bagay-bagay)</v:String>
-
-    <v:String x:Key="FirstLaunch_InstallType_Header">I-impok / I-lulan ang Datos ng Tagalunsad Mula Sa:</v:String>
-    <v:String x:Key="FirstLaunch_FixedInstall_Checkbox">Nakapirming Tagatiklop (Minumungkahi)</v:String>
-    <v:String x:Key="FirstLaunch_PortableInstall_Checkbox">Nagagalaw/Ugat na Tagatiklop</v:String>
-    <v:String x:Key="FirstLaunch_BackupCheckBox_Text">Isipi ang Dati nang Naka-impokna Datos</v:String>
-    <v:String x:Key="FirstLaunch_BackupCheckBox_Subtext">(MINUMUNGKAHI)</v:String>
-    <v:String x:Key="FirstLaunch_CloseButton">Ipinid</v:String>
-    <v:String x:Key="FirstLaunch_BackButton">Bumalik</v:String>
+    <v:String x:Key="FirstLaunch_InstallType_Header"></v:String>
+    <v:String x:Key="FirstLaunch_FixedInstall_Checkbox"></v:String>
+    <v:String x:Key="FirstLaunch_PortableInstall_Checkbox"></v:String>
+    <v:String x:Key="FirstLaunch_BackupCheckBox_Text"></v:String>
+    <v:String x:Key="FirstLaunch_BackupCheckBox_Subtext"></v:String>
+    <v:String x:Key="FirstLaunch_CloseButton"></v:String>
+    <v:String x:Key="FirstLaunch_BackButton"></v:String>
     <v:String x:Key="FirstLaunch_GoBackButton"></v:String>
-    <v:String x:Key="FirstLaunch_CreateProfileText">TALAMBUHAY</v:String>
-    <v:String x:Key="FirstLaunch_CreateProfileButton">Lumikha</v:String>
-    <v:String x:Key="FirstLaunch_NextButton">Sunod</v:String>
-    <v:String x:Key="FirstLaunch_DownloadButton">Italaga</v:String>
-    <v:String x:Key="FirstLaunch_FinishButton">Tapos</v:String>
+    <v:String x:Key="FirstLaunch_CreateProfileText"></v:String>
+    <v:String x:Key="FirstLaunch_CreateProfileButton"></v:String>
+    <v:String x:Key="FirstLaunch_NextButton"></v:String>
+    <v:String x:Key="FirstLaunch_DownloadButton"></v:String>
+    <v:String x:Key="FirstLaunch_FinishButton"></v:String>
 
     <!--#endregion-->
 
     <!--#region ErrorScreen -->
 
-    <v:String x:Key="ErrorScreen_Title">KAPALPAKAN</v:String>
-    <v:String x:Key="ErrorScreen_SubTitle">Bumagsak ang Tagalunsad</v:String>
-    <v:String x:Key="ErrorScreen_DefaultErrorMessage">Isang hindi inaasahang suliranin ang naganap at bumagsak ang tagalunsad. Humihingi kami ng paumanhin para sa abala.</v:String>
-    <v:String x:Key="ErrorScreen_CloseButton">Ipinid</v:String>
-    <v:String x:Key="ErrorScreen_ViewCrash">Tingnan ang ulat sa pagbagsak</v:String>
+    <v:String x:Key="ErrorScreen_Title"></v:String>
+    <v:String x:Key="ErrorScreen_SubTitle"></v:String>
+    <v:String x:Key="ErrorScreen_DefaultErrorMessage"></v:String>
+    <v:String x:Key="ErrorScreen_CloseButton"></v:String>
+    <v:String x:Key="ErrorScreen_ViewCrash"></v:String>
 
     <!--#endregion-->
 
     <!--#region Errors -->
 
-    <v:String x:Key="Error_AuthenticationFailed_Title">Bigo ang pagpapatunay</v:String>
-    <v:String x:Key="Error_AuthenticationFailed">Nabigong patunayan. Mangyaring tiyaking nakasubaybay ang iyong panagutan sa programang beta.</v:String>
+    <v:String x:Key="Error_AuthenticationFailed_Title"></v:String>
+    <v:String x:Key="Error_AuthenticationFailed"></v:String>
 
-    <v:String x:Key="Error_CantFindExternalLauncher_Title">Hindi makapagpalit ng tagalunsad</v:String>
-    <v:String x:Key="Error_CantFindExternalLauncher">Hindi makapagpalit ng tagalunsad. Tiyaking mayroon kang landas sa itinakdang tagalunsad nang tama.</v:String>
+    <v:String x:Key="Error_CantFindExternalLauncher_Title"></v:String>
+    <v:String x:Key="Error_CantFindExternalLauncher"></v:String>
 
-    <v:String x:Key="Error_CantFindJavaLauncher_Title">Hindi makapagpalit ng tagalunsad</v:String>
-    <v:String x:Key="Error_CantFindJavaLauncher">Hindi makapagpalit ng tagalunsad. Tiyaking natalaga mo ang orihinal na Tagalunsad para sa Minecraft mula sa Minecraft.net .</v:String>
+    <v:String x:Key="Error_CantFindJavaLauncher_Title"></v:String>
+    <v:String x:Key="Error_CantFindJavaLauncher"></v:String>
 
-    <v:String x:Key="Error_AppReregisterFailed_Title">Nabigo ang Pagtala ng Aplikasyon</v:String>
-    <v:String x:Key="Error_AppReregisterFailed">Mangyaring simulan muli :(</v:String>
+    <v:String x:Key="Error_AppReregisterFailed_Title"></v:String>
+    <v:String x:Key="Error_AppReregisterFailed"></v:String>
 
-    <v:String x:Key="Error_AppDeregisteringFailed_Title">Nabigo ang Hindi Pagtala ng Aplikasyon</v:String>
-    <v:String x:Key="Error_AppDeregisteringFailed">Mangyaring simulan muli :(</v:String>
+    <v:String x:Key="Error_AppDeregisteringFailed_Title"></v:String>
+    <v:String x:Key="Error_AppDeregisteringFailed"></v:String>
 
-    <v:String x:Key="Error_AppLaunchFailed_Title">Nabigo ang paglunsad</v:String>
-    <v:String x:Key="Error_AppLaunchFailed">Mangyaring simulan muli :(</v:String>
+    <v:String x:Key="Error_AppLaunchFailed_Title"></v:String>
+    <v:String x:Key="Error_AppLaunchFailed"></v:String>
 
-    <v:String x:Key="Error_AppDownloadFailed_Title">Nabigo ang pagtalaga</v:String>
-    <v:String x:Key="Error_AppDownloadFailed">Mangyaring simulan muli :(</v:String>
+    <v:String x:Key="Error_AppDownloadFailed_Title"></v:String>
+    <v:String x:Key="Error_AppDownloadFailed"></v:String>
 
-    <v:String x:Key="Error_SaveDirectoryRedirectionFailed_Title">Nabigo ang pag-impok ng pagpasa muli</v:String>
-    <v:String x:Key="Error_SaveDirectoryRedirectionFailed">Mangyaring simulan muli :(</v:String>
+    <v:String x:Key="Error_SaveDirectoryRedirectionFailed_Title"></v:String>
+    <v:String x:Key="Error_SaveDirectoryRedirectionFailed"></v:String>
 
-    <v:String x:Key="Error_AppUninstallFailed_Title">Nabigo ang pagtanggal</v:String>
-    <v:String x:Key="Error_AppUninstallFailed">Mangyaring simulan muli :(</v:String>
+    <v:String x:Key="Error_AppUninstallFailed_Title"></v:String>
+    <v:String x:Key="Error_AppUninstallFailed"></v:String>
 
-    <v:String x:Key="Error_AppExtractionFailed_Title">Nabigo ang pagkuha</v:String>
-    <v:String x:Key="Error_AppExtractionFailed">Mangyaring simulan muli :(</v:String>
+    <v:String x:Key="Error_AppExtractionFailed_Title"></v:String>
+    <v:String x:Key="Error_AppExtractionFailed"></v:String>
 
-    <v:String x:Key="Error_CantFindPaidServerList_Title">Hindi mabuksan ang mga pindutan ng tagalingkod</v:String>
-    <v:String x:Key="Error_CantFindPaidServerList">Hindi mahanap ang mga Talaan ng mga Bayad na Tagalingkod.</v:String>
+    <v:String x:Key="Error_CantFindPaidServerList_Title"></v:String>
+    <v:String x:Key="Error_CantFindPaidServerList"></v:String>
 
-    <v:String x:Key="Error_NotaSkinPack_Title">Hindi mai-angkat ang mga tauhang bungkos</v:String>
-    <v:String x:Key="Error_NotaSkinPack">Iyan ay hindi isang bungkos ng tauhan hangal!</v:String>
+    <v:String x:Key="Error_NotaSkinPack_Title"></v:String>
+    <v:String x:Key="Error_NotaSkinPack"></v:String>
 
     <!--#endregion-->
 
     <!--#region NewProfile -->
 
     <v:String x:Key="NewProfile_GoBackButton"></v:String>
-    <v:String x:Key="NewProfile_CreateProfileText">TALAMBUHAY</v:String>
-    <v:String x:Key="NewProfile_CreateProfileText_Error">ANG PANGALAN NA ITO AY NAKUHA NA</v:String>
-    <v:String x:Key="NewProfile_CreateProfileSubTitle">Ilagay ang pangalan ng iyong panibagong talambuhay!</v:String>
-    <v:String x:Key="NewProfile_CreateProfileButton">Lumikha</v:String>
+    <v:String x:Key="NewProfile_CreateProfileText"></v:String>
+    <v:String x:Key="NewProfile_CreateProfileText_Error"></v:String>
+    <v:String x:Key="NewProfile_CreateProfileSubTitle"></v:String>
+    <v:String x:Key="NewProfile_CreateProfileButton"></v:String>
 
     <!--#endregion-->
 
     <!--#region Dialog -->
 
-    <v:String x:Key="Dialog_Item_Installation_Text">pagtalaga</v:String>
-    <v:String x:Key="Dialog_Item_SkinPack_Text">bungkos ng tauhan</v:String>
-    <v:String x:Key="Dialog_Item_Skin_Text">tauhan</v:String>
-    <v:String x:Key="Dialog_Item_Version_Text">bersiyon</v:String>
-    <v:String x:Key="Dialog_Item_Profile_Text">talambuhay</v:String>
+    <v:String x:Key="Dialog_Item_Installation_Text"></v:String>
+    <v:String x:Key="Dialog_Item_SkinPack_Text"></v:String>
+    <v:String x:Key="Dialog_Item_Skin_Text"></v:String>
+    <v:String x:Key="Dialog_Item_Version_Text"></v:String>
+    <v:String x:Key="Dialog_Item_Profile_Text"></v:String>
 
-    <v:String x:Key="Dialog_DeleteItem_Title">Tanggalin {0} habang-buhay</v:String>
-    <v:String x:Key="Dialog_DeleteItem_Text" xml:space="preserve">Tiyak ka bang nais mong tanggalin ang &quot;{1}&quot;?
-Ang {0} na ito ay mawawala habang-buhay! (Nang mahabang panahon!)</v:String>
+    <v:String x:Key="Dialog_DeleteItem_Title"></v:String>
+    <v:String x:Key="Dialog_DeleteItem_Text" xml:space="preserve"></v:String>
 
-    <v:String x:Key="Dialog_KillGame_Title">Patayin ang Laro</v:String>
-    <v:String x:Key="Dialog_KillGame_Text">Mapanganib ito, at minumungkahi lamang kung makaalis ka. Nais mo pa bang ipinid ang laro?</v:String>
+    <v:String x:Key="Dialog_KillGame_Title"></v:String>
+    <v:String x:Key="Dialog_KillGame_Text"></v:String>
 
-    <v:String x:Key="Dialog_CloseGame_Title">Gumagana pa ang Laro</v:String>
-    <v:String x:Key="Dialog_CloseGame_Text">Nais mo bang pilitin itong ipinid? (nang walang pag-impok ng mga pagbabago, minumungkahi lamang ito kung makaalis ka, mangyaring ipinid ang laro nang maayos)</v:String>
+    <v:String x:Key="Dialog_CloseGame_Title"></v:String>
+    <v:String x:Key="Dialog_CloseGame_Text"></v:String>
 
-    <v:String x:Key="DialogBtn_YesToAll_Text">Oo sa Lahat</v:String>
-    <v:String x:Key="DialogBtn_NoToAll_Text">Hindi sa Lahat</v:String>
-    <v:String x:Key="DialogBtn_Yes_Text">Oo</v:String>
-    <v:String x:Key="DialogBtn_No_Text">Hindi</v:String>
+    <v:String x:Key="DialogBtn_YesToAll_Text"></v:String>
+    <v:String x:Key="DialogBtn_NoToAll_Text"></v:String>
+    <v:String x:Key="DialogBtn_Yes_Text"></v:String>
+    <v:String x:Key="DialogBtn_No_Text"></v:String>
 
-    <v:String x:Key="Dialog_NoNewsContentFound_NoMatchingResultsTitle">Walang tumutugma na mga kinalalabasan</v:String>
-    <v:String x:Key="Dialog_NoNewsContentFound_NoMatchingResultsText" xml:space="preserve">Wala kaming nahanap na nilalaman na tumutugma sa iyong paghahanap. Kung mayroon kang mga pansala ng kategorya na nakapinid, subukang buksan muli ang mga ito at muling magsaliksik.</v:String>
+    <v:String x:Key="Dialog_NoNewsContentFound_NoMatchingResultsTitle"></v:String>
+    <v:String x:Key="Dialog_NoNewsContentFound_NoMatchingResultsText" xml:space="preserve"></v:String>
 
-    <v:String x:Key="Dialog_ResultPanel_Loading_Title">Naglululan...</v:String>
-    <v:String x:Key="Dialog_ResultPanel_Loading_Text" xml:space="preserve">Mangyaring maghintay!</v:String>
+    <v:String x:Key="Dialog_ResultPanel_Loading_Title"></v:String>
+    <v:String x:Key="Dialog_ResultPanel_Loading_Text" xml:space="preserve"></v:String>
 
-    <v:String x:Key="Dialog_ResultPanel_Error_Title">Kapalpakan</v:String>
-    <v:String x:Key="Dialog_ResultPanel_Error_Text" xml:space="preserve">:(</v:String>
+    <v:String x:Key="Dialog_ResultPanel_Error_Title"></v:String>
+    <v:String x:Key="Dialog_ResultPanel_Error_Text" xml:space="preserve"></v:String>
 
-    <v:String x:Key="Dialog_NoContentFound_NoMatchingResultsTitle">Walang kinalalabasan</v:String>
-    <v:String x:Key="Dialog_NoContentFound_NoMatchingResultsText" xml:space="preserve">Walang nahanap na bagay na tumutugma sa iyong sinaliksik</v:String>
+    <v:String x:Key="Dialog_NoContentFound_NoMatchingResultsTitle"></v:String>
+    <v:String x:Key="Dialog_NoContentFound_NoMatchingResultsText" xml:space="preserve"></v:String>
 
     <!--#endregion-->
 
     <!--#region Internal -->
 
-    <v:String x:Key="GameManager_RecoveringDataIssue_FileNotExistant_Text">Ang talaksang {0} ay mayroon nang patutunguhan.\nNais mo bang palitan ito? Mawawala ang dating talaksan kung hindi man.</v:String>
-    <v:String x:Key="GameManager_RecoveringDataIssue_NotaDirectory_Text">Ang talaksang {0} ay hindi isang sanggunian. Nais mo bang alisin ito? Ang datos mula sa lumang sanggunian ay mawawala kung hindi man.</v:String>
+    <v:String x:Key="GameManager_RecoveringDataIssue_FileNotExistant_Text"></v:String>
+    <v:String x:Key="GameManager_RecoveringDataIssue_NotaDirectory_Text"></v:String>
 
-    <v:String x:Key="GameManager_RecoveringDataIssue_Title">Pagsalin ng Dati nang Naimpok na Datos sa Pagtalaga</v:String>
+    <v:String x:Key="GameManager_RecoveringDataIssue_Title"></v:String>
 
     <!--#endregion-->
 
@@ -459,62 +456,62 @@ Ang {0} na ito ay mawawala habang-buhay! (Nang mahabang panahon!)</v:String>
 
     <!--#region UI -->
 
-    <v:String x:Key="Installer_Title">Tagakompigura ng Pagsasaayos ng Tagalunsad para sa Minecraft Bedrock</v:String>
+    <v:String x:Key="Installer_Title"></v:String>
 
-    <v:String x:Key="Installer_Back_Text">Bumalik</v:String>
-    <v:String x:Key="Installer_Next_Text">Sunod</v:String>
-    <v:String x:Key="Installer_Cancel_Text">Ipagpaliban</v:String>
-    <v:String x:Key="Installer_Finish_Text">Tapos na</v:String>
+    <v:String x:Key="Installer_Back_Text"></v:String>
+    <v:String x:Key="Installer_Next_Text"></v:String>
+    <v:String x:Key="Installer_Cancel_Text"></v:String>
+    <v:String x:Key="Installer_Finish_Text"></v:String>
 
-    <v:String x:Key="Installer_WelcomePage_Title">Maligayang Pagdating sa Tagakompigura ng Pagsasaayos ng Tagalunsad para sa Minecraft Bedrock</v:String>
-    <v:String x:Key="Installer_WelcomePage_Info_Text">Itatalaga nito ang Tagalunsad para sa Minecraft Bedrock sa iyong kompyuter.</v:String>
-    <v:String x:Key="Installer_WelcomePage_Info2_Text">Iminumungkahi namin na ipinid muna ang lahat ng iba pang mga aplikasyon bago magpatuloy.</v:String>
-    <v:String x:Key="Installer_WelcomePage_Info3_Text">Pindutin ang Sunod upang magpatuloy, o Ipagpaliban upang umalis sa Pagsasaayos.</v:String>
+    <v:String x:Key="Installer_WelcomePage_Title"></v:String>
+    <v:String x:Key="Installer_WelcomePage_Info_Text"></v:String>
+    <v:String x:Key="Installer_WelcomePage_Info2_Text"></v:String>
+    <v:String x:Key="Installer_WelcomePage_Info3_Text"></v:String>
 
-    <v:String x:Key="Installer_LicenseAgreement_Title">Kasunduan sa Lisensiya</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Mangyaring pakibasa ang sumusunod na Kasunduan sa Lisensiya. Dapat mong tanggapin ang mga tuntunin ng</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info2_Text">kasunduang ito bago magpatuloy sa pagtalaga.</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Accept_Text">Tinatanggap ko ang lisensiya.</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">Itinatakwil ko ang lisensiya.</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Title"></v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info_Text"></v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info2_Text"></v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Accept_Text"></v:String>
+    <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text"></v:String>
 
-    <v:String x:Key="Installer_InstallType_Title">Pumili ng Uri ng Pagtalaga</v:String>
-    <v:String x:Key="Installer_InstallType_Info_Text">Pumili kung aling bersiyon ng tagalunsad ang nais mong italaga</v:String>
+    <v:String x:Key="Installer_InstallType_Title"></v:String>
+    <v:String x:Key="Installer_InstallType_Info_Text"></v:String>
 
-    <v:String x:Key="Installer_InstallType_InstallLocation_BetaRadioButton_Text">Bersiyong Beta</v:String>
-    <v:String x:Key="Installer_InstallType_InstallLocation_ReleaseRadioButton_Text">Bersiyong Lathala</v:String>
+    <v:String x:Key="Installer_InstallType_InstallLocation_BetaRadioButton_Text"></v:String>
+    <v:String x:Key="Installer_InstallType_InstallLocation_ReleaseRadioButton_Text"></v:String>
 
-    <v:String x:Key="Installer_InstallLocation_Title">Pumili ng Kinaroroonan ng Pagtalaga</v:String>
-    <v:String x:Key="Installer_InstallLocation_Info_Text">Itatalaga ng pagsasaayos ang Tagalunsad para sa Minecraft Bedrock sa sumusunod na tagatiklop. Upang maitalaga sa ibang tagatiklop,</v:String>
-    <v:String x:Key="Installer_InstallLocation_Info2_Text">pindutin ang Magsaliksik at pumili ng isa pang tagatiklop.</v:String>
+    <v:String x:Key="Installer_InstallLocation_Title"></v:String>
+    <v:String x:Key="Installer_InstallLocation_Info_Text"></v:String>
+    <v:String x:Key="Installer_InstallLocation_Info2_Text"></v:String>
 
-    <v:String x:Key="Installer_InstallLocation_DestinationFolder_Header">Paroroonang Tagatiklop</v:String>
-    <v:String x:Key="Installer_InstallLocation_Browse_Text">MAGSALIKSIK</v:String>
+    <v:String x:Key="Installer_InstallLocation_DestinationFolder_Header"></v:String>
+    <v:String x:Key="Installer_InstallLocation_Browse_Text"></v:String>
 
-    <v:String x:Key="Installer_InstallLocation_CreateDesktopIcon_Text">Lumikha ng larawang panghapag</v:String>
-    <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text">Idagdag sa talaan ng Simula</v:String>
-    <v:String x:Key="Installer_InstallLocation_RegisterApp_Text">Magpatala ng Programa</v:String>
+    <v:String x:Key="Installer_InstallLocation_CreateDesktopIcon_Text"></v:String>
+    <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text"></v:String>
+    <v:String x:Key="Installer_InstallLocation_RegisterApp_Text"></v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text">Simulan ang Programa sa Alis</v:String>
+    <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text"></v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_FilesInUse">Ang ilan sa mga tagatiklop ay kasalukuyang ginagamit ng mga sumusunod:</v:String>
+    <v:String x:Key="Installer_InstallationProgress_FilesInUse"></v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_Title">Nagtatalaga</v:String>
-    <v:String x:Key="Installer_InstallationProgress_Info_Text">Mangyaring maghintay habang nagtatalaga ang Tagalunsad para sa Minecraft Bedrock sa iyong kompyuter.</v:String>
+    <v:String x:Key="Installer_InstallationProgress_Title"></v:String>
+    <v:String x:Key="Installer_InstallationProgress_Info_Text"></v:String>
 
 
     <!--#endregion-->
 
-    <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text">Hindi Mailipat sa Sanggunian</v:String>
-    <v:String x:Key="Installer_Dialog_MovingFileFailed_Text">Hindi Mailipat ang Tagatiklop</v:String>
-    <v:String x:Key="Installer_Dialog_FileLocked_Text">Ang Tagatiklop ay Ginagamit</v:String>
-    <v:String x:Key="Installer_Dialog_TryAgain_Text">Subukan uli?</v:String>
-    <v:String x:Key="Installer_Dialog_ErrorOccured_Text">Isang kapalpakan ang naganap.</v:String>
+    <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text"></v:String>
+    <v:String x:Key="Installer_Dialog_MovingFileFailed_Text"></v:String>
+    <v:String x:Key="Installer_Dialog_FileLocked_Text"></v:String>
+    <v:String x:Key="Installer_Dialog_TryAgain_Text"></v:String>
+    <v:String x:Key="Installer_Dialog_ErrorOccured_Text"></v:String>
 
     <!--#region ProgressBar -->
 
-    <v:String x:Key="Installer_ProgressBar_Downloading">Tinatalaga...</v:String>
-    <v:String x:Key="Installer_ProgressBar_Finalizing">Tinatapos...</v:String>
-    <v:String x:Key="Installer_ProgressBar_Initalizing">Sinisimulan...</v:String>
+    <v:String x:Key="Installer_ProgressBar_Downloading"></v:String>
+    <v:String x:Key="Installer_ProgressBar_Finalizing"></v:String>
+    <v:String x:Key="Installer_ProgressBar_Initalizing"></v:String>
 
 
     <!--#endregion-->
@@ -525,75 +522,75 @@ Ang {0} na ito ay mawawala habang-buhay! (Nang mahabang panahon!)</v:String>
 
     <!--#region VersionEntries -->
 
-    <v:String x:Key="VersionEntries_LatestSnapshot">Kasalukuyang Beta</v:String>
-    <v:String x:Key="VersionEntries_LatestRelease">Pinakabagong Lathala</v:String>
-    <v:String x:Key="VersionEntries_UnnamedInstallation">&lt;walang pangalang pagtatalaga&gt;</v:String>
+    <v:String x:Key="VersionEntries_LatestSnapshot"></v:String>
+    <v:String x:Key="VersionEntries_LatestRelease"></v:String>
+    <v:String x:Key="VersionEntries_UnnamedInstallation"></v:String>
 
     <!--#endregion-->
 
     <!--#region ThemeEntries -->
 
-    <v:String x:Key="ThemeEntries_LatestUpdate">Kasalukuyang Pagbabago</v:String>
-    <v:String x:Key="ThemeEntries_Original">Orihinal</v:String>
+    <v:String x:Key="ThemeEntries_LatestUpdate"></v:String>
+    <v:String x:Key="ThemeEntries_Original"></v:String>
 
-    <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">Yungib &amp; Bangin (Bahagi 1)</v:String>
-    <v:String x:Key="ThemeEntries_NetherUpdate">Pagbabago sa Kasanaan</v:String>
-    <v:String x:Key="ThemeEntries_BuzzyBeesUpdate">Pagbabago sa Bubuyog</v:String>
-    <v:String x:Key="ThemeEntries_VillagePillageUpdate">Pagbabago sa Nayon &amp; Pandarambong</v:String>
-    <v:String x:Key="ThemeEntries_UpdateAquatic">Pagbabago sa Katubigan</v:String>
-    <v:String x:Key="ThemeEntries_TechnicallyUpdated">Pagbabagong Tekniko [Java]</v:String>
-    <v:String x:Key="ThemeEntries_WorldOfColorUpdate">Pagbabago sa Daigdig ng Kulay [Java]</v:String>
-    <v:String x:Key="ThemeEntries_ExplorationUpdate">Pagbabago sa Paglalakbay [Java]</v:String>
-    <v:String x:Key="ThemeEntries_CombatUpdate">Pagbabago sa Labanan [Java]</v:String>
-    <v:String x:Key="ThemeEntries_CatsAndPandasUpdate">Pusa &amp; Osong Intsik [Bedrock]</v:String>
-    <v:String x:Key="ThemeEntries_PocketEditionRelease">Opisyal na Lathala [Bedrock]</v:String>
-    <v:String x:Key="ThemeEntries_BedrockStandard">Pamantayang Bersiyong Bedrock</v:String>
-    <v:String x:Key="ThemeEntries_BedrockMaster">Dalubhasang Bersiyong Bedrock</v:String>
-    <v:String x:Key="ThemeEntries_EarlyLegacyConsole">Orihinal na Kapanahunan ng Pamanang Konsol</v:String>
-    <v:String x:Key="ThemeEntries_MidLegacyConsole">Kalagitnaang Kapanahunan ng Pamanang Konsol</v:String>
-    <v:String x:Key="ThemeEntries_LateLegacyConsole">Huling Kapanahunan ng Pamanang Konsol</v:String>
-    <v:String x:Key="ThemeEntries_IndieDays">Mga Inday na Araw</v:String>
-    <v:String x:Key="ThemeEntries_Dungeons">Minecraft Dungeons</v:String>
+    <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update"></v:String>
+    <v:String x:Key="ThemeEntries_NetherUpdate"></v:String>
+    <v:String x:Key="ThemeEntries_BuzzyBeesUpdate"></v:String>
+    <v:String x:Key="ThemeEntries_VillagePillageUpdate"></v:String>
+    <v:String x:Key="ThemeEntries_UpdateAquatic"></v:String>
+    <v:String x:Key="ThemeEntries_TechnicallyUpdated"></v:String>
+    <v:String x:Key="ThemeEntries_WorldOfColorUpdate"></v:String>
+    <v:String x:Key="ThemeEntries_ExplorationUpdate"></v:String>
+    <v:String x:Key="ThemeEntries_CombatUpdate"></v:String>
+    <v:String x:Key="ThemeEntries_CatsAndPandasUpdate"></v:String>
+    <v:String x:Key="ThemeEntries_PocketEditionRelease"></v:String>
+    <v:String x:Key="ThemeEntries_BedrockStandard"></v:String>
+    <v:String x:Key="ThemeEntries_BedrockMaster"></v:String>
+    <v:String x:Key="ThemeEntries_EarlyLegacyConsole"></v:String>
+    <v:String x:Key="ThemeEntries_MidLegacyConsole"></v:String>
+    <v:String x:Key="ThemeEntries_LateLegacyConsole"></v:String>
+    <v:String x:Key="ThemeEntries_IndieDays"></v:String>
+    <v:String x:Key="ThemeEntries_Dungeons"></v:String>
 
 
     <!--#endregion-->
 
     <!--#region GeneralText -->
 
-    <v:String x:Key="GeneralText_Delete">Alisin</v:String>
-    <v:String x:Key="GeneralText_Edit">Baguhin</v:String>
-    <v:String x:Key="GeneralText_Duplicate">Ipagdalawahin</v:String>
-    <v:String x:Key="GeneralText_Remove">Tanggalin</v:String>
-    <v:String x:Key="GeneralText_Cancel">Ipagpaliban</v:String>
-    <v:String x:Key="GeneralText_Update">Ipagpabago</v:String>
-    <v:String x:Key="GeneralText_Add">Magdagdag</v:String>
-    <v:String x:Key="GeneralText_Save">I-impok</v:String>
-    <v:String x:Key="GeneralText_Refresh">Pasariwain Muli</v:String>
-    <v:String x:Key="GeneralText_Backup">Isipi</v:String>
-    <v:String x:Key="GeneralText_Versions">Mga Bersiyon</v:String>
-    <v:String x:Key="GeneralText_Browse">Magsaliksik</v:String>
-    <v:String x:Key="GeneralText_Reset">Ibalik sa Dati</v:String>
-    <v:String x:Key="GeneralText_Yes">Oo</v:String>
-    <v:String x:Key="GeneralText_No">Hindi</v:String>
-    <v:String x:Key="GeneralText_Releases">Mga Nilathala</v:String>
-    <v:String x:Key="GeneralText_Betas">Beta</v:String>
-    <v:String x:Key="GeneralText_Export">I-luwas</v:String>
-    <v:String x:Key="GeneralText_Repair">Ayusin</v:String>
+    <v:String x:Key="GeneralText_Delete"></v:String>
+    <v:String x:Key="GeneralText_Edit"></v:String>
+    <v:String x:Key="GeneralText_Duplicate"></v:String>
+    <v:String x:Key="GeneralText_Remove"></v:String>
+    <v:String x:Key="GeneralText_Cancel"></v:String>
+    <v:String x:Key="GeneralText_Update"></v:String>
+    <v:String x:Key="GeneralText_Add"></v:String>
+    <v:String x:Key="GeneralText_Save"></v:String>
+    <v:String x:Key="GeneralText_Refresh"></v:String>
+    <v:String x:Key="GeneralText_Backup"></v:String>
+    <v:String x:Key="GeneralText_Versions"></v:String>
+    <v:String x:Key="GeneralText_Browse"></v:String>
+    <v:String x:Key="GeneralText_Reset"></v:String>
+    <v:String x:Key="GeneralText_Yes"></v:String>
+    <v:String x:Key="GeneralText_No"></v:String>
+    <v:String x:Key="GeneralText_Releases"></v:String>
+    <v:String x:Key="GeneralText_Betas"></v:String>
+    <v:String x:Key="GeneralText_Export"></v:String>
+    <v:String x:Key="GeneralText_Repair"></v:String>
 
-    <v:String x:Key="GeneralText_Twitter">Twitter</v:String>
-    <v:String x:Key="GeneralText_GitHub">GitHub</v:String>
-    <v:String x:Key="GeneralText_Website">Pook-Sapot</v:String>
+    <v:String x:Key="GeneralText_Twitter"></v:String>
+    <v:String x:Key="GeneralText_GitHub"></v:String>
+    <v:String x:Key="GeneralText_Website"></v:String>
 
     <!--#endregion-->
 
     <!--#region GeneralSubtitles -->
 
-    <v:String x:Key="GeneralSubtitles_Versions">MGA BERSIYON</v:String>
-    <v:String x:Key="GeneralSubtitles_Browse">MAGSALIKSIK</v:String>
-    <v:String x:Key="GeneralSubtitles_Reset">IBALIK SA DATI</v:String>
-    <v:String x:Key="GeneralSubtitles_Categories">MGA KATEGORYA</v:String>
-    <v:String x:Key="GeneralSubtitles_Search">MAGHANAP</v:String>
-    <v:String x:Key="GeneralSubtitles_SortBy">IBUKOD</v:String>
+    <v:String x:Key="GeneralSubtitles_Versions"></v:String>
+    <v:String x:Key="GeneralSubtitles_Browse"></v:String>
+    <v:String x:Key="GeneralSubtitles_Reset"></v:String>
+    <v:String x:Key="GeneralSubtitles_Categories"></v:String>
+    <v:String x:Key="GeneralSubtitles_Search"></v:String>
+    <v:String x:Key="GeneralSubtitles_SortBy"></v:String>
 
     <!--#endregion-->
 

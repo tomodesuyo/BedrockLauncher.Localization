@@ -171,17 +171,17 @@
 
     <v:String x:Key="EditSkinPackScreen_DefinitionsSubtitle">AUTRES DÉFINITIONS</v:String>
     <v:String x:Key="EditSkinPackScreen_ContentSubtitle">CONTENU</v:String>
-    <v:String x:Key="EditSkinPackScreen_ModulesSubtitle">MODULES</v:String>
+    <v:String x:Key="EditSkinPackScreen_ModulesSubtitle"></v:String>
 
     <v:String x:Key="EditSkinPackScreen_FormatVersionSubtitle">VERSION DU FORMAT</v:String>
 
     <v:String x:Key="EditSkinPackScreen_HeaderNameSubtitle">NOM DU PACK</v:String>
-    <v:String x:Key="EditSkinPackScreen_HeaderUUIDSubtitle">UUID</v:String>
-    <v:String x:Key="EditSkinPackScreen_HeaderVersionSubtitle">VERSION</v:String>
+    <v:String x:Key="EditSkinPackScreen_HeaderUUIDSubtitle"></v:String>
+    <v:String x:Key="EditSkinPackScreen_HeaderVersionSubtitle"></v:String>
 
-    <v:String x:Key="EditSkinPackScreen_ModulesTypeSubtitle">TYPE</v:String>
-    <v:String x:Key="EditSkinPackScreen_ModulesUUIDSubtitle">UUID</v:String>
-    <v:String x:Key="EditSkinPackScreen_ModulesVersionSubtitle">VERSION</v:String>
+    <v:String x:Key="EditSkinPackScreen_ModulesTypeSubtitle"></v:String>
+    <v:String x:Key="EditSkinPackScreen_ModulesUUIDSubtitle"></v:String>
+    <v:String x:Key="EditSkinPackScreen_ModulesVersionSubtitle"></v:String>
 
     <v:String x:Key="EditSkinPackScreen_Header">Modifier le pack de skin</v:String>
     <v:String x:Key="EditSkinPackScreen_AddHeader">Ajouter un pack de skin</v:String>
@@ -207,15 +207,15 @@
 
     <!--#region NewsScreenPage -->
 
-    <v:String x:Key="NewsScreen_LauncherTabTitle">Launcher</v:String>
+    <v:String x:Key="NewsScreen_LauncherTabTitle"></v:String>
     <v:String x:Key="NewsScreen_OfficialTabTitle">Officiel</v:String>
     <v:String x:Key="NewsScreen_MinecraftForumsTitle">Forums Minecraft</v:String>
-    <v:String x:Key="NewsScreen_JavaNDungeonsTabTitle">Java / Dungeons</v:String>
+    <v:String x:Key="NewsScreen_JavaNDungeonsTabTitle"></v:String>
 
     <v:String x:Key="NewsScreen_SearchBar_Content">Titre de l'actualit</v:String>
 
     <v:String x:Key="NewsScreen_JavaNDungeons_JavaCheckbox">Minecraft : Version Java</v:String>
-    <v:String x:Key="NewsScreen_JavaNDungeons_DungeonsCheckbox">Minecraft Dungeons</v:String>
+    <v:String x:Key="NewsScreen_JavaNDungeons_DungeonsCheckbox"></v:String>
     <v:String x:Key="NewsScreen_JavaNDungeons_BedrockCheckbox">Minecraft pour Windows</v:String>
 
     <!--#endregion-->
@@ -230,7 +230,7 @@
     <v:String x:Key="SettingsTab_GeneralButton">Général</v:String>
     <v:String x:Key="SettingsTab_AccountsButton">Comptes</v:String>
     <v:String x:Key="SettingsTab_AboutButton">À propos</v:String>
-    <v:String x:Key="SettingsTab_VersionsButton">Versions</v:String>
+    <v:String x:Key="SettingsTab_VersionsButton"></v:String>
 
     <!--#endregion-->
 
@@ -269,7 +269,7 @@
     <v:String x:Key="GeneralSettingsScreen_ExternalLauncherSubtitle">PARAMÈTRES DU LAUNCHER EXTERNE</v:String>
     <v:String x:Key="GeneralSettingsScreen_ExternalLauncherNameSubtitle">CHEMIN D'ACCÈS</v:String>
     <v:String x:Key="GeneralSettingsScreen_ExternalLauncherPathSubtitle">NOM</v:String>
-    <v:String x:Key="GeneralSettingsScreen_ExternalLauncherArgumentsSubtitle">ARGUMENTS</v:String>
+    <v:String x:Key="GeneralSettingsScreen_ExternalLauncherArgumentsSubtitle"></v:String>
     <v:String x:Key="GeneralSettingsScreen_ExternalLauncherIconSubtitle">ICÔNE</v:String>
 
     <!--#endregion-->
@@ -290,7 +290,7 @@
     <v:String x:Key="AboutPage_Title">À PROPOS DU LAUNCHER MINECRAFT : VERSION BEDROCK</v:String>
     <v:String x:Key="AboutPage_DevelopedBy_Text">DÉVELOPPÉ PAR</v:String>
     <v:String x:Key="AboutPage_OriginallyDevelopedBy_Text">A VUE LE JOUR GRÂCE AU TRAVAIL DE</v:String>
-    <v:String x:Key="AboutPage_SpecialThanks_Text">REMERCIEMENTS SPÉCIAUX </v:String>
+    <v:String x:Key="AboutPage_SpecialThanks_Text">REMERCIEMENTS SPÉCIAUX</v:String>
 
     <v:String x:Key="AboutPage_McMrArm_Text">Pour avoir créer le téléchargeur original de la version Minecraft Windows 10 (dont ce travail est dérivé)</v:String>
     <v:String x:Key="AboutPage_BsCommunity_Text">Pour leurs travail sur SkinView3D, qui est utilisé pour la fonctionnalité de visualisation du skin dans le launcher</v:String>
@@ -410,8 +410,8 @@
 
     <v:String x:Key="Dialog_Item_Installation_Text">configuration</v:String>
     <v:String x:Key="Dialog_Item_SkinPack_Text">pack de skins</v:String>
-    <v:String x:Key="Dialog_Item_Skin_Text">skin</v:String>
-    <v:String x:Key="Dialog_Item_Version_Text">version</v:String>
+    <v:String x:Key="Dialog_Item_Skin_Text"></v:String>
+    <v:String x:Key="Dialog_Item_Version_Text"></v:String>
     <v:String x:Key="Dialog_Item_Profile_Text">profil</v:String>
 
     <v:String x:Key="Dialog_DeleteItem_Title">Supprimer {0} fichier(s) définitivement</v:String>
@@ -436,7 +436,7 @@ désactivés, réactivez les et retentez votre recherche</v:String>
     <v:String x:Key="Dialog_ResultPanel_Loading_Text" xml:space="preserve">Veuillez patienter</v:String>
 
     <v:String x:Key="Dialog_ResultPanel_Error_Title">Erreur</v:String>
-    <v:String x:Key="Dialog_ResultPanel_Error_Text" xml:space="preserve">:(</v:String>
+    <v:String x:Key="Dialog_ResultPanel_Error_Text" xml:space="preserve"></v:String>
 
     <v:String x:Key="Dialog_NoContentFound_NoMatchingResultsTitle">Aucun résultat</v:String>
     <v:String x:Key="Dialog_NoContentFound_NoMatchingResultsText" xml:space="preserve">Aucun article correspondant à votre recherche n'a été trouv</v:String>
@@ -550,11 +550,11 @@ du Minecraft Bedrock Launcher</v:String>
     <v:String x:Key="ThemeEntries_PocketEditionRelease">Version officielle [Bedrock]</v:String>
     <v:String x:Key="ThemeEntries_BedrockStandard">Version Bedrock Standard</v:String>
     <v:String x:Key="ThemeEntries_BedrockMaster">Version Bedrock Master</v:String>
-    <v:String x:Key="ThemeEntries_EarlyLegacyConsole">Original Legacy Console Era</v:String>
-    <v:String x:Key="ThemeEntries_MidLegacyConsole">Mid Legacy Console Era</v:String>
-    <v:String x:Key="ThemeEntries_LateLegacyConsole">Late Legacy Console Era</v:String>
+    <v:String x:Key="ThemeEntries_EarlyLegacyConsole"></v:String>
+    <v:String x:Key="ThemeEntries_MidLegacyConsole"></v:String>
+    <v:String x:Key="ThemeEntries_LateLegacyConsole"></v:String>
     <v:String x:Key="ThemeEntries_IndieDays">Jour de l'indépendance</v:String>
-    <v:String x:Key="ThemeEntries_Dungeons">Minecraft Dungeons</v:String>
+    <v:String x:Key="ThemeEntries_Dungeons"></v:String>
 
 
     <!--#endregion-->
@@ -571,9 +571,9 @@ du Minecraft Bedrock Launcher</v:String>
     <v:String x:Key="GeneralText_Save">Enregistrer</v:String>
     <v:String x:Key="GeneralText_Refresh">Actualiser</v:String>
     <v:String x:Key="GeneralText_Backup">Sauvegarder</v:String>
-    <v:String x:Key="GeneralText_Versions">Versions</v:String>
+    <v:String x:Key="GeneralText_Versions"></v:String>
     <v:String x:Key="GeneralText_Browse">Parcourir</v:String>
-    <v:String x:Key="GeneralText_Reset">Reset</v:String>
+    <v:String x:Key="GeneralText_Reset"></v:String>
     <v:String x:Key="GeneralText_Yes">Oui</v:String>
     <v:String x:Key="GeneralText_No">Non</v:String>
     <v:String x:Key="GeneralText_Releases">Officielles</v:String>
@@ -581,17 +581,17 @@ du Minecraft Bedrock Launcher</v:String>
     <v:String x:Key="GeneralText_Export">Exporter</v:String>
     <v:String x:Key="GeneralText_Repair">Réparer</v:String>
 
-    <v:String x:Key="GeneralText_Twitter">Twitter</v:String>
-    <v:String x:Key="GeneralText_GitHub">GitHub</v:String>
+    <v:String x:Key="GeneralText_Twitter"></v:String>
+    <v:String x:Key="GeneralText_GitHub"></v:String>
     <v:String x:Key="GeneralText_Website">Site Web</v:String>
 
     <!--#endregion-->
 
     <!--#region GeneralSubtitles -->
 
-    <v:String x:Key="GeneralSubtitles_Versions">VERSIONS</v:String>
+    <v:String x:Key="GeneralSubtitles_Versions"></v:String>
     <v:String x:Key="GeneralSubtitles_Browse">PARCOURIR</v:String>
-    <v:String x:Key="GeneralSubtitles_Reset">RESET</v:String>
+    <v:String x:Key="GeneralSubtitles_Reset"></v:String>
     <v:String x:Key="GeneralSubtitles_Categories">CATÉGORIES</v:String>
     <v:String x:Key="GeneralSubtitles_Search">RECHERCHER</v:String>
     <v:String x:Key="GeneralSubtitles_SortBy">TRIER PAR</v:String>

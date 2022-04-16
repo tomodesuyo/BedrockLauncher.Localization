@@ -24,7 +24,7 @@
     <v:String x:Key="ToolbarButtons_NewsButton_Text">Noticias</v:String>
     <v:String x:Key="ToolbarButtons_MinecraftEdition_Text">Edición Bedrock</v:String>
     <v:String x:Key="ToolbarButtons_MinecraftJavaEdition_Text">Edición Java</v:String>
-    <v:String x:Key="ToolbarButtons_MinecraftJavaLauncher_Text">Java Launcher</v:String>
+    <v:String x:Key="ToolbarButtons_MinecraftJavaLauncher_Text">Lanzador de Java</v:String>
     <v:String x:Key="ToolbarButtons_CustomLauncher_Text">Launcher personalizado</v:String>
     <v:String x:Key="ToolbarButtons_SwitchEdition_Text">Cambiar a</v:String>
     <v:String x:Key="ToolbarButtons_Minecraft_Text">MINECRAFT:</v:String>
@@ -95,7 +95,7 @@
     <v:String x:Key="GameTab_PlayButton_Text">Jugar</v:String>
     <v:String x:Key="GameTab_PlayButton_Kill_Text">Terminar proceso</v:String>
     <v:String x:Key="GameTab_InstallationsButton_Text">Instalaciones</v:String>
-    <v:String x:Key="GameTab_SkinsButton_Text">Skins</v:String>
+    <v:String x:Key="GameTab_SkinsButton_Text">Aspectos</v:String>
     <v:String x:Key="GameTab_PatchNotesButton_Text">Notas del parche</v:String>
 
     <!--#endregion-->
@@ -207,7 +207,7 @@
 
     <!--#region NewsScreenPage -->
 
-    <v:String x:Key="NewsScreen_LauncherTabTitle">Launcher</v:String>
+    <v:String x:Key="NewsScreen_LauncherTabTitle">Lanzador</v:String>
     <v:String x:Key="NewsScreen_OfficialTabTitle">Oficial</v:String>
     <v:String x:Key="NewsScreen_MinecraftForumsTitle">Foros de Minecraft</v:String>
     <v:String x:Key="NewsScreen_JavaNDungeonsTabTitle">Java / Dungeons</v:String>
@@ -227,7 +227,7 @@
     <!--#region SettingsTab -->
 
     <v:String x:Key="SettingsTab_Title">AJUSTES</v:String>
-    <v:String x:Key="SettingsTab_GeneralButton">General</v:String>
+    <v:String x:Key="SettingsTab_GeneralButton"></v:String>
     <v:String x:Key="SettingsTab_AccountsButton">Cuentas</v:String>
     <v:String x:Key="SettingsTab_AboutButton">Acerca de</v:String>
     <v:String x:Key="SettingsTab_VersionsButton">Versiones</v:String>
@@ -348,7 +348,7 @@
 
     <!--#region ErrorScreen -->
 
-    <v:String x:Key="ErrorScreen_Title">ERROR</v:String>
+    <v:String x:Key="ErrorScreen_Title"></v:String>
     <v:String x:Key="ErrorScreen_SubTitle">El launcher se ha cerrado debido a un error</v:String>
     <v:String x:Key="ErrorScreen_DefaultErrorMessage">Ha ocurrido un problema inesperado y el lanzador se ha cerrado. Sentimos las molestias.</v:String>
     <v:String x:Key="ErrorScreen_CloseButton">Cerrar</v:String>
@@ -427,7 +427,7 @@
     <v:String x:Key="DialogBtn_YesToAll_Text">Si a todo</v:String>
     <v:String x:Key="DialogBtn_NoToAll_Text">No a todo</v:String>
     <v:String x:Key="DialogBtn_Yes_Text">Si</v:String>
-    <v:String x:Key="DialogBtn_No_Text">No</v:String>
+    <v:String x:Key="DialogBtn_No_Text"></v:String>
 
     <v:String x:Key="Dialog_NoNewsContentFound_NoMatchingResultsTitle">No se encontraron resultados</v:String>
     <v:String x:Key="Dialog_NoNewsContentFound_NoMatchingResultsText" xml:space="preserve">No hemos podido encontrar ningún contenido que coincida con su búsqueda. Si tienes los filtros de categoría desactivados, intente activarlos y busque de nuevo</v:String>
@@ -435,8 +435,8 @@
     <v:String x:Key="Dialog_ResultPanel_Loading_Title">Cargando...</v:String>
     <v:String x:Key="Dialog_ResultPanel_Loading_Text" xml:space="preserve">Por favor, espere</v:String>
 
-    <v:String x:Key="Dialog_ResultPanel_Error_Title">Error</v:String>
-    <v:String x:Key="Dialog_ResultPanel_Error_Text" xml:space="preserve">:(</v:String>
+    <v:String x:Key="Dialog_ResultPanel_Error_Title"></v:String>
+    <v:String x:Key="Dialog_ResultPanel_Error_Text" xml:space="preserve"></v:String>
 
     <v:String x:Key="Dialog_NoContentFound_NoMatchingResultsTitle">Ningún resultado</v:String>
     <v:String x:Key="Dialog_NoContentFound_NoMatchingResultsText" xml:space="preserve">No se han encontrado artículos que coincidan con su búsqueda</v:String>
@@ -534,7 +534,7 @@
     <!--#region ThemeEntries -->
 
     <v:String x:Key="ThemeEntries_LatestUpdate">Última actualización</v:String>
-    <v:String x:Key="ThemeEntries_Original">Original</v:String>
+    <v:String x:Key="ThemeEntries_Original"></v:String>
 
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">Caves &amp; Cliffs (Parte 1)</v:String>
     <v:String x:Key="ThemeEntries_NetherUpdate">Actualización del Nether</v:String>
@@ -549,11 +549,11 @@
     <v:String x:Key="ThemeEntries_PocketEditionRelease">Lanzamiento oficial [Bedrock]</v:String>
     <v:String x:Key="ThemeEntries_BedrockStandard">Edición Bedrock Standard</v:String>
     <v:String x:Key="ThemeEntries_BedrockMaster">Edición Bedrock Master</v:String>
-    <v:String x:Key="ThemeEntries_EarlyLegacyConsole">Original Legacy Console Era</v:String>
-    <v:String x:Key="ThemeEntries_MidLegacyConsole">Mid Legacy Console Era</v:String>
-    <v:String x:Key="ThemeEntries_LateLegacyConsole">Late Legacy Console Era</v:String>
+    <v:String x:Key="ThemeEntries_EarlyLegacyConsole"></v:String>
+    <v:String x:Key="ThemeEntries_MidLegacyConsole"></v:String>
+    <v:String x:Key="ThemeEntries_LateLegacyConsole"></v:String>
     <v:String x:Key="ThemeEntries_IndieDays">Días Indie</v:String>
-    <v:String x:Key="ThemeEntries_Dungeons">Minecraft Dungeons</v:String>
+    <v:String x:Key="ThemeEntries_Dungeons"></v:String>
 
 
     <!--#endregion-->
@@ -574,14 +574,14 @@
     <v:String x:Key="GeneralText_Browse">Navegar</v:String>
     <v:String x:Key="GeneralText_Reset">Reiniciar</v:String>
     <v:String x:Key="GeneralText_Yes">Si</v:String>
-    <v:String x:Key="GeneralText_No">No</v:String>
+    <v:String x:Key="GeneralText_No"></v:String>
     <v:String x:Key="GeneralText_Releases">Lanzamientos</v:String>
-    <v:String x:Key="GeneralText_Betas">Betas</v:String>
+    <v:String x:Key="GeneralText_Betas"></v:String>
     <v:String x:Key="GeneralText_Export">Exportar</v:String>
     <v:String x:Key="GeneralText_Repair">Reparar</v:String>
 
-    <v:String x:Key="GeneralText_Twitter">Twitter</v:String>
-    <v:String x:Key="GeneralText_GitHub">GitHub</v:String>
+    <v:String x:Key="GeneralText_Twitter"></v:String>
+    <v:String x:Key="GeneralText_GitHub"></v:String>
     <v:String x:Key="GeneralText_Website">Sitio Web</v:String>
 
     <!--#endregion-->

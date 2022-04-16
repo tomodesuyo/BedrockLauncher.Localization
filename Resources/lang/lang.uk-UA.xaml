@@ -80,8 +80,8 @@
     <v:String x:Key="Dungeons_InstallationPage_GeneralTab">Загальне</v:String>
     <v:String x:Key="Dungeons_InstallationPage_InstallStorePatch">Встановити Store Patch</v:String>
     <v:String x:Key="Dungeons_InstallationPage_UpdateStorePatch">Оновити Store Patch</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_RemoveModManager">Uninstall Symbolic Link</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_InstallModManager">Install  Symbolic Link</v:String>
+    <v:String x:Key="Dungeons_InstallationPage_RemoveModManager">Видалити символічне посилання</v:String>
+    <v:String x:Key="Dungeons_InstallationPage_InstallModManager">Встановити символічне посилання</v:String>
     <v:String x:Key="Dungeons_InstallationPage_RepairOrUpdateGame">Виправити/Оновити гру</v:String>
 
 
@@ -331,124 +331,123 @@
 (Не хвилюйтеся, ви не втратите свої дані, якщо зробите резервну копію перед тим, як натиснути грати)</v:String>
 
     <v:String x:Key="FirstLaunch_InstallType_Header">Зберегти/Завантажити дані лаунчера з:</v:String>
-    <v:String x:Key="FirstLaunch_FixedInstall_Checkbox">Постійна (рекомендується)</v:String>
-    <v:String x:Key="FirstLaunch_PortableInstall_Checkbox">Портативна/Коренева тека</v:String>
-    <v:String x:Key="FirstLaunch_BackupCheckBox_Text">Створити резервну копію наявних даних</v:String>
-    <v:String x:Key="FirstLaunch_BackupCheckBox_Subtext">(РЕКОМЕНДОВАНО)</v:String>
-    <v:String x:Key="FirstLaunch_CloseButton">Закрити</v:String>
-    <v:String x:Key="FirstLaunch_BackButton">Назад</v:String>
+    <v:String x:Key="FirstLaunch_FixedInstall_Checkbox"></v:String>
+    <v:String x:Key="FirstLaunch_PortableInstall_Checkbox"></v:String>
+    <v:String x:Key="FirstLaunch_BackupCheckBox_Text"></v:String>
+    <v:String x:Key="FirstLaunch_BackupCheckBox_Subtext"></v:String>
+    <v:String x:Key="FirstLaunch_CloseButton"></v:String>
+    <v:String x:Key="FirstLaunch_BackButton"></v:String>
     <v:String x:Key="FirstLaunch_GoBackButton"></v:String>
-    <v:String x:Key="FirstLaunch_CreateProfileText">ПРОФІЛЬ</v:String>
-    <v:String x:Key="FirstLaunch_CreateProfileButton">Створити</v:String>
-    <v:String x:Key="FirstLaunch_NextButton">Далі</v:String>
-    <v:String x:Key="FirstLaunch_DownloadButton">Завантажити</v:String>
-    <v:String x:Key="FirstLaunch_FinishButton">Завершити</v:String>
+    <v:String x:Key="FirstLaunch_CreateProfileText"></v:String>
+    <v:String x:Key="FirstLaunch_CreateProfileButton"></v:String>
+    <v:String x:Key="FirstLaunch_NextButton"></v:String>
+    <v:String x:Key="FirstLaunch_DownloadButton"></v:String>
+    <v:String x:Key="FirstLaunch_FinishButton"></v:String>
 
     <!--#endregion-->
 
     <!--#region ErrorScreen -->
 
-    <v:String x:Key="ErrorScreen_Title">ПОМИЛКА</v:String>
-    <v:String x:Key="ErrorScreen_SubTitle">Лаунчер припинив роботу</v:String>
-    <v:String x:Key="ErrorScreen_DefaultErrorMessage">Лаунчер припинив роботу через несподівану помилку. Просимо вибачення за незручності.</v:String>
-    <v:String x:Key="ErrorScreen_CloseButton">Закрити</v:String>
-    <v:String x:Key="ErrorScreen_ViewCrash">Переглянути звіт про помилку</v:String>
+    <v:String x:Key="ErrorScreen_Title"></v:String>
+    <v:String x:Key="ErrorScreen_SubTitle"></v:String>
+    <v:String x:Key="ErrorScreen_DefaultErrorMessage"></v:String>
+    <v:String x:Key="ErrorScreen_CloseButton"></v:String>
+    <v:String x:Key="ErrorScreen_ViewCrash"></v:String>
 
     <!--#endregion-->
 
     <!--#region Errors -->
 
-    <v:String x:Key="Error_AuthenticationFailed_Title">Автентифікація не пройдена</v:String>
-    <v:String x:Key="Error_AuthenticationFailed">Не вдалося здійснити автентифікацію. Переконайтеся, що ваш обліковий є у програмі бета-тестування.</v:String>
+    <v:String x:Key="Error_AuthenticationFailed_Title"></v:String>
+    <v:String x:Key="Error_AuthenticationFailed"></v:String>
 
-    <v:String x:Key="Error_CantFindExternalLauncher_Title">Не вдалося змінити лаунчер</v:String>
-    <v:String x:Key="Error_CantFindExternalLauncher">Не вдалося змінити лаунчер. Переконайтеся, що шлях до лаунчера встановлений правильно.</v:String>
+    <v:String x:Key="Error_CantFindExternalLauncher_Title"></v:String>
+    <v:String x:Key="Error_CantFindExternalLauncher"></v:String>
 
-    <v:String x:Key="Error_CantFindJavaLauncher_Title">Не вдалося змінити лаунчер</v:String>
-    <v:String x:Key="Error_CantFindJavaLauncher">Не вдалося знайти лаунчер. Переконайся, що ви встановили ориґінальний Minecraft Launcher з Minecraft.net.</v:String>
+    <v:String x:Key="Error_CantFindJavaLauncher_Title"></v:String>
+    <v:String x:Key="Error_CantFindJavaLauncher"></v:String>
 
-    <v:String x:Key="Error_AppReregisterFailed_Title">Реєстрація додатку невдала</v:String>
-    <v:String x:Key="Error_AppReregisterFailed">Будь ласка, спробуйте знову :(</v:String>
+    <v:String x:Key="Error_AppReregisterFailed_Title"></v:String>
+    <v:String x:Key="Error_AppReregisterFailed"></v:String>
 
-    <v:String x:Key="Error_AppDeregisteringFailed_Title">Переєстрація додатку невдала</v:String>
-    <v:String x:Key="Error_AppDeregisteringFailed">Будь ласка, спробуйте знову :(</v:String>
+    <v:String x:Key="Error_AppDeregisteringFailed_Title"></v:String>
+    <v:String x:Key="Error_AppDeregisteringFailed"></v:String>
 
-    <v:String x:Key="Error_AppLaunchFailed_Title">Не вдалося запустити</v:String>
-    <v:String x:Key="Error_AppLaunchFailed">Будь ласка, спробуйте знову :(</v:String>
+    <v:String x:Key="Error_AppLaunchFailed_Title"></v:String>
+    <v:String x:Key="Error_AppLaunchFailed"></v:String>
 
-    <v:String x:Key="Error_AppDownloadFailed_Title">Завантаження не вдалося</v:String>
-    <v:String x:Key="Error_AppDownloadFailed">Будь ласка, спробуйте знову :(</v:String>
+    <v:String x:Key="Error_AppDownloadFailed_Title"></v:String>
+    <v:String x:Key="Error_AppDownloadFailed"></v:String>
 
-    <v:String x:Key="Error_SaveDirectoryRedirectionFailed_Title">Не вдалося зберегти перенаправлення</v:String>
-    <v:String x:Key="Error_SaveDirectoryRedirectionFailed">Будь ласка, спробуйте знову :(</v:String>
+    <v:String x:Key="Error_SaveDirectoryRedirectionFailed_Title"></v:String>
+    <v:String x:Key="Error_SaveDirectoryRedirectionFailed"></v:String>
 
-    <v:String x:Key="Error_AppUninstallFailed_Title">Не вдалося видалити</v:String>
-    <v:String x:Key="Error_AppUninstallFailed">Будь ласка, спробуйте знову :(</v:String>
+    <v:String x:Key="Error_AppUninstallFailed_Title"></v:String>
+    <v:String x:Key="Error_AppUninstallFailed"></v:String>
 
-    <v:String x:Key="Error_AppExtractionFailed_Title">Видобування не вдалося</v:String>
-    <v:String x:Key="Error_AppExtractionFailed">Будь ласка, спробуйте знову :(</v:String>
+    <v:String x:Key="Error_AppExtractionFailed_Title"></v:String>
+    <v:String x:Key="Error_AppExtractionFailed"></v:String>
 
-    <v:String x:Key="Error_CantFindPaidServerList_Title">Не вдалося відкрити список серверів</v:String>
-    <v:String x:Key="Error_CantFindPaidServerList">Список платних серверів не знайдено.</v:String>
+    <v:String x:Key="Error_CantFindPaidServerList_Title"></v:String>
+    <v:String x:Key="Error_CantFindPaidServerList"></v:String>
 
-    <v:String x:Key="Error_NotaSkinPack_Title">Не вдалося імпортувати пакет скінів</v:String>
-    <v:String x:Key="Error_NotaSkinPack">Дурнику, це не пакет скінів!</v:String>
+    <v:String x:Key="Error_NotaSkinPack_Title"></v:String>
+    <v:String x:Key="Error_NotaSkinPack"></v:String>
 
     <!--#endregion-->
 
     <!--#region NewProfile -->
 
     <v:String x:Key="NewProfile_GoBackButton"></v:String>
-    <v:String x:Key="NewProfile_CreateProfileText">ПРОФІЛЬ</v:String>
-    <v:String x:Key="NewProfile_CreateProfileText_Error">ЦЯ НАЗВА ВЖЕ ВИКОРИСТОВУЄТЬСЯ</v:String>
-    <v:String x:Key="NewProfile_CreateProfileSubTitle">Введіть назву нового профілю!</v:String>
-    <v:String x:Key="NewProfile_CreateProfileButton">Створити</v:String>
+    <v:String x:Key="NewProfile_CreateProfileText"></v:String>
+    <v:String x:Key="NewProfile_CreateProfileText_Error"></v:String>
+    <v:String x:Key="NewProfile_CreateProfileSubTitle"></v:String>
+    <v:String x:Key="NewProfile_CreateProfileButton"></v:String>
 
     <!--#endregion-->
 
     <!--#region Dialog -->
 
-    <v:String x:Key="Dialog_Item_Installation_Text">інсталяція</v:String>
-    <v:String x:Key="Dialog_Item_SkinPack_Text">пакет скінів</v:String>
-    <v:String x:Key="Dialog_Item_Skin_Text">скін</v:String>
-    <v:String x:Key="Dialog_Item_Version_Text">версія</v:String>
-    <v:String x:Key="Dialog_Item_Profile_Text">профіль</v:String>
+    <v:String x:Key="Dialog_Item_Installation_Text"></v:String>
+    <v:String x:Key="Dialog_Item_SkinPack_Text"></v:String>
+    <v:String x:Key="Dialog_Item_Skin_Text"></v:String>
+    <v:String x:Key="Dialog_Item_Version_Text"></v:String>
+    <v:String x:Key="Dialog_Item_Profile_Text"></v:String>
 
-    <v:String x:Key="Dialog_DeleteItem_Title">Видалити {0} назавжди</v:String>
-    <v:String x:Key="Dialog_DeleteItem_Text" xml:space="preserve">Ви дійсно хочете видалити &quot;{1}&quot;?
-Ця {0} буде повністю видалена з твого пристрою! (назавжди!)</v:String>
+    <v:String x:Key="Dialog_DeleteItem_Title"></v:String>
+    <v:String x:Key="Dialog_DeleteItem_Text" xml:space="preserve"></v:String>
 
-    <v:String x:Key="Dialog_KillGame_Title">Завершити гру</v:String>
-    <v:String x:Key="Dialog_KillGame_Text">Це небезпечно і рекомендується, тільки в тому випадку, якщо гра зависла. Все ще хочете закрити гру?</v:String>
+    <v:String x:Key="Dialog_KillGame_Title"></v:String>
+    <v:String x:Key="Dialog_KillGame_Text"></v:String>
 
-    <v:String x:Key="Dialog_CloseGame_Title">Гра досі запущена</v:String>
-    <v:String x:Key="Dialog_CloseGame_Text">Хочете примусово закрити її? (без збереження прогресу, рекомендується лише у тому випадку, якщо гра зависла, будь ласка закрийте гру нормально)</v:String>
+    <v:String x:Key="Dialog_CloseGame_Title"></v:String>
+    <v:String x:Key="Dialog_CloseGame_Text"></v:String>
 
-    <v:String x:Key="DialogBtn_YesToAll_Text">Так для всіх</v:String>
-    <v:String x:Key="DialogBtn_NoToAll_Text">Ні для всіх</v:String>
-    <v:String x:Key="DialogBtn_Yes_Text">Так</v:String>
-    <v:String x:Key="DialogBtn_No_Text">Ні</v:String>
+    <v:String x:Key="DialogBtn_YesToAll_Text"></v:String>
+    <v:String x:Key="DialogBtn_NoToAll_Text"></v:String>
+    <v:String x:Key="DialogBtn_Yes_Text"></v:String>
+    <v:String x:Key="DialogBtn_No_Text"></v:String>
 
-    <v:String x:Key="Dialog_NoNewsContentFound_NoMatchingResultsTitle">Немає відповідних результатів</v:String>
-    <v:String x:Key="Dialog_NoNewsContentFound_NoMatchingResultsText" xml:space="preserve">Результати по вашому запиту не знайдені. Якщо у вас вимкнені фільтри, вимкніть їх і спробуйте знову</v:String>
+    <v:String x:Key="Dialog_NoNewsContentFound_NoMatchingResultsTitle"></v:String>
+    <v:String x:Key="Dialog_NoNewsContentFound_NoMatchingResultsText" xml:space="preserve"></v:String>
 
-    <v:String x:Key="Dialog_ResultPanel_Loading_Title">Завантаження...</v:String>
-    <v:String x:Key="Dialog_ResultPanel_Loading_Text" xml:space="preserve">Будь ласка, зачекайте!</v:String>
+    <v:String x:Key="Dialog_ResultPanel_Loading_Title"></v:String>
+    <v:String x:Key="Dialog_ResultPanel_Loading_Text" xml:space="preserve"></v:String>
 
-    <v:String x:Key="Dialog_ResultPanel_Error_Title">Помилка</v:String>
-    <v:String x:Key="Dialog_ResultPanel_Error_Text" xml:space="preserve">:(</v:String>
+    <v:String x:Key="Dialog_ResultPanel_Error_Title"></v:String>
+    <v:String x:Key="Dialog_ResultPanel_Error_Text" xml:space="preserve"></v:String>
 
-    <v:String x:Key="Dialog_NoContentFound_NoMatchingResultsTitle">Результати відсутні</v:String>
-    <v:String x:Key="Dialog_NoContentFound_NoMatchingResultsText" xml:space="preserve">По вашому запиту нічого не знайдено</v:String>
+    <v:String x:Key="Dialog_NoContentFound_NoMatchingResultsTitle"></v:String>
+    <v:String x:Key="Dialog_NoContentFound_NoMatchingResultsText" xml:space="preserve"></v:String>
 
     <!--#endregion-->
 
     <!--#region Internal -->
 
-    <v:String x:Key="GameManager_RecoveringDataIssue_FileNotExistant_Text">Файл {0} вже існує.\nХочете перезаписати його? Тоді старий файл буде втрачено.</v:String>
-    <v:String x:Key="GameManager_RecoveringDataIssue_NotaDirectory_Text">Файл {0} не є текою. Хочете вилучити його? Тоді дані зі старої теки будуть втрачені.</v:String>
+    <v:String x:Key="GameManager_RecoveringDataIssue_FileNotExistant_Text"></v:String>
+    <v:String x:Key="GameManager_RecoveringDataIssue_NotaDirectory_Text"></v:String>
 
-    <v:String x:Key="GameManager_RecoveringDataIssue_Title">Перетворення наявних даних у інсталяцію</v:String>
+    <v:String x:Key="GameManager_RecoveringDataIssue_Title"></v:String>
 
     <!--#endregion-->
 
@@ -459,62 +458,62 @@
 
     <!--#region UI -->
 
-    <v:String x:Key="Installer_Title">Програма встановлення лаунчера Minecraft Bedrock</v:String>
+    <v:String x:Key="Installer_Title"></v:String>
 
-    <v:String x:Key="Installer_Back_Text">Назад</v:String>
-    <v:String x:Key="Installer_Next_Text">Далі</v:String>
-    <v:String x:Key="Installer_Cancel_Text">Скасувати</v:String>
-    <v:String x:Key="Installer_Finish_Text">Завершити</v:String>
+    <v:String x:Key="Installer_Back_Text"></v:String>
+    <v:String x:Key="Installer_Next_Text"></v:String>
+    <v:String x:Key="Installer_Cancel_Text"></v:String>
+    <v:String x:Key="Installer_Finish_Text"></v:String>
 
-    <v:String x:Key="Installer_WelcomePage_Title">Ласкаво просимо до програми встановлення лаунчера Minecraft Bedrock</v:String>
-    <v:String x:Key="Installer_WelcomePage_Info_Text">Це встановить Minecraft Bedrock Launcher на ваш комп'ютер.</v:String>
-    <v:String x:Key="Installer_WelcomePage_Info2_Text">Рекомендується закрити всі інші програми, перш ніж продовжити.</v:String>
-    <v:String x:Key="Installer_WelcomePage_Info3_Text">Натисніть Далі, щоб продовжити чи Скасувати, щоб вийти з програми встановлення.</v:String>
+    <v:String x:Key="Installer_WelcomePage_Title"></v:String>
+    <v:String x:Key="Installer_WelcomePage_Info_Text"></v:String>
+    <v:String x:Key="Installer_WelcomePage_Info2_Text"></v:String>
+    <v:String x:Key="Installer_WelcomePage_Info3_Text"></v:String>
 
-    <v:String x:Key="Installer_LicenseAgreement_Title">Ліцензійна угода</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Будь ласка, прочитайте наступну ліцензійну угоду. Ви повинні прийняти умови цієї угоди</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info2_Text">згода, щоб продовжити встановлення.</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Accept_Text">Я приймаю умови ліцензійної угоди.</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">Я не приймаю умови ліцензійної угоди.</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Title"></v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info_Text"></v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info2_Text"></v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Accept_Text"></v:String>
+    <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text"></v:String>
 
-    <v:String x:Key="Installer_InstallType_Title">Виберіть тип встановлення</v:String>
-    <v:String x:Key="Installer_InstallType_Info_Text">Виберіть, яку версію лаунчера ви хочете завантажити</v:String>
+    <v:String x:Key="Installer_InstallType_Title"></v:String>
+    <v:String x:Key="Installer_InstallType_Info_Text"></v:String>
 
-    <v:String x:Key="Installer_InstallType_InstallLocation_BetaRadioButton_Text">Бета-версія</v:String>
-    <v:String x:Key="Installer_InstallType_InstallLocation_ReleaseRadioButton_Text">Релізна-версія</v:String>
+    <v:String x:Key="Installer_InstallType_InstallLocation_BetaRadioButton_Text"></v:String>
+    <v:String x:Key="Installer_InstallType_InstallLocation_ReleaseRadioButton_Text"></v:String>
 
-    <v:String x:Key="Installer_InstallLocation_Title">Виберіть теку встановлення</v:String>
-    <v:String x:Key="Installer_InstallLocation_Info_Text">Лаунчер Minecraft Bedrock буде встановлений в наступну теку. Щоб змінити теку встановлення,</v:String>
-    <v:String x:Key="Installer_InstallLocation_Info2_Text">натисніть Огляд і виберіть іншу теку.</v:String>
+    <v:String x:Key="Installer_InstallLocation_Title"></v:String>
+    <v:String x:Key="Installer_InstallLocation_Info_Text"></v:String>
+    <v:String x:Key="Installer_InstallLocation_Info2_Text"></v:String>
 
-    <v:String x:Key="Installer_InstallLocation_DestinationFolder_Header">Кінцева тека</v:String>
-    <v:String x:Key="Installer_InstallLocation_Browse_Text">ОГЛЯД</v:String>
+    <v:String x:Key="Installer_InstallLocation_DestinationFolder_Header"></v:String>
+    <v:String x:Key="Installer_InstallLocation_Browse_Text"></v:String>
 
-    <v:String x:Key="Installer_InstallLocation_CreateDesktopIcon_Text">Створити ярлик на робочому столі</v:String>
-    <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text">Додати в меню &quot;Пуск&quot;</v:String>
-    <v:String x:Key="Installer_InstallLocation_RegisterApp_Text">Зареєструвати програми</v:String>
+    <v:String x:Key="Installer_InstallLocation_CreateDesktopIcon_Text"></v:String>
+    <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text"></v:String>
+    <v:String x:Key="Installer_InstallLocation_RegisterApp_Text"></v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text">Запустити програму по завершенню встановлення</v:String>
+    <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text"></v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_FilesInUse">Деякі файли зараз використовуються наступними процесами:</v:String>
+    <v:String x:Key="Installer_InstallationProgress_FilesInUse"></v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_Title">Встановлення</v:String>
-    <v:String x:Key="Installer_InstallationProgress_Info_Text">Будь ласка, зачекайте поки лаунчер Minecraft Bedrock встановиться на ваш комп'ютер.</v:String>
+    <v:String x:Key="Installer_InstallationProgress_Title"></v:String>
+    <v:String x:Key="Installer_InstallationProgress_Info_Text"></v:String>
 
 
     <!--#endregion-->
 
-    <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text">Неможливо перенести теку</v:String>
-    <v:String x:Key="Installer_Dialog_MovingFileFailed_Text">Неможливо перенести файл</v:String>
-    <v:String x:Key="Installer_Dialog_FileLocked_Text">Файл використовується іншою програмою</v:String>
-    <v:String x:Key="Installer_Dialog_TryAgain_Text">Спробувати ще раз?</v:String>
-    <v:String x:Key="Installer_Dialog_ErrorOccured_Text">Сталася помилка.</v:String>
+    <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text"></v:String>
+    <v:String x:Key="Installer_Dialog_MovingFileFailed_Text"></v:String>
+    <v:String x:Key="Installer_Dialog_FileLocked_Text"></v:String>
+    <v:String x:Key="Installer_Dialog_TryAgain_Text"></v:String>
+    <v:String x:Key="Installer_Dialog_ErrorOccured_Text"></v:String>
 
     <!--#region ProgressBar -->
 
-    <v:String x:Key="Installer_ProgressBar_Downloading">Завантаження...</v:String>
-    <v:String x:Key="Installer_ProgressBar_Finalizing">Завершення...</v:String>
-    <v:String x:Key="Installer_ProgressBar_Initalizing">Ініціалізація...</v:String>
+    <v:String x:Key="Installer_ProgressBar_Downloading"></v:String>
+    <v:String x:Key="Installer_ProgressBar_Finalizing"></v:String>
+    <v:String x:Key="Installer_ProgressBar_Initalizing"></v:String>
 
 
     <!--#endregion-->
@@ -525,75 +524,75 @@
 
     <!--#region VersionEntries -->
 
-    <v:String x:Key="VersionEntries_LatestSnapshot">Остання бета</v:String>
-    <v:String x:Key="VersionEntries_LatestRelease">Останній реліз</v:String>
-    <v:String x:Key="VersionEntries_UnnamedInstallation">&lt;unnamed installation&gt;</v:String>
+    <v:String x:Key="VersionEntries_LatestSnapshot"></v:String>
+    <v:String x:Key="VersionEntries_LatestRelease"></v:String>
+    <v:String x:Key="VersionEntries_UnnamedInstallation"></v:String>
 
     <!--#endregion-->
 
     <!--#region ThemeEntries -->
 
-    <v:String x:Key="ThemeEntries_LatestUpdate">Останнє оновлення</v:String>
-    <v:String x:Key="ThemeEntries_Original">Ориґінал</v:String>
+    <v:String x:Key="ThemeEntries_LatestUpdate"></v:String>
+    <v:String x:Key="ThemeEntries_Original"></v:String>
 
-    <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">Оновлення &quot;Печери та скелі (частина 1)&quot;</v:String>
-    <v:String x:Key="ThemeEntries_NetherUpdate">Оновлення нижнього світу</v:String>
-    <v:String x:Key="ThemeEntries_BuzzyBeesUpdate">Оновлення &quot;Гудючі бджоли&quot;</v:String>
-    <v:String x:Key="ThemeEntries_VillagePillageUpdate">Оновлення &quot;Селянини та розбійники&quot;</v:String>
-    <v:String x:Key="ThemeEntries_UpdateAquatic">Морське оновлення</v:String>
-    <v:String x:Key="ThemeEntries_TechnicallyUpdated">Технічне оновлення [Java]</v:String>
-    <v:String x:Key="ThemeEntries_WorldOfColorUpdate">Оновлення &quot;Світ кольорів&quot; [Java]</v:String>
-    <v:String x:Key="ThemeEntries_ExplorationUpdate">Дослідницьке оновлення [Java]</v:String>
-    <v:String x:Key="ThemeEntries_CombatUpdate">Бойове оновлення [Java]</v:String>
-    <v:String x:Key="ThemeEntries_CatsAndPandasUpdate">Оновлення &quot;Коти та панди&quot; [Bedrock]</v:String>
-    <v:String x:Key="ThemeEntries_PocketEditionRelease">Офіційний реліз [Bedrock]</v:String>
-    <v:String x:Key="ThemeEntries_BedrockStandard">Bedrock Edition Standard</v:String>
-    <v:String x:Key="ThemeEntries_BedrockMaster">Bedrock Edition Master</v:String>
-    <v:String x:Key="ThemeEntries_EarlyLegacyConsole">Період ранніх версій Legacy Console</v:String>
-    <v:String x:Key="ThemeEntries_MidLegacyConsole">Період середніх версій Legacy Console</v:String>
-    <v:String x:Key="ThemeEntries_LateLegacyConsole">Період пізніх версій Legacy Console</v:String>
-    <v:String x:Key="ThemeEntries_IndieDays">Період Indie</v:String>
-    <v:String x:Key="ThemeEntries_Dungeons">Minecraft Dungeons</v:String>
+    <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update"></v:String>
+    <v:String x:Key="ThemeEntries_NetherUpdate"></v:String>
+    <v:String x:Key="ThemeEntries_BuzzyBeesUpdate"></v:String>
+    <v:String x:Key="ThemeEntries_VillagePillageUpdate"></v:String>
+    <v:String x:Key="ThemeEntries_UpdateAquatic"></v:String>
+    <v:String x:Key="ThemeEntries_TechnicallyUpdated"></v:String>
+    <v:String x:Key="ThemeEntries_WorldOfColorUpdate"></v:String>
+    <v:String x:Key="ThemeEntries_ExplorationUpdate"></v:String>
+    <v:String x:Key="ThemeEntries_CombatUpdate"></v:String>
+    <v:String x:Key="ThemeEntries_CatsAndPandasUpdate"></v:String>
+    <v:String x:Key="ThemeEntries_PocketEditionRelease"></v:String>
+    <v:String x:Key="ThemeEntries_BedrockStandard"></v:String>
+    <v:String x:Key="ThemeEntries_BedrockMaster"></v:String>
+    <v:String x:Key="ThemeEntries_EarlyLegacyConsole"></v:String>
+    <v:String x:Key="ThemeEntries_MidLegacyConsole"></v:String>
+    <v:String x:Key="ThemeEntries_LateLegacyConsole"></v:String>
+    <v:String x:Key="ThemeEntries_IndieDays"></v:String>
+    <v:String x:Key="ThemeEntries_Dungeons"></v:String>
 
 
     <!--#endregion-->
 
     <!--#region GeneralText -->
 
-    <v:String x:Key="GeneralText_Delete">Вилучити</v:String>
-    <v:String x:Key="GeneralText_Edit">Редагувати</v:String>
-    <v:String x:Key="GeneralText_Duplicate">Дублювати</v:String>
-    <v:String x:Key="GeneralText_Remove">Вилучити</v:String>
-    <v:String x:Key="GeneralText_Cancel">Скасувати</v:String>
-    <v:String x:Key="GeneralText_Update">Оновити</v:String>
-    <v:String x:Key="GeneralText_Add">Додати</v:String>
-    <v:String x:Key="GeneralText_Save">Зберегти</v:String>
-    <v:String x:Key="GeneralText_Refresh">Перезавантажити</v:String>
-    <v:String x:Key="GeneralText_Backup">Створити резервну копію</v:String>
-    <v:String x:Key="GeneralText_Versions">Версії</v:String>
-    <v:String x:Key="GeneralText_Browse">Огляд</v:String>
-    <v:String x:Key="GeneralText_Reset">Скинути</v:String>
-    <v:String x:Key="GeneralText_Yes">Так</v:String>
-    <v:String x:Key="GeneralText_No">Ні</v:String>
-    <v:String x:Key="GeneralText_Releases">Релізи</v:String>
-    <v:String x:Key="GeneralText_Betas">Бети</v:String>
-    <v:String x:Key="GeneralText_Export">Експортувати</v:String>
-    <v:String x:Key="GeneralText_Repair">Виправити</v:String>
+    <v:String x:Key="GeneralText_Delete"></v:String>
+    <v:String x:Key="GeneralText_Edit"></v:String>
+    <v:String x:Key="GeneralText_Duplicate"></v:String>
+    <v:String x:Key="GeneralText_Remove"></v:String>
+    <v:String x:Key="GeneralText_Cancel"></v:String>
+    <v:String x:Key="GeneralText_Update"></v:String>
+    <v:String x:Key="GeneralText_Add"></v:String>
+    <v:String x:Key="GeneralText_Save"></v:String>
+    <v:String x:Key="GeneralText_Refresh"></v:String>
+    <v:String x:Key="GeneralText_Backup"></v:String>
+    <v:String x:Key="GeneralText_Versions"></v:String>
+    <v:String x:Key="GeneralText_Browse"></v:String>
+    <v:String x:Key="GeneralText_Reset"></v:String>
+    <v:String x:Key="GeneralText_Yes"></v:String>
+    <v:String x:Key="GeneralText_No"></v:String>
+    <v:String x:Key="GeneralText_Releases"></v:String>
+    <v:String x:Key="GeneralText_Betas"></v:String>
+    <v:String x:Key="GeneralText_Export"></v:String>
+    <v:String x:Key="GeneralText_Repair"></v:String>
 
-    <v:String x:Key="GeneralText_Twitter">Twitter</v:String>
-    <v:String x:Key="GeneralText_GitHub">GitHub</v:String>
-    <v:String x:Key="GeneralText_Website">Сайт</v:String>
+    <v:String x:Key="GeneralText_Twitter"></v:String>
+    <v:String x:Key="GeneralText_GitHub"></v:String>
+    <v:String x:Key="GeneralText_Website"></v:String>
 
     <!--#endregion-->
 
     <!--#region GeneralSubtitles -->
 
-    <v:String x:Key="GeneralSubtitles_Versions">ВЕРСІЇ</v:String>
-    <v:String x:Key="GeneralSubtitles_Browse">ОГЛЯД</v:String>
-    <v:String x:Key="GeneralSubtitles_Reset">СКИНУТИ</v:String>
-    <v:String x:Key="GeneralSubtitles_Categories">КАТЕГОРІЇ</v:String>
-    <v:String x:Key="GeneralSubtitles_Search">ПОШУК</v:String>
-    <v:String x:Key="GeneralSubtitles_SortBy">СОРТУВАТИ ЗА</v:String>
+    <v:String x:Key="GeneralSubtitles_Versions"></v:String>
+    <v:String x:Key="GeneralSubtitles_Browse"></v:String>
+    <v:String x:Key="GeneralSubtitles_Reset"></v:String>
+    <v:String x:Key="GeneralSubtitles_Categories"></v:String>
+    <v:String x:Key="GeneralSubtitles_Search"></v:String>
+    <v:String x:Key="GeneralSubtitles_SortBy"></v:String>
 
     <!--#endregion-->
 

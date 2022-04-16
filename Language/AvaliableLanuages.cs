@@ -18,7 +18,8 @@ namespace BedrockLauncher.Localization.Language
                 "ru-RU",
                 "pt-BR",
                 "es-ES",
-                "uk-UA"
+                "uk-UA",
+                "zh-TW"
             };
         }
     }

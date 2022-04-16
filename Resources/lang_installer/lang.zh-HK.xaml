@@ -1,0 +1,116 @@
+﻿<?xml version="1.0"?>
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:v="clr-namespace:System;assembly=mscorlib">
+    <!--#region Main Section-->
+
+    <v:String x:Key="LanguageString"></v:String>
+
+    <!--#endregion-->
+
+    <!--#region UI -->
+
+    <v:String x:Key="Installer_Title"></v:String>
+
+    <v:String x:Key="Installer_Back_Text"></v:String>
+    <v:String x:Key="Installer_Next_Text"></v:String>
+    <v:String x:Key="Installer_Install_Text"></v:String>
+    <v:String x:Key="Installer_Cancel_Text"></v:String>
+    <v:String x:Key="Installer_Finish_Text"></v:String>
+
+    <v:String x:Key="Installer_WelcomePage_Title"></v:String>
+    <v:String x:Key="Installer_WelcomePage_Info_Text"></v:String>
+    <v:String x:Key="Installer_WelcomePage_Info2_Text"></v:String>
+    <v:String x:Key="Installer_WelcomePage_Info3_Text"></v:String>
+
+    <v:String x:Key="Installer_LicenseAgreement_Title"></v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info_Text"></v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info2_Text"></v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Accept_Text"></v:String>
+    <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text"></v:String>
+
+    <v:String x:Key="Installer_InstallType_Title"></v:String>
+    <v:String x:Key="Installer_InstallType_Info_Text"></v:String>
+
+    <v:String x:Key="Installer_InstallType_InstallLocation_BetaRadioButton_Text"></v:String>
+    <v:String x:Key="Installer_InstallType_InstallLocation_ReleaseRadioButton_Text"></v:String>
+
+    <v:String x:Key="Installer_InstallType_ReleaseInfo"></v:String>
+    <v:String x:Key="Installer_InstallType_BetaInfo"></v:String>
+
+    <v:String x:Key="Installer_InstallLocation_Title"></v:String>
+    <v:String x:Key="Installer_InstallLocation_Info_Text"></v:String>
+    <v:String x:Key="Installer_InstallLocation_Info2_Text"></v:String>
+
+    <v:String x:Key="Installer_InstallLocation_DestinationFolder_Header"></v:String>
+    <v:String x:Key="Installer_InstallLocation_Browse_Text"></v:String>
+
+    <v:String x:Key="Installer_InstallLocation_CreateDesktopIcon_Text"></v:String>
+    <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text"></v:String>
+    <v:String x:Key="Installer_InstallLocation_RegisterApp_Text"></v:String>
+
+    <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text"></v:String>
+
+    <v:String x:Key="Installer_InstallationProgress_FilesInUse"></v:String>
+
+    <v:String x:Key="Installer_InstallationProgress_Title"></v:String>
+    <v:String x:Key="Installer_InstallationProgress_Info_Text"></v:String>
+
+
+    <!--#endregion-->
+
+    <!--#region Dialog -->
+
+    <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text"></v:String>
+    <v:String x:Key="Installer_Dialog_MovingFileFailed_Text"></v:String>
+    <v:String x:Key="Installer_Dialog_FileLocked_Text"></v:String>
+    <v:String x:Key="Installer_Dialog_TryAgain_Text"></v:String>
+    <v:String x:Key="Installer_Dialog_ErrorOccured_Text"></v:String>
+
+    <!--#endregion-->
+
+    <!--#region ProgressBar -->
+
+    <v:String x:Key="Installer_ProgressBar_Downloading"></v:String>
+    <v:String x:Key="Installer_ProgressBar_Finalizing"></v:String>
+    <v:String x:Key="Installer_ProgressBar_Initalizing"></v:String>
+
+    <!--#endregion-->
+
+    <!--#region GeneralText -->
+
+    <v:String x:Key="GeneralText_Delete"></v:String>
+    <v:String x:Key="GeneralText_Edit"></v:String>
+    <v:String x:Key="GeneralText_Duplicate"></v:String>
+    <v:String x:Key="GeneralText_Remove"></v:String>
+    <v:String x:Key="GeneralText_Cancel"></v:String>
+    <v:String x:Key="GeneralText_Update"></v:String>
+    <v:String x:Key="GeneralText_Add"></v:String>
+    <v:String x:Key="GeneralText_Save"></v:String>
+    <v:String x:Key="GeneralText_Refresh"></v:String>
+    <v:String x:Key="GeneralText_Backup"></v:String>
+    <v:String x:Key="GeneralText_Versions"></v:String>
+    <v:String x:Key="GeneralText_Browse"></v:String>
+    <v:String x:Key="GeneralText_Reset"></v:String>
+    <v:String x:Key="GeneralText_Yes"></v:String>
+    <v:String x:Key="GeneralText_No"></v:String>
+    <v:String x:Key="GeneralText_Releases"></v:String>
+    <v:String x:Key="GeneralText_Betas"></v:String>
+    <v:String x:Key="GeneralText_Export"></v:String>
+    <v:String x:Key="GeneralText_Repair"></v:String>
+
+    <v:String x:Key="GeneralText_Twitter"></v:String>
+    <v:String x:Key="GeneralText_GitHub"></v:String>
+    <v:String x:Key="GeneralText_Website"></v:String>
+
+    <!--#endregion-->
+
+    <!--#region GeneralSubtitles -->
+
+    <v:String x:Key="GeneralSubtitles_Versions"></v:String>
+    <v:String x:Key="GeneralSubtitles_Browse"></v:String>
+    <v:String x:Key="GeneralSubtitles_Reset"></v:String>
+    <v:String x:Key="GeneralSubtitles_Categories"></v:String>
+    <v:String x:Key="GeneralSubtitles_Search"></v:String>
+
+    <!--#endregion-->
+
+</ResourceDictionary>

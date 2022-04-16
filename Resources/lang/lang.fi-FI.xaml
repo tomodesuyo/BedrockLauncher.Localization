@@ -13,7 +13,7 @@
     
     <!-- #region CommunityPage -->
 
-    <v:String x:Key="CommunityPage_SupportText"></v:String>
+    <v:String x:Key="CommunityPage_SupportText">❤ Support Development ❤</v:String>
     <v:String x:Key="CommunityPage_ComingSoon">Tulossa pian!</v:String>
     <v:String x:Key="CommunityPage_CheckBackLater">Tarkista tämä myöhemmin jos haluat nähdä jotain SUPERMAHTAVAA!</v:String>
 
@@ -318,134 +318,137 @@
     <!--#region FirstLaunch -->
 
     <v:String x:Key="FirstLaunch_WelcomeTitle">Tervetuloa!</v:String>
-    <v:String x:Key="FirstLaunch_WelcomeSubTitle"></v:String>
-    <v:String x:Key="FirstLaunch_CreateProfileSubTitle"></v:String>
-    <v:String x:Key="FirstLaunch_AlmostThereTitle"></v:String>
-    <v:String x:Key="FirstLaunch_OneThingTitle"></v:String>
-    <v:String x:Key="FirstLaunch_OneThingSubtitle"></v:String>
-    <v:String x:Key="FirstLaunch_ChooseAccountTitle"></v:String>
-    <v:String x:Key="FirstLaunch_ChooseAccountSubtitle"></v:String>
+    <v:String x:Key="FirstLaunch_WelcomeSubTitle">Tervetuloa Minecraft Bedrock Launcheriin!</v:String>
+    <v:String x:Key="FirstLaunch_CreateProfileSubTitle">Luo ensimmäinen profiilisi!</v:String>
+    <v:String x:Key="FirstLaunch_AlmostThereTitle">Melkein valmista!</v:String>
+    <v:String x:Key="FirstLaunch_OneThingTitle">Yksi asia...</v:String>
+    <v:String x:Key="FirstLaunch_OneThingSubtitle">Tarkista vain nämä varmistaaksesi että ne ovat niin kuin haluat.</v:String>
+    <v:String x:Key="FirstLaunch_ChooseAccountTitle">Valitse Insider-tili</v:String>
+    <v:String x:Key="FirstLaunch_ChooseAccountSubtitle">* Tätä tullaan käyttämään betojen vahvistamiseen ja lataamiseen. Sinun pitää olla valinnut Minecraft Xbox Insider Hubissa valitulla tilillä jotta voit ladata betoja. Sinun ehkä tarvitsee uudelleenkäynnistää launcher tai poistaa Minecraft betojen latauksen toimimiseksi.</v:String>
 
-    <v:String x:Key="FirstLaunch_BeforeStartingToUse" xml:space="preserve"></v:String>
+    <v:String x:Key="FirstLaunch_BeforeStartingToUse" xml:space="preserve">Ennen käyttämistä on vahvasti suositeltavaa, että painat varmuuskopiointia luodaksesi asennuksen olemassa olevista tallennustiedoistasi, koska laucher korvaa alkuperäisen hakemiston symbolisella linkillä minkä avulla voimme uudelleenohjata tallennusdatan.
 
-    <v:String x:Key="FirstLaunch_InstallType_Header"></v:String>
-    <v:String x:Key="FirstLaunch_FixedInstall_Checkbox"></v:String>
-    <v:String x:Key="FirstLaunch_PortableInstall_Checkbox"></v:String>
-    <v:String x:Key="FirstLaunch_BackupCheckBox_Text"></v:String>
-    <v:String x:Key="FirstLaunch_BackupCheckBox_Subtext"></v:String>
-    <v:String x:Key="FirstLaunch_CloseButton"></v:String>
-    <v:String x:Key="FirstLaunch_BackButton"></v:String>
-    <v:String x:Key="FirstLaunch_GoBackButton"></v:String>
-    <v:String x:Key="FirstLaunch_CreateProfileText"></v:String>
-    <v:String x:Key="FirstLaunch_CreateProfileButton"></v:String>
-    <v:String x:Key="FirstLaunch_NextButton"></v:String>
-    <v:String x:Key="FirstLaunch_DownloadButton"></v:String>
-    <v:String x:Key="FirstLaunch_FinishButton"></v:String>
+ (Älä huoli, et menetä dataasi tekemällä tätä, menetät datasi vain jos paina &quot;pelaa&quot; etkä ole varmuuskopioinut dataasi)</v:String>
+
+    <v:String x:Key="FirstLaunch_InstallType_Header">Tallenna/Lataa laucher-tiedot paikasta:</v:String>
+    <v:String x:Key="FirstLaunch_FixedInstall_Checkbox">Vahvistettu kansio (Suositeltu)</v:String>
+    <v:String x:Key="FirstLaunch_PortableInstall_Checkbox">Siirrettävä/juurikansio</v:String>
+    <v:String x:Key="FirstLaunch_BackupCheckBox_Text">Varmuuskopioi olemassa olevat tallennustiedot</v:String>
+    <v:String x:Key="FirstLaunch_BackupCheckBox_Subtext">(SUOSITELTU)</v:String>
+    <v:String x:Key="FirstLaunch_CloseButton">Sulje</v:String>
+    <v:String x:Key="FirstLaunch_BackButton">Takaisin</v:String>
+    <v:String x:Key="FirstLaunch_GoBackButton">❮ GO BACK</v:String>
+    <v:String x:Key="FirstLaunch_CreateProfileText">PROFIILI</v:String>
+    <v:String x:Key="FirstLaunch_CreateProfileButton">Luo</v:String>
+    <v:String x:Key="FirstLaunch_NextButton">Seuraava</v:String>
+    <v:String x:Key="FirstLaunch_DownloadButton">Lataa</v:String>
+    <v:String x:Key="FirstLaunch_FinishButton">Valmis</v:String>
 
     <!--#endregion-->
 
     <!--#region ErrorScreen -->
 
-    <v:String x:Key="ErrorScreen_Title"></v:String>
-    <v:String x:Key="ErrorScreen_SubTitle"></v:String>
-    <v:String x:Key="ErrorScreen_DefaultErrorMessage"></v:String>
-    <v:String x:Key="ErrorScreen_CloseButton"></v:String>
-    <v:String x:Key="ErrorScreen_ViewCrash"></v:String>
+    <v:String x:Key="ErrorScreen_Title">VIRHE</v:String>
+    <v:String x:Key="ErrorScreen_SubTitle">Launcher kaatui</v:String>
+    <v:String x:Key="ErrorScreen_DefaultErrorMessage">Odottamaton virhe tapahtui ja launcher kaatui. Olemme pahoillamme haitasta.</v:String>
+    <v:String x:Key="ErrorScreen_CloseButton">Sulje</v:String>
+    <v:String x:Key="ErrorScreen_ViewCrash">Katso kaatumisraportti</v:String>
 
     <!--#endregion-->
 
     <!--#region Errors -->
 
-    <v:String x:Key="Error_AuthenticationFailed_Title"></v:String>
-    <v:String x:Key="Error_AuthenticationFailed"></v:String>
+    <v:String x:Key="Error_AuthenticationFailed_Title">Tunnistautuminen epäonnistui</v:String>
+    <v:String x:Key="Error_AuthenticationFailed">Tunnistautuminen epäonnistui. Varmistathan tilisi olevan tilannut betaohjelman.</v:String>
 
-    <v:String x:Key="Error_CantFindExternalLauncher_Title"></v:String>
-    <v:String x:Key="Error_CantFindExternalLauncher"></v:String>
+    <v:String x:Key="Error_CantFindExternalLauncher_Title">Launcheria ei voitu vaihtaa</v:String>
+    <v:String x:Key="Error_CantFindExternalLauncher">Launcheria ei voitu vaihtaa. Varmistathan asettaneesi polun launcheriin oikein.</v:String>
 
-    <v:String x:Key="Error_CantFindJavaLauncher_Title"></v:String>
-    <v:String x:Key="Error_CantFindJavaLauncher"></v:String>
+    <v:String x:Key="Error_CantFindJavaLauncher_Title">Launcheria ei voitu vaihtaa</v:String>
+    <v:String x:Key="Error_CantFindJavaLauncher">Laucheria ei löydetty. Varmistathan asentaneesi alkuperäisen Minecraft-launcherin minercraft.net:istä.</v:String>
 
-    <v:String x:Key="Error_AppReregisterFailed_Title"></v:String>
-    <v:String x:Key="Error_AppReregisterFailed"></v:String>
+    <v:String x:Key="Error_AppReregisterFailed_Title">Sovelluksen rekisteröiminen epäonnistui</v:String>
+    <v:String x:Key="Error_AppReregisterFailed">Yritä uudelleen :(</v:String>
 
-    <v:String x:Key="Error_AppDeregisteringFailed_Title"></v:String>
-    <v:String x:Key="Error_AppDeregisteringFailed"></v:String>
+    <v:String x:Key="Error_AppDeregisteringFailed_Title">Sovelluksen epärekisteröiminen epäonnistui</v:String>
+    <v:String x:Key="Error_AppDeregisteringFailed">Yritä uudelleen :(</v:String>
 
-    <v:String x:Key="Error_AppLaunchFailed_Title"></v:String>
-    <v:String x:Key="Error_AppLaunchFailed"></v:String>
+    <v:String x:Key="Error_AppLaunchFailed_Title">Käynnistys epäonnistui</v:String>
+    <v:String x:Key="Error_AppLaunchFailed">Yritä uudelleen :(</v:String>
 
-    <v:String x:Key="Error_AppDownloadFailed_Title"></v:String>
-    <v:String x:Key="Error_AppDownloadFailed"></v:String>
+    <v:String x:Key="Error_AppDownloadFailed_Title">Lataus epäonnistui</v:String>
+    <v:String x:Key="Error_AppDownloadFailed">Yritä uudelleen :(</v:String>
 
-    <v:String x:Key="Error_SaveDirectoryRedirectionFailed_Title"></v:String>
-    <v:String x:Key="Error_SaveDirectoryRedirectionFailed"></v:String>
+    <v:String x:Key="Error_SaveDirectoryRedirectionFailed_Title">Tallennuksen uudelleenohjaus epäonnistui</v:String>
+    <v:String x:Key="Error_SaveDirectoryRedirectionFailed">Yritä uudelleen :(</v:String>
 
-    <v:String x:Key="Error_AppUninstallFailed_Title"></v:String>
-    <v:String x:Key="Error_AppUninstallFailed"></v:String>
+    <v:String x:Key="Error_AppUninstallFailed_Title">Poistaminen epäonnistui</v:String>
+    <v:String x:Key="Error_AppUninstallFailed">Yritä uudelleen :(</v:String>
 
-    <v:String x:Key="Error_AppExtractionFailed_Title"></v:String>
-    <v:String x:Key="Error_AppExtractionFailed"></v:String>
+    <v:String x:Key="Error_AppExtractionFailed_Title">Purku epäonnistui</v:String>
+    <v:String x:Key="Error_AppExtractionFailed">Yritä uudelleen :(</v:String>
 
-    <v:String x:Key="Error_CantFindPaidServerList_Title"></v:String>
-    <v:String x:Key="Error_CantFindPaidServerList"></v:String>
+    <v:String x:Key="Error_CantFindPaidServerList_Title">Palvelinvälilehteä ei voitu avata</v:String>
+    <v:String x:Key="Error_CantFindPaidServerList">Maksettua palvelinlistaa ei löydetty.</v:String>
 
-    <v:String x:Key="Error_NotaSkinPack_Title"></v:String>
-    <v:String x:Key="Error_NotaSkinPack"></v:String>
+    <v:String x:Key="Error_NotaSkinPack_Title">Skinipakettia ei voitu tuoda</v:String>
+    <v:String x:Key="Error_NotaSkinPack">Tämä ei ole skinipaketti höpsö!</v:String>
 
     <!--#endregion-->
 
     <!--#region NewProfile -->
 
-    <v:String x:Key="NewProfile_GoBackButton"></v:String>
-    <v:String x:Key="NewProfile_CreateProfileText"></v:String>
-    <v:String x:Key="NewProfile_CreateProfileText_Error"></v:String>
-    <v:String x:Key="NewProfile_CreateProfileSubTitle"></v:String>
-    <v:String x:Key="NewProfile_CreateProfileButton"></v:String>
+    <v:String x:Key="NewProfile_GoBackButton">❮ GO BACK</v:String>
+    <v:String x:Key="NewProfile_CreateProfileText">PROFIILI</v:String>
+    <v:String x:Key="NewProfile_CreateProfileText_Error">TÄMÄ NIMI ON JO OTETTU</v:String>
+    <v:String x:Key="NewProfile_CreateProfileSubTitle">Syötä uuden profiilisi nimi!</v:String>
+    <v:String x:Key="NewProfile_CreateProfileButton">Luo</v:String>
 
     <!--#endregion-->
 
     <!--#region Dialog -->
 
-    <v:String x:Key="Dialog_Item_Installation_Text"></v:String>
-    <v:String x:Key="Dialog_Item_SkinPack_Text"></v:String>
-    <v:String x:Key="Dialog_Item_Skin_Text"></v:String>
-    <v:String x:Key="Dialog_Item_Version_Text"></v:String>
-    <v:String x:Key="Dialog_Item_Profile_Text"></v:String>
+    <v:String x:Key="Dialog_Item_Installation_Text">asennus</v:String>
+    <v:String x:Key="Dialog_Item_SkinPack_Text">skinipaketti</v:String>
+    <v:String x:Key="Dialog_Item_Skin_Text">skini</v:String>
+    <v:String x:Key="Dialog_Item_Version_Text">versio</v:String>
+    <v:String x:Key="Dialog_Item_Profile_Text">profiili</v:String>
 
-    <v:String x:Key="Dialog_DeleteItem_Title"></v:String>
-    <v:String x:Key="Dialog_DeleteItem_Text" xml:space="preserve"></v:String>
+    <v:String x:Key="Dialog_DeleteItem_Title">Poista {0} pysyvästi</v:String>
+    <v:String x:Key="Dialog_DeleteItem_Text" xml:space="preserve">Haluatko varmasti poistaa &quot;{1}&quot;:n?
+Tämä {0} tullaan menettämään ikiajoiksi! (Pitkäksi ajaksi!)</v:String>
 
-    <v:String x:Key="Dialog_KillGame_Title"></v:String>
-    <v:String x:Key="Dialog_KillGame_Text"></v:String>
+    <v:String x:Key="Dialog_KillGame_Title">Tapa peli</v:String>
+    <v:String x:Key="Dialog_KillGame_Text">Tämä on vaarallista, ja on suositeltavaa vain jos jäät jumiin. Haluatko silti sulkea pelin?</v:String>
 
-    <v:String x:Key="Dialog_CloseGame_Title"></v:String>
-    <v:String x:Key="Dialog_CloseGame_Text"></v:String>
+    <v:String x:Key="Dialog_CloseGame_Title">Peli on vielä käynnissä</v:String>
+    <v:String x:Key="Dialog_CloseGame_Text">Haluatko pakkosulkea sen? (muutoksia tallentamatta, tämä on suositeltavaa vain jos jäit jumiin, suljethan pelin muuten normaalisti)</v:String>
 
-    <v:String x:Key="DialogBtn_YesToAll_Text"></v:String>
-    <v:String x:Key="DialogBtn_NoToAll_Text"></v:String>
-    <v:String x:Key="DialogBtn_Yes_Text"></v:String>
-    <v:String x:Key="DialogBtn_No_Text"></v:String>
+    <v:String x:Key="DialogBtn_YesToAll_Text">Kyllä kaikkiin</v:String>
+    <v:String x:Key="DialogBtn_NoToAll_Text">Ei kaikkiin</v:String>
+    <v:String x:Key="DialogBtn_Yes_Text">Kyllä</v:String>
+    <v:String x:Key="DialogBtn_No_Text">Ei</v:String>
 
-    <v:String x:Key="Dialog_NoNewsContentFound_NoMatchingResultsTitle"></v:String>
-    <v:String x:Key="Dialog_NoNewsContentFound_NoMatchingResultsText" xml:space="preserve"></v:String>
+    <v:String x:Key="Dialog_NoNewsContentFound_NoMatchingResultsTitle">Ei vastaavia tuloksia</v:String>
+    <v:String x:Key="Dialog_NoNewsContentFound_NoMatchingResultsText" xml:space="preserve">Emme löytäneet mitään hakuasi vastaavia uutisia. Jos sinulla on kategoriasuodattimia kytketty pois päältä, yritä niiden laittamista takaisin päälle ja hae uudelleen</v:String>
 
-    <v:String x:Key="Dialog_ResultPanel_Loading_Title"></v:String>
-    <v:String x:Key="Dialog_ResultPanel_Loading_Text" xml:space="preserve"></v:String>
+    <v:String x:Key="Dialog_ResultPanel_Loading_Title">Ladataan...</v:String>
+    <v:String x:Key="Dialog_ResultPanel_Loading_Text" xml:space="preserve">Odotathan!</v:String>
 
-    <v:String x:Key="Dialog_ResultPanel_Error_Title"></v:String>
-    <v:String x:Key="Dialog_ResultPanel_Error_Text" xml:space="preserve"></v:String>
+    <v:String x:Key="Dialog_ResultPanel_Error_Title">Virhe</v:String>
+    <v:String x:Key="Dialog_ResultPanel_Error_Text" xml:space="preserve">:(</v:String>
 
-    <v:String x:Key="Dialog_NoContentFound_NoMatchingResultsTitle"></v:String>
-    <v:String x:Key="Dialog_NoContentFound_NoMatchingResultsText" xml:space="preserve"></v:String>
+    <v:String x:Key="Dialog_NoContentFound_NoMatchingResultsTitle">Ei tulosta</v:String>
+    <v:String x:Key="Dialog_NoContentFound_NoMatchingResultsText" xml:space="preserve">Hakuasi vastaavia kohteita ei löydetty</v:String>
 
     <!--#endregion-->
 
     <!--#region Internal -->
 
-    <v:String x:Key="GameManager_RecoveringDataIssue_FileNotExistant_Text"></v:String>
-    <v:String x:Key="GameManager_RecoveringDataIssue_NotaDirectory_Text"></v:String>
+    <v:String x:Key="GameManager_RecoveringDataIssue_FileNotExistant_Text">Tiedosto {0} on jo olemassa kohteessa.\nHaluatko korvata sen? Vanha tiedosto muuten menetetään.</v:String>
+    <v:String x:Key="GameManager_RecoveringDataIssue_NotaDirectory_Text">Tiedosto {0} ei ole hakemisto. Haluatko poistaa sen? Tiedot vanhasta hakemistosta muuten menetetään.</v:String>
 
-    <v:String x:Key="GameManager_RecoveringDataIssue_Title"></v:String>
+    <v:String x:Key="GameManager_RecoveringDataIssue_Title">Muutetaan olemassa olevia tallennustietoja asennukseen</v:String>
 
     <!--#endregion-->
 
@@ -456,62 +459,62 @@
 
     <!--#region UI -->
 
-    <v:String x:Key="Installer_Title"></v:String>
+    <v:String x:Key="Installer_Title">Minecraft Bedrock Launcherin asennin</v:String>
 
-    <v:String x:Key="Installer_Back_Text"></v:String>
-    <v:String x:Key="Installer_Next_Text"></v:String>
-    <v:String x:Key="Installer_Cancel_Text"></v:String>
-    <v:String x:Key="Installer_Finish_Text"></v:String>
+    <v:String x:Key="Installer_Back_Text">Takaisin</v:String>
+    <v:String x:Key="Installer_Next_Text">Seuraava</v:String>
+    <v:String x:Key="Installer_Cancel_Text">Peruuta</v:String>
+    <v:String x:Key="Installer_Finish_Text">Valmis</v:String>
 
-    <v:String x:Key="Installer_WelcomePage_Title"></v:String>
-    <v:String x:Key="Installer_WelcomePage_Info_Text"></v:String>
-    <v:String x:Key="Installer_WelcomePage_Info2_Text"></v:String>
-    <v:String x:Key="Installer_WelcomePage_Info3_Text"></v:String>
+    <v:String x:Key="Installer_WelcomePage_Title">Tervetuloa Minecraft Bedrock Launcherin asentimeen</v:String>
+    <v:String x:Key="Installer_WelcomePage_Info_Text">Tämä asentaa Minecraft Bedrock Launcherin tietokoneellesi.</v:String>
+    <v:String x:Key="Installer_WelcomePage_Info2_Text">On suositeltavaa, että suljet kaikki muut ohjelmat ennen jatkamista.</v:String>
+    <v:String x:Key="Installer_WelcomePage_Info3_Text">Paina Seuraava jatkaaksesi, tai Peruuta poistuaksesi asentimesta.</v:String>
 
-    <v:String x:Key="Installer_LicenseAgreement_Title"></v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info_Text"></v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Info2_Text"></v:String>
-    <v:String x:Key="Installer_LicenseAgreement_Accept_Text"></v:String>
-    <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text"></v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Title">Lisenssisopimus</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info_Text">Luethan seuraavan lisenssisopimuksen. Sinun on hyväksyttävä tämän</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Info2_Text">sopimuksen ehdot ennen asennuksen jatkamista.</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Accept_Text">Hyväksyn lisenssin.</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">En hyväksy lisenssiä.</v:String>
 
-    <v:String x:Key="Installer_InstallType_Title"></v:String>
-    <v:String x:Key="Installer_InstallType_Info_Text"></v:String>
+    <v:String x:Key="Installer_InstallType_Title">Valitse asennustyyppi</v:String>
+    <v:String x:Key="Installer_InstallType_Info_Text">Valitse minkä version launcherista haluat ladata</v:String>
 
-    <v:String x:Key="Installer_InstallType_InstallLocation_BetaRadioButton_Text"></v:String>
-    <v:String x:Key="Installer_InstallType_InstallLocation_ReleaseRadioButton_Text"></v:String>
+    <v:String x:Key="Installer_InstallType_InstallLocation_BetaRadioButton_Text">Betaversio</v:String>
+    <v:String x:Key="Installer_InstallType_InstallLocation_ReleaseRadioButton_Text">Julkaisuversio</v:String>
 
-    <v:String x:Key="Installer_InstallLocation_Title"></v:String>
-    <v:String x:Key="Installer_InstallLocation_Info_Text"></v:String>
-    <v:String x:Key="Installer_InstallLocation_Info2_Text"></v:String>
+    <v:String x:Key="Installer_InstallLocation_Title">Valitse asennussijainti</v:String>
+    <v:String x:Key="Installer_InstallLocation_Info_Text">Asennin tulee asentamaan Minecraft Bedrock Launcherin seuraavaan kansioon. Asentaaksesi eri kansioon,</v:String>
+    <v:String x:Key="Installer_InstallLocation_Info2_Text">paina Selaa ja valitse toinen kansio.</v:String>
 
-    <v:String x:Key="Installer_InstallLocation_DestinationFolder_Header"></v:String>
-    <v:String x:Key="Installer_InstallLocation_Browse_Text"></v:String>
+    <v:String x:Key="Installer_InstallLocation_DestinationFolder_Header">Kohdekansio</v:String>
+    <v:String x:Key="Installer_InstallLocation_Browse_Text">SELAA</v:String>
 
-    <v:String x:Key="Installer_InstallLocation_CreateDesktopIcon_Text"></v:String>
-    <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text"></v:String>
-    <v:String x:Key="Installer_InstallLocation_RegisterApp_Text"></v:String>
+    <v:String x:Key="Installer_InstallLocation_CreateDesktopIcon_Text">Luo kuvake työpöydälle</v:String>
+    <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text">Lisää käynnistysvalikkoon</v:String>
+    <v:String x:Key="Installer_InstallLocation_RegisterApp_Text">Rekisteröi ohjelma</v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text"></v:String>
+    <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text">Käynnistä ohjelma poistuessa</v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_FilesInUse"></v:String>
+    <v:String x:Key="Installer_InstallationProgress_FilesInUse">Jotkin tiedostoista ovat tällä hetkellä seuraavan käytössä:</v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_Title"></v:String>
-    <v:String x:Key="Installer_InstallationProgress_Info_Text"></v:String>
+    <v:String x:Key="Installer_InstallationProgress_Title">Asennetaan</v:String>
+    <v:String x:Key="Installer_InstallationProgress_Info_Text">Odotathan hetken, kun asennin asentaa Minecraft Bedrock Launcheria tietokoneellesi.</v:String>
 
 
     <!--#endregion-->
 
-    <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text"></v:String>
-    <v:String x:Key="Installer_Dialog_MovingFileFailed_Text"></v:String>
-    <v:String x:Key="Installer_Dialog_FileLocked_Text"></v:String>
-    <v:String x:Key="Installer_Dialog_TryAgain_Text"></v:String>
-    <v:String x:Key="Installer_Dialog_ErrorOccured_Text"></v:String>
+    <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text">Hakemistoa ei voi siirtää</v:String>
+    <v:String x:Key="Installer_Dialog_MovingFileFailed_Text">Tiedostoa ei voi siirtää</v:String>
+    <v:String x:Key="Installer_Dialog_FileLocked_Text">Tiedosto on käytössä</v:String>
+    <v:String x:Key="Installer_Dialog_TryAgain_Text">Yritä uudelleen?</v:String>
+    <v:String x:Key="Installer_Dialog_ErrorOccured_Text">Tapahtui virhe.</v:String>
 
     <!--#region ProgressBar -->
 
-    <v:String x:Key="Installer_ProgressBar_Downloading"></v:String>
-    <v:String x:Key="Installer_ProgressBar_Finalizing"></v:String>
-    <v:String x:Key="Installer_ProgressBar_Initalizing"></v:String>
+    <v:String x:Key="Installer_ProgressBar_Downloading">Ladataan...</v:String>
+    <v:String x:Key="Installer_ProgressBar_Finalizing">Viimeistellään...</v:String>
+    <v:String x:Key="Installer_ProgressBar_Initalizing">Valmistellaan...</v:String>
 
 
     <!--#endregion-->
@@ -522,75 +525,75 @@
 
     <!--#region VersionEntries -->
 
-    <v:String x:Key="VersionEntries_LatestSnapshot"></v:String>
-    <v:String x:Key="VersionEntries_LatestRelease"></v:String>
-    <v:String x:Key="VersionEntries_UnnamedInstallation"></v:String>
+    <v:String x:Key="VersionEntries_LatestSnapshot">Viimeisin beta</v:String>
+    <v:String x:Key="VersionEntries_LatestRelease">Viimeisin julkaisu</v:String>
+    <v:String x:Key="VersionEntries_UnnamedInstallation">&lt;nimetön asennus&gt;</v:String>
 
     <!--#endregion-->
 
     <!--#region ThemeEntries -->
 
-    <v:String x:Key="ThemeEntries_LatestUpdate"></v:String>
-    <v:String x:Key="ThemeEntries_Original"></v:String>
+    <v:String x:Key="ThemeEntries_LatestUpdate">Viimeisin päivitys</v:String>
+    <v:String x:Key="ThemeEntries_Original">Alkuperäinen</v:String>
 
-    <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update"></v:String>
-    <v:String x:Key="ThemeEntries_NetherUpdate"></v:String>
-    <v:String x:Key="ThemeEntries_BuzzyBeesUpdate"></v:String>
-    <v:String x:Key="ThemeEntries_VillagePillageUpdate"></v:String>
-    <v:String x:Key="ThemeEntries_UpdateAquatic"></v:String>
-    <v:String x:Key="ThemeEntries_TechnicallyUpdated"></v:String>
-    <v:String x:Key="ThemeEntries_WorldOfColorUpdate"></v:String>
-    <v:String x:Key="ThemeEntries_ExplorationUpdate"></v:String>
-    <v:String x:Key="ThemeEntries_CombatUpdate"></v:String>
-    <v:String x:Key="ThemeEntries_CatsAndPandasUpdate"></v:String>
-    <v:String x:Key="ThemeEntries_PocketEditionRelease"></v:String>
-    <v:String x:Key="ThemeEntries_BedrockStandard"></v:String>
-    <v:String x:Key="ThemeEntries_BedrockMaster"></v:String>
-    <v:String x:Key="ThemeEntries_EarlyLegacyConsole"></v:String>
-    <v:String x:Key="ThemeEntries_MidLegacyConsole"></v:String>
-    <v:String x:Key="ThemeEntries_LateLegacyConsole"></v:String>
-    <v:String x:Key="ThemeEntries_IndieDays"></v:String>
-    <v:String x:Key="ThemeEntries_Dungeons"></v:String>
+    <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">Caves &amp; Cliffs (Osa 1)</v:String>
+    <v:String x:Key="ThemeEntries_NetherUpdate">Nether Update</v:String>
+    <v:String x:Key="ThemeEntries_BuzzyBeesUpdate">Buzzy Beez-päivitys</v:String>
+    <v:String x:Key="ThemeEntries_VillagePillageUpdate">Village &amp; Pillage-päivitys</v:String>
+    <v:String x:Key="ThemeEntries_UpdateAquatic">Update Aquatic</v:String>
+    <v:String x:Key="ThemeEntries_TechnicallyUpdated">Technically Updated [Java]</v:String>
+    <v:String x:Key="ThemeEntries_WorldOfColorUpdate">World of Color-päivitys [Java]</v:String>
+    <v:String x:Key="ThemeEntries_ExplorationUpdate">Exploration-päivitys [Java]</v:String>
+    <v:String x:Key="ThemeEntries_CombatUpdate">Combat-päivitys [Java]</v:String>
+    <v:String x:Key="ThemeEntries_CatsAndPandasUpdate">Cats &amp; Pandas [Bedrock]</v:String>
+    <v:String x:Key="ThemeEntries_PocketEditionRelease">Virallinen julkaisu [Bedrock]</v:String>
+    <v:String x:Key="ThemeEntries_BedrockStandard">Bedrock Editionin standardi</v:String>
+    <v:String x:Key="ThemeEntries_BedrockMaster">Bedrock Editionin pääteema</v:String>
+    <v:String x:Key="ThemeEntries_EarlyLegacyConsole">Alkuperäinen Legacy Console -aikakausi</v:String>
+    <v:String x:Key="ThemeEntries_MidLegacyConsole">Keskikohdan Legacy Console -aikakausi</v:String>
+    <v:String x:Key="ThemeEntries_LateLegacyConsole">Myöhäinen Legacy Console -aikakausi</v:String>
+    <v:String x:Key="ThemeEntries_IndieDays">Indie-päivät</v:String>
+    <v:String x:Key="ThemeEntries_Dungeons">Minecraft Dungeons</v:String>
 
 
     <!--#endregion-->
 
     <!--#region GeneralText -->
 
-    <v:String x:Key="GeneralText_Delete"></v:String>
-    <v:String x:Key="GeneralText_Edit"></v:String>
-    <v:String x:Key="GeneralText_Duplicate"></v:String>
-    <v:String x:Key="GeneralText_Remove"></v:String>
-    <v:String x:Key="GeneralText_Cancel"></v:String>
-    <v:String x:Key="GeneralText_Update"></v:String>
-    <v:String x:Key="GeneralText_Add"></v:String>
-    <v:String x:Key="GeneralText_Save"></v:String>
-    <v:String x:Key="GeneralText_Refresh"></v:String>
-    <v:String x:Key="GeneralText_Backup"></v:String>
-    <v:String x:Key="GeneralText_Versions"></v:String>
-    <v:String x:Key="GeneralText_Browse"></v:String>
-    <v:String x:Key="GeneralText_Reset"></v:String>
-    <v:String x:Key="GeneralText_Yes"></v:String>
-    <v:String x:Key="GeneralText_No"></v:String>
-    <v:String x:Key="GeneralText_Releases"></v:String>
-    <v:String x:Key="GeneralText_Betas"></v:String>
-    <v:String x:Key="GeneralText_Export"></v:String>
-    <v:String x:Key="GeneralText_Repair"></v:String>
+    <v:String x:Key="GeneralText_Delete">Poista</v:String>
+    <v:String x:Key="GeneralText_Edit">Muokkaa</v:String>
+    <v:String x:Key="GeneralText_Duplicate">Kopioi</v:String>
+    <v:String x:Key="GeneralText_Remove">Poista</v:String>
+    <v:String x:Key="GeneralText_Cancel">Peruuta</v:String>
+    <v:String x:Key="GeneralText_Update">Päivitä</v:String>
+    <v:String x:Key="GeneralText_Add">Lisää</v:String>
+    <v:String x:Key="GeneralText_Save">Tallenna</v:String>
+    <v:String x:Key="GeneralText_Refresh">Päivitä</v:String>
+    <v:String x:Key="GeneralText_Backup">Varmuuskopioi</v:String>
+    <v:String x:Key="GeneralText_Versions">Versiot</v:String>
+    <v:String x:Key="GeneralText_Browse">Selaa</v:String>
+    <v:String x:Key="GeneralText_Reset">Nollaa</v:String>
+    <v:String x:Key="GeneralText_Yes">Kyllä</v:String>
+    <v:String x:Key="GeneralText_No">Ei</v:String>
+    <v:String x:Key="GeneralText_Releases">Julkaisut</v:String>
+    <v:String x:Key="GeneralText_Betas">Betat</v:String>
+    <v:String x:Key="GeneralText_Export">Vie</v:String>
+    <v:String x:Key="GeneralText_Repair">Korjaa</v:String>
 
-    <v:String x:Key="GeneralText_Twitter"></v:String>
-    <v:String x:Key="GeneralText_GitHub"></v:String>
-    <v:String x:Key="GeneralText_Website"></v:String>
+    <v:String x:Key="GeneralText_Twitter">Twitter</v:String>
+    <v:String x:Key="GeneralText_GitHub">GitHub</v:String>
+    <v:String x:Key="GeneralText_Website">Verkkosivu</v:String>
 
     <!--#endregion-->
 
     <!--#region GeneralSubtitles -->
 
-    <v:String x:Key="GeneralSubtitles_Versions"></v:String>
-    <v:String x:Key="GeneralSubtitles_Browse"></v:String>
-    <v:String x:Key="GeneralSubtitles_Reset"></v:String>
-    <v:String x:Key="GeneralSubtitles_Categories"></v:String>
-    <v:String x:Key="GeneralSubtitles_Search"></v:String>
-    <v:String x:Key="GeneralSubtitles_SortBy"></v:String>
+    <v:String x:Key="GeneralSubtitles_Versions">VERSIOT</v:String>
+    <v:String x:Key="GeneralSubtitles_Browse">SELAA</v:String>
+    <v:String x:Key="GeneralSubtitles_Reset">NOLLAA</v:String>
+    <v:String x:Key="GeneralSubtitles_Categories">KATEGORIAT</v:String>
+    <v:String x:Key="GeneralSubtitles_Search">HAE</v:String>
+    <v:String x:Key="GeneralSubtitles_SortBy">LAJITTELE</v:String>
 
     <!--#endregion-->
 

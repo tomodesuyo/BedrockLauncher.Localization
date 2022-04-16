@@ -15,6 +15,8 @@ namespace BedrockLauncher.Localization.Language
         public string Path { get; set; }
         public bool IsExternal { get; set; } = false;
         public string Name { get; set; }
+        public bool Installer_IsSelected { get; set; } = false;
+
         public override string ToString()
         {
             return Name;

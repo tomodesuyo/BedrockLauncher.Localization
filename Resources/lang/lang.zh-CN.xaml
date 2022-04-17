@@ -13,7 +13,7 @@
     
     <!-- #region CommunityPage -->
 
-    <v:String x:Key="CommunityPage_SupportText">❤ Support Development ❤</v:String>
+    <v:String x:Key="CommunityPage_SupportText">❤ 支持开发 ❤</v:String>
     <v:String x:Key="CommunityPage_ComingSoon">即将到来！</v:String>
     <v:String x:Key="CommunityPage_CheckBackLater">请稍后再回来看看，这里将有一些超级棒的东西！</v:String>
 
@@ -337,7 +337,7 @@
     <v:String x:Key="FirstLaunch_BackupCheckBox_Subtext">（推荐）</v:String>
     <v:String x:Key="FirstLaunch_CloseButton">关闭</v:String>
     <v:String x:Key="FirstLaunch_BackButton">返回</v:String>
-    <v:String x:Key="FirstLaunch_GoBackButton">❮ GO BACK</v:String>
+    <v:String x:Key="FirstLaunch_GoBackButton">❮ 返回</v:String>
     <v:String x:Key="FirstLaunch_CreateProfileText">档案</v:String>
     <v:String x:Key="FirstLaunch_CreateProfileButton">创建</v:String>
     <v:String x:Key="FirstLaunch_NextButton">下一步</v:String>
@@ -398,7 +398,7 @@
 
     <!--#region NewProfile -->
 
-    <v:String x:Key="NewProfile_GoBackButton">❮ GO BACK</v:String>
+    <v:String x:Key="NewProfile_GoBackButton">❮ 返回</v:String>
     <v:String x:Key="NewProfile_CreateProfileText">档案</v:String>
     <v:String x:Key="NewProfile_CreateProfileText_Error">此名称已存在</v:String>
     <v:String x:Key="NewProfile_CreateProfileSubTitle">输入您的新档案名称！</v:String>

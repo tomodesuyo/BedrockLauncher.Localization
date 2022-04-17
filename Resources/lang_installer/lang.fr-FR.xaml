@@ -48,7 +48,7 @@ du Minecraft Bedrock Launcher</v:String>
     <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text">Ajouter au menu Démarrer</v:String>
     <v:String x:Key="Installer_InstallLocation_RegisterApp_Text">Enregistrer le programme</v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text">Démarrer le programme à la Sortie</v:String>
+    <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text">Démarrer le programme à la sortie</v:String>
 
     <v:String x:Key="Installer_InstallationProgress_FilesInUse">Certains fichiers sont pour l'instant en cours d'utilisation par :</v:String>
 

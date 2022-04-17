@@ -13,7 +13,7 @@
     
     <!-- #region CommunityPage -->
 
-    <v:String x:Key="CommunityPage_SupportText">❤ Support Development ❤</v:String>
+    <v:String x:Key="CommunityPage_SupportText">❤ Підтримати розробку ❤</v:String>
     <v:String x:Key="CommunityPage_ComingSoon">Незабаром!</v:String>
     <v:String x:Key="CommunityPage_CheckBackLater">Поверніться сюди пізніше, щоб побачити щось СУПЕР ДУПЕР КЛАСНЕ!</v:String>
 
@@ -337,7 +337,7 @@
     <v:String x:Key="FirstLaunch_BackupCheckBox_Subtext">(РЕКОМЕНДОВАНО)</v:String>
     <v:String x:Key="FirstLaunch_CloseButton">Закрити</v:String>
     <v:String x:Key="FirstLaunch_BackButton">Назад</v:String>
-    <v:String x:Key="FirstLaunch_GoBackButton">❮ GO BACK</v:String>
+    <v:String x:Key="FirstLaunch_GoBackButton">❮ ПОВЕРНУТИСЯ</v:String>
     <v:String x:Key="FirstLaunch_CreateProfileText">ПРОФІЛЬ</v:String>
     <v:String x:Key="FirstLaunch_CreateProfileButton">Створити</v:String>
     <v:String x:Key="FirstLaunch_NextButton">Далі</v:String>
@@ -398,7 +398,7 @@
 
     <!--#region NewProfile -->
 
-    <v:String x:Key="NewProfile_GoBackButton">❮ GO BACK</v:String>
+    <v:String x:Key="NewProfile_GoBackButton">❮ ПОВЕРНУТИСЯ</v:String>
     <v:String x:Key="NewProfile_CreateProfileText">ПРОФІЛЬ</v:String>
     <v:String x:Key="NewProfile_CreateProfileText_Error">ЦЯ НАЗВА ВЖЕ ВИКОРИСТОВУЄТЬСЯ</v:String>
     <v:String x:Key="NewProfile_CreateProfileSubTitle">Введіть назву нового профілю!</v:String>

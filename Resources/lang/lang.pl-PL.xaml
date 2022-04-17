@@ -14,30 +14,30 @@
     <!-- #region CommunityPage -->
 
     <v:String x:Key="CommunityPage_SupportText">❤ Support Development ❤</v:String>
-    <v:String x:Key="CommunityPage_ComingSoon">Coming Soon!</v:String>
+    <v:String x:Key="CommunityPage_ComingSoon">Już wkrótce!</v:String>
     <v:String x:Key="CommunityPage_CheckBackLater">Check back here later for something SUPER DUPER AWESOME!</v:String>
 
     <!-- #endregion -->
 
     <!--#region ToolbarButtons -->
 
-    <v:String x:Key="ToolbarButtons_NewsButton_Text">News</v:String>
+    <v:String x:Key="ToolbarButtons_NewsButton_Text">Aktualności</v:String>
     <v:String x:Key="ToolbarButtons_MinecraftEdition_Text">Bedrock Edition</v:String>
     <v:String x:Key="ToolbarButtons_MinecraftJavaEdition_Text">Java Edition</v:String>
     <v:String x:Key="ToolbarButtons_MinecraftJavaLauncher_Text">Java Launcher</v:String>
     <v:String x:Key="ToolbarButtons_CustomLauncher_Text">Custom Launcher</v:String>
     <v:String x:Key="ToolbarButtons_SwitchEdition_Text">Switch to</v:String>
     <v:String x:Key="ToolbarButtons_Minecraft_Text">MINECRAFT:</v:String>
-    <v:String x:Key="ToolbarButtons_CommunityButton_Text">Community</v:String>
-    <v:String x:Key="ToolbarButtons_ProfileButton_ProfileType_Text">Profile</v:String>
-    <v:String x:Key="ToolbarButtons_SettingsButton_Text">Settings</v:String>
+    <v:String x:Key="ToolbarButtons_CommunityButton_Text">Społeczność</v:String>
+    <v:String x:Key="ToolbarButtons_ProfileButton_ProfileType_Text">Profil</v:String>
+    <v:String x:Key="ToolbarButtons_SettingsButton_Text">Ustawienia</v:String>
 
     <!--#endregion-->
 
     <!--#region UpdateButton-->
 
-    <v:String x:Key="UpdateButton_NewUpdate_Text">New Update!</v:String>
-    <v:String x:Key="UpdateButton_Download_Text">Click to download!</v:String>
+    <v:String x:Key="UpdateButton_NewUpdate_Text">Nowa aktualizacja!</v:String>
+    <v:String x:Key="UpdateButton_Download_Text">Naciśnij, aby pobrać!</v:String>
 
     <!--#endregion-->
 

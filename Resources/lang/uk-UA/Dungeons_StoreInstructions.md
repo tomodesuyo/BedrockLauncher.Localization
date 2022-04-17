@@ -1,4 +1,4 @@
-﻿# Part 1 - The Powershell Script
+﻿# Частина 1 - Скрипт Powershell
 The Windows Store version of Minecraft Dungeons normally won't let you modify its files/folders. To get around this issue, follow these steps:
 
 ## Системні вимоги:

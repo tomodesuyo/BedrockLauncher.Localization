@@ -35,7 +35,7 @@ The Windows Store version of Minecraft Dungeons normally won't let you modify it
 2. Click on `Update Store Patch`
 3. Repeat Steps 3 through 6 of Part 1 if nessisary
 4. Repeat Steps 1 through 4 of Part 2
-5. Done
+5. Gotowe
 
 
 

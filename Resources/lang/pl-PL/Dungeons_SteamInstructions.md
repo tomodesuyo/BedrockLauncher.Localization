@@ -9,4 +9,4 @@
 1. Click on `Uninstall Symbolic Link` in the Bedrock Launcher
 2. Update the Game Through Steam
 3. Click on `Install Symbolic Link` in the Bedrock Launcher
-4. Done
+4. Gotowe

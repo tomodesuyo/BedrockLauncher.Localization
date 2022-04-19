@@ -26,7 +26,7 @@
     <v:String x:Key="ToolbarButtons_MinecraftJavaEdition_Text">Java Edition</v:String>
     <v:String x:Key="ToolbarButtons_MinecraftJavaLauncher_Text">Java Launcher</v:String>
     <v:String x:Key="ToolbarButtons_CustomLauncher_Text">Custom Launcher</v:String>
-    <v:String x:Key="ToolbarButtons_SwitchEdition_Text">Switch to</v:String>
+    <v:String x:Key="ToolbarButtons_SwitchEdition_Text">Przełącz na</v:String>
     <v:String x:Key="ToolbarButtons_Minecraft_Text">MINECRAFT:</v:String>
     <v:String x:Key="ToolbarButtons_CommunityButton_Text">Społeczność</v:String>
     <v:String x:Key="ToolbarButtons_ProfileButton_ProfileType_Text">Profil</v:String>
@@ -43,14 +43,14 @@
 
     <!--#region ProgressBar -->
 
-    <v:String x:Key="ProgressBar_Downloading">Downloading</v:String>
-    <v:String x:Key="ProgressBar_Installing">Installing</v:String>
-    <v:String x:Key="ProgressBar_Launching">Launching</v:String>
-    <v:String x:Key="ProgressBar_Extracting">Extracting</v:String>
-    <v:String x:Key="ProgressBar_Uninstalling">Uninstalling</v:String>
-    <v:String x:Key="ProgressBar_RegisteringPackage">Registering Package</v:String>
-    <v:String x:Key="ProgressBar_RemovingPackage">Unregistering Package</v:String>
-    <v:String x:Key="ProgressBar_BackingUp">Backing up Save Data</v:String>
+    <v:String x:Key="ProgressBar_Downloading">Pobieranie</v:String>
+    <v:String x:Key="ProgressBar_Installing">Instalowanie</v:String>
+    <v:String x:Key="ProgressBar_Launching">Uruchamianie</v:String>
+    <v:String x:Key="ProgressBar_Extracting">Wypakowywanie</v:String>
+    <v:String x:Key="ProgressBar_Uninstalling">Odinstalowywanie</v:String>
+    <v:String x:Key="ProgressBar_RegisteringPackage">Rejestrowanie pakietu</v:String>
+    <v:String x:Key="ProgressBar_RemovingPackage">Wyrejestrowywanie pakietu</v:String>
+    <v:String x:Key="ProgressBar_BackingUp">Tworzenie kopii danych zapisu</v:String>
 
     <!--#endregion-->
 
@@ -75,9 +75,9 @@
     <v:String x:Key="Dungeons_InstallationPage_HintText_DefaultPath">&lt;Default path&gt;</v:String>
     <v:String x:Key="Dungeons_InstallationPage_Header_InstallLocation">LOKALIZACJA INSTALACJI</v:String>
     <v:String x:Key="Dungeons_InstallationPage_Header_ModFolderLocation">LOKALIZACJA SYMBOLICZNEGO FOLDERU MODYFIKACJI</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_InstructionsTab">Instructions</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_PathsTab">Paths</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_GeneralTab">General</v:String>
+    <v:String x:Key="Dungeons_InstallationPage_InstructionsTab">Instrukcje</v:String>
+    <v:String x:Key="Dungeons_InstallationPage_PathsTab">Ścieżki</v:String>
+    <v:String x:Key="Dungeons_InstallationPage_GeneralTab">Ogólne</v:String>
     <v:String x:Key="Dungeons_InstallationPage_InstallStorePatch">Install Store Patch</v:String>
     <v:String x:Key="Dungeons_InstallationPage_UpdateStorePatch">Update Store Patch</v:String>
     <v:String x:Key="Dungeons_InstallationPage_RemoveModManager">Uninstall Symbolic Link</v:String>
@@ -102,13 +102,13 @@
 
     <!--#region InstallationsPage -->
 
-    <v:String x:Key="InstallationsPage_AddButton">New installation</v:String>
-    <v:String x:Key="InstallationsPage_PlayButton">Play</v:String>
+    <v:String x:Key="InstallationsPage_AddButton">Nowa instalacja</v:String>
+    <v:String x:Key="InstallationsPage_PlayButton">Graj</v:String>
 
-    <v:String x:Key="InstallationsPage_SortBy_LatestPlayed">Latest Played</v:String>
-    <v:String x:Key="InstallationsPage_SortBy_Name">Name</v:String>
+    <v:String x:Key="InstallationsPage_SortBy_LatestPlayed">Ostatnio uruchamiane</v:String>
+    <v:String x:Key="InstallationsPage_SortBy_Name">Nazwa</v:String>
 
-    <v:String x:Key="InstallationsPage_SearchBar_Content">Installation name</v:String>
+    <v:String x:Key="InstallationsPage_SearchBar_Content">Nazwa instalacji</v:String>
 
     <!--#endregion-->
 

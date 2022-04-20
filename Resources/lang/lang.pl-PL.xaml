@@ -78,10 +78,10 @@
     <v:String x:Key="Dungeons_InstallationPage_InstructionsTab">Instrukcje</v:String>
     <v:String x:Key="Dungeons_InstallationPage_PathsTab">Ścieżki</v:String>
     <v:String x:Key="Dungeons_InstallationPage_GeneralTab">Ogólne</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_InstallStorePatch">Install Store Patch</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_UpdateStorePatch">Update Store Patch</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_RemoveModManager">Uninstall Symbolic Link</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_InstallModManager">Install  Symbolic Link</v:String>
+    <v:String x:Key="Dungeons_InstallationPage_InstallStorePatch">Zainstaluj poprawkę sklepową</v:String>
+    <v:String x:Key="Dungeons_InstallationPage_UpdateStorePatch">Zaktualizuj poprawkę sklepową</v:String>
+    <v:String x:Key="Dungeons_InstallationPage_RemoveModManager">Odinstaluj symboliczne powiązanie</v:String>
+    <v:String x:Key="Dungeons_InstallationPage_InstallModManager">Zainstaluj symboliczne powiązanie</v:String>
     <v:String x:Key="Dungeons_InstallationPage_RepairOrUpdateGame">Napraw/Aktualizuj grę</v:String>
 
 
@@ -165,17 +165,17 @@
 
     <v:String x:Key="EditSkinPackScreen_LocalizationNameSubtitle">LOCALIZATION NAME</v:String>
     <v:String x:Key="EditSkinPackScreen_SerializeNameSubtitle">SERIALIZATION NAME</v:String>
-    <v:String x:Key="EditSkinPackScreen_LocalizationLangSubtitle">LANGUAGE DEFINITIONS</v:String>
+    <v:String x:Key="EditSkinPackScreen_LocalizationLangSubtitle">DEFINICJE JĘZYKA</v:String>
 
-    <v:String x:Key="EditSkinPackScreen_AddLangTextBoxSubtitle">LANG NAME</v:String>
+    <v:String x:Key="EditSkinPackScreen_AddLangTextBoxSubtitle">NAZWA JĘZYKA</v:String>
 
-    <v:String x:Key="EditSkinPackScreen_DefinitionsSubtitle">OTHER DEFINITIONS</v:String>
-    <v:String x:Key="EditSkinPackScreen_ContentSubtitle">CONTENT</v:String>
+    <v:String x:Key="EditSkinPackScreen_DefinitionsSubtitle">INNE DEFINICJE</v:String>
+    <v:String x:Key="EditSkinPackScreen_ContentSubtitle">ZAWARTOŚĆ</v:String>
     <v:String x:Key="EditSkinPackScreen_ModulesSubtitle">MODUŁY</v:String>
 
     <v:String x:Key="EditSkinPackScreen_FormatVersionSubtitle">FORMAT VERSION</v:String>
 
-    <v:String x:Key="EditSkinPackScreen_HeaderNameSubtitle">PACK NAME</v:String>
+    <v:String x:Key="EditSkinPackScreen_HeaderNameSubtitle">NAZWA ZESTAWU</v:String>
     <v:String x:Key="EditSkinPackScreen_HeaderUUIDSubtitle">UUID</v:String>
     <v:String x:Key="EditSkinPackScreen_HeaderVersionSubtitle">WERSJA</v:String>
 
@@ -183,10 +183,10 @@
     <v:String x:Key="EditSkinPackScreen_ModulesUUIDSubtitle">UUID</v:String>
     <v:String x:Key="EditSkinPackScreen_ModulesVersionSubtitle">WERSJA</v:String>
 
-    <v:String x:Key="EditSkinPackScreen_Header">Edit Skin Pack</v:String>
-    <v:String x:Key="EditSkinPackScreen_AddHeader">Add Skin Pack</v:String>
+    <v:String x:Key="EditSkinPackScreen_Header">Edytuj zestaw skórek</v:String>
+    <v:String x:Key="EditSkinPackScreen_AddHeader">Dodaj zestaw skórek</v:String>
 
-    <v:String x:Key="EditSkinPackScreen_Warning">* Please note that modifying language definitions and changing the pack icon are irreversible regardless if you save your changes or not!!!</v:String>
+    <v:String x:Key="EditSkinPackScreen_Warning">* Pamiętaj, że zmiany wprowadzone w definicjach języka oraz zmiana ikony zestawu są nieodwracalne, niezależnie od tego, czy zapiszesz swoje zmiany lub nie!!!</v:String>
 
     <!--#endregion-->
 
@@ -526,7 +526,7 @@ są wyłączone, włącz je i spróbuj ponownie</v:String>
 
     <!--#region VersionEntries -->
 
-    <v:String x:Key="VersionEntries_LatestSnapshot">Latest Beta</v:String>
+    <v:String x:Key="VersionEntries_LatestSnapshot">Najnowsza Beta</v:String>
     <v:String x:Key="VersionEntries_LatestRelease">Najnowsze wydanie</v:String>
     <v:String x:Key="VersionEntries_UnnamedInstallation">&lt;unnamed installation&gt;</v:String>
 
@@ -547,7 +547,7 @@ są wyłączone, włącz je i spróbuj ponownie</v:String>
     <v:String x:Key="ThemeEntries_ExplorationUpdate">Exploration Update [Java]</v:String>
     <v:String x:Key="ThemeEntries_CombatUpdate">Combat Update [Java]</v:String>
     <v:String x:Key="ThemeEntries_CatsAndPandasUpdate">Cats &amp; Pandas [Bedrock]</v:String>
-    <v:String x:Key="ThemeEntries_PocketEditionRelease">Official Release [Bedrock]</v:String>
+    <v:String x:Key="ThemeEntries_PocketEditionRelease">Oficjalne Wydanie [Bedrock]</v:String>
     <v:String x:Key="ThemeEntries_BedrockStandard">Bedrock Edition Standard</v:String>
     <v:String x:Key="ThemeEntries_BedrockMaster">Bedrock Edition Master</v:String>
     <v:String x:Key="ThemeEntries_EarlyLegacyConsole">Original Legacy Console Era</v:String>

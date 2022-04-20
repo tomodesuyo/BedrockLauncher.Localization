@@ -10,31 +10,31 @@ Wersja Minecraft Dungeons ze sklepu Microsoft Store nie zezwala na modyfikowanie
 
 ## W Bedrock Launcher:
 1. Upewnij się, że Źródło gry jest ustawione na `Microsoft Store`
-3. Click on `Install Store Patch`
+3. Naciśnij na `Zainstaluj poprawkę sklepową`
 
-## In the Powershell Window:
+## W oknie PowerShell:
 
-3. You will be asked to select a folder. Choose an empty folder where you want the game to be moved to. Do not choose a folder in Program Files or One Drive, it will break things.
-4. The game will open at one point. Do not close it when this happens. If you run into any issues, make sure to check the Troubleshooting section below.
-5. A `~mods` folder will appear. This is where you place your mods.
-7. Launching the modded game is just like launching the regular game. You can do it from the start menu, Windows Store, Xbox app, and so on, just like you normally do. Do NOT try to launch it by running the .exe files in the game folder.
+3. Będzie konieczne wybranie folderu. Wybierz pusty folder, do którego ma zostać przeniesiona gra. Nie wybieraj folderu znajdującego się w Plikach programów lub OneDrive, ponieważ może dojść do awarii.
+4. W pewnym momencie gra zostanie uruchomiona. Nie zamykaj jej, gdy tak się stanie. Jeśli napotkasz jakiekolwiek problemy, sprawdź sekcję Rozwiązywanie problemów poniżej.
+5. Zostanie utworzony folder `~mods`. W nim umieścisz swoje modyfikacje.
+7. Uruchamianie zmodyfikowanej wersji gry odbywa się tak samo, jak zwykłej wersji gry. Możesz ją uruchomić z menu Start, sklepu Microsoft Store, aplikacji Xbox itd, tak jak robisz to zazwyczaj. NIE uruchamiaj gry poprzez pliki .exe znajdujące się w folderze gry.
 
-## Troubleshooting:
-- If you run into any issues while/after patching the game, some of these things might help you.
-- If the game didn't open at all while patching and the patching didn't work, try opening the game manually before running the patcher. Keep the game open until it either closes by itself or the patcher finishes.
-- If you get an error saying it can't verify your ownership of the game, you must have launched the game using the .exe file. Don't do that. Run the game from the start menu, Windows Store, or Xbox app. If you did, but still get this error, reinstall the regular game and log in at least once (open the game and select a character) before patching it.
+## Rozwiązywanie problemów:
+- Jeśli napotkasz jakiekolwiek problemy podczas/po aktualizacji gry, niektóre z tych rozwiązań mogą Ci pomóc.
+- Jeśli gra w ogóle nie uruchomiła się podczas aktualizacji oraz aktualizacja nie powiodła się, uruchom grę ręcznie przed przystąpieniem do aktualizacji. Pozostaw grę otwartą, dopóki sama się nie zamknie lub aktualizacja zostanie zakończona.
+- Jeśli zostanie wyświetlony błąd weryfikacji posiadania gry, oznacza to, że uruchomiono grę poprzez plik .exe. Nie rób tego. Uruchom grę z menu Start, przez sklep Microsoft Store lub aplikację Xbox. If you did, but still get this error, reinstall the regular game and log in at least once (open the game and select a character) before patching it.
 
 # Part 2 - The Bedrock Launcher Setup
 1. Set the install location to the folder containing `Dungeons.exe`. It should be in a parent folder of the `~mods` folder from earlier
 2. Select where you want your symbolic mods folder to be (it should not be in the same location as `~mods` folder from earlier)
 3. Click on `Install Symbolic Link`
-4. Your game's mod folder should now be paired with your symbolic mods folder
+4. Folder modyfikacji Twojej gry powinien być teraz powiązany z symbolicznym folderem modyfikacji
 
-# How to Update
-1. Click on `Uninstall Symbolic Link`
-2. Click on `Update Store Patch`
-3. Repeat Steps 3 through 6 of Part 1 if nessisary
-4. Repeat Steps 1 through 4 of Part 2
+# Jak aktualizować
+1. Naciśnij na `Odinstaluj symboliczne powiązanie`
+2. Naciśnij na `Zaktualizuj poprawkę sklepową`
+3. Jeśli to konieczne, powtórz kroki 3-6 z części 1
+4. Powtórz kroki 1-4 z części 2
 5. Gotowe
 
 

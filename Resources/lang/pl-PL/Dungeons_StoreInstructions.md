@@ -1,15 +1,15 @@
-﻿# Part 1 - The Powershell Script
-The Windows Store version of Minecraft Dungeons normally won't let you modify its files/folders. To get around this issue, follow these steps:
+﻿# Część 1 - Skrypt PowerShell
+Wersja Minecraft Dungeons ze sklepu Microsoft Store nie zezwala na modyfikowanie jej plików/folderów. Aby obejść tę blokadę, wykonaj następujące czynności:
 
-## Prerequisites:
-- Temporarily disable any antivirus software. Most will detect that an unknown script is being run and try to stop it.
-- If you use Bitdefender, you need to uninstall it before continuing, as it breaks the script even when turned off.
-- Make sure you have at least 10 GBs of space free.
-- Make sure your game is up to date. To do this, press Win + R, enter `ms-windows-store://DownloadsAndUpdates/` and press enter. Then, press "Get updates" in the top right corner of the window that opens.
-- Install [Visual C++ Redist](https://aka.ms/vs/16/release/vc_redist.x64.exe). Even if you think you have it installed, try the installer. You may have an older version that won't work.
+## Wymagania wstępne:
+- Tymczasowo wyłącz jakiekolwiek oprogramowanie antywirusowe. Większość z nich wykryje, że uruchomiony jest nieznany skrypt i spróbuje go zatrzymać.
+- Jeśli używasz programu Bitdefender, należy go odinstalować przed kontynuowaniem, ponieważ przerywa on skrypt, nawet jeśli zostanie wyłączony.
+- Upewnij się, że posiadasz co najmniej 10 GB wolnego miejsca.
+- Upewnij się, że Twoja gra jest aktualna. Aby to zrobić, naciśnij klawisze Windows + R, wpisz `ms-windows-store://DownloadsAndUpdates/` i naciśnij Enter. Następnie naciśnij "Pobierz aktualizacje" w prawym górnym rogu nowo otwartego okna.
+- Zainstaluj [Pakiet redystrybucyjny Visual C++](https://aka.ms/vs/16/release/vc_redist.x64.exe). Zrób to, nawet jeśli uważasz, że jest już zainstalowane. Możesz posiadać starszą wersję, która nie zadziała.
 
-## In the Bedrock Launcher:
-1. Make Sure your game variant is set to `Microsoft Store`
+## W Bedrock Launcher:
+1. Upewnij się, że Źródło gry jest ustawione na `Microsoft Store`
 3. Click on `Install Store Patch`
 
 ## In the Powershell Window:

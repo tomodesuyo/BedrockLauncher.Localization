@@ -21,38 +21,38 @@
     <v:String x:Key="Installer_WelcomePage_Info2_Text">It is recommended that you close all other applications before continuing.</v:String>
     <v:String x:Key="Installer_WelcomePage_Info3_Text">Click Next to continue, or Cancel to exit Setup.</v:String>
 
-    <v:String x:Key="Installer_LicenseAgreement_Title">License Agreement</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_Title">Umowa licencyjna</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Info_Text">Please read the following License Agreement. You must accept the terms of this.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Info2_Text">agreement before continuing with the installation.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Accept_Text">I accept the license.</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">I don't accept the license.</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">Nie akceptuję umowy.</v:String>
 
-    <v:String x:Key="Installer_InstallType_Title">Choose Install Type</v:String>
+    <v:String x:Key="Installer_InstallType_Title">Wybierz typ instalacji</v:String>
     <v:String x:Key="Installer_InstallType_Info_Text">Select which version of the launcher you want to download</v:String>
 
-    <v:String x:Key="Installer_InstallType_InstallLocation_BetaRadioButton_Text">Beta Version</v:String>
-    <v:String x:Key="Installer_InstallType_InstallLocation_ReleaseRadioButton_Text">Release Version</v:String>
+    <v:String x:Key="Installer_InstallType_InstallLocation_BetaRadioButton_Text">Wersja Beta</v:String>
+    <v:String x:Key="Installer_InstallType_InstallLocation_ReleaseRadioButton_Text">Oficjalne wydanie</v:String>
 
-    <v:String x:Key="Installer_InstallType_ReleaseInfo">The most stable version of the launcher, but not the most up to date</v:String>
-    <v:String x:Key="Installer_InstallType_BetaInfo">The latest version of the launcher, but bound to be untested</v:String>
+    <v:String x:Key="Installer_InstallType_ReleaseInfo">Najbardziej stabilna wersja launchera bez najnowszych funkcji</v:String>
+    <v:String x:Key="Installer_InstallType_BetaInfo">Najnowsza wersja launchera mogąca posiadać błędy</v:String>
 
-    <v:String x:Key="Installer_InstallLocation_Title">Choose Install Location</v:String>
+    <v:String x:Key="Installer_InstallLocation_Title">Wybierz lokalizację instalacji</v:String>
     <v:String x:Key="Installer_InstallLocation_Info_Text">Setup will install Minecraft Bedrock Launcher in the following folder. To install in a different folder,</v:String>
-    <v:String x:Key="Installer_InstallLocation_Info2_Text">click Browse and select another folder.</v:String>
+    <v:String x:Key="Installer_InstallLocation_Info2_Text">naciśnij Przeglądaj i wybierz inny folder.</v:String>
 
-    <v:String x:Key="Installer_InstallLocation_DestinationFolder_Header">Destination Folder</v:String>
-    <v:String x:Key="Installer_InstallLocation_Browse_Text">BROWSE</v:String>
+    <v:String x:Key="Installer_InstallLocation_DestinationFolder_Header">Folder docelowy</v:String>
+    <v:String x:Key="Installer_InstallLocation_Browse_Text">PRZEGLĄDAJ</v:String>
 
-    <v:String x:Key="Installer_InstallLocation_CreateDesktopIcon_Text">Create a desktop icon</v:String>
-    <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text">Add to Start menu</v:String>
-    <v:String x:Key="Installer_InstallLocation_RegisterApp_Text">Register Program</v:String>
+    <v:String x:Key="Installer_InstallLocation_CreateDesktopIcon_Text">Utwórz skrót na pulpicie</v:String>
+    <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text">Dodaj skrót do menu Start</v:String>
+    <v:String x:Key="Installer_InstallLocation_RegisterApp_Text">Zarejestruj program</v:String>
 
     <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text">Start Program on Exit</v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_FilesInUse">Some of the files are currently in use by the following:</v:String>
+    <v:String x:Key="Installer_InstallationProgress_FilesInUse">Niektóre pliki są obecnie używane przez:</v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_Title">Installing</v:String>
-    <v:String x:Key="Installer_InstallationProgress_Info_Text">Please wait while Setup installs Minecraft Bedrock Launcher on your computer.</v:String>
+    <v:String x:Key="Installer_InstallationProgress_Title">Instalowanie</v:String>
+    <v:String x:Key="Installer_InstallationProgress_Info_Text">Proszę czekać, aż konfigurator zainstaluje Minecraft Bedrock Launcher na Twoim komputerze.</v:String>
 
 
     <!--#endregion-->

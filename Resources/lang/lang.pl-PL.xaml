@@ -257,11 +257,11 @@
 
     <v:String x:Key="GeneralSettingsScreen_UpdatesSubtitle">AKTUALIZACJE LAUNCHERA</v:String>
 
-    <v:String x:Key="GeneralSettingsScreen_SupportCreatorButton">Support creator</v:String>
+    <v:String x:Key="GeneralSettingsScreen_SupportCreatorButton">Wspieraj twórcę</v:String>
 
 
     <v:String x:Key="GeneralSettingsScreen_ExperimentalSaveRedirection">Enable experimental save redirection</v:String>
-    <v:String x:Key="GeneralSettingsScreen_HideJavaLauncherShortcut">Hide Java Edition launcher shortcut</v:String>
+    <v:String x:Key="GeneralSettingsScreen_HideJavaLauncherShortcut">Ukryj skrót launchera Java Edition</v:String>
     <v:String x:Key="GeneralSettingsScreen_ShowExternalLauncherShortcut">Show external launcher shortcut</v:String>
     <v:String x:Key="GeneralSettingsScreen_BackupButton">Utwórz kopię danych zapisu</v:String>
     <v:String x:Key="GeneralSettingsScreen_AdvancedSettingsButton">Ustawienia zaawansowane</v:String>
@@ -280,22 +280,22 @@
     <v:String x:Key="AcountsSettingsPage_InsiderHub_Text">INSIDER SETTINGS</v:String>
     <v:String x:Key="AcountsSettingsPage_InsiderHubNew_Text">Normal Settings</v:String>
     <v:String x:Key="AcountsSettingsPage_InsiderHubLegacy_Text">Legacy Settings</v:String>
-    <v:String x:Key="AcountsSettingsPage_ManageAccounts_Text">Manage Accounts</v:String>
-    <v:String x:Key="AcountsSettingsPage_AccountSettings_Text">ACCOUNT SETTINGS</v:String>
+    <v:String x:Key="AcountsSettingsPage_ManageAccounts_Text">Zarządzaj kontami</v:String>
+    <v:String x:Key="AcountsSettingsPage_AccountSettings_Text">USTAWIENIA KONTA</v:String>
 
     <!--#endregion-->
 
     <!--#region AboutPage -->
 
-    <v:String x:Key="AboutPage_Title">ABOUT MINECRAFT: BEDROCK EDITION LAUNCHER</v:String>
+    <v:String x:Key="AboutPage_Title">INFORMACJE O MINECRAFT: BEDROCK EDITION LAUNCHER</v:String>
     <v:String x:Key="AboutPage_DevelopedBy_Text">STWORZONE PRZEZ</v:String>
     <v:String x:Key="AboutPage_OriginallyDevelopedBy_Text">NA PODSTAWIE PROJEKTU AUTORSTWA</v:String>
     <v:String x:Key="AboutPage_SpecialThanks_Text">SZCZEGÓLNE PODZIĘKOWANIA DLA</v:String>
 
-    <v:String x:Key="AboutPage_McMrArm_Text">For creating the original Minecraft Windows 10 Version downloader (which this work derives from)</v:String>
-    <v:String x:Key="AboutPage_BsCommunity_Text">For their work on SkinView3D, which is used for the skin viewing functionality in the launcher</v:String>
-    <v:String x:Key="AboutPage_Mojang_Text">For Minecraft!!!</v:String>
-    <v:String x:Key="AboutPage_BsRepo_Text">SkinView3D Repo</v:String>
+    <v:String x:Key="AboutPage_McMrArm_Text">Za stworzenie oryginalnego systemu pobierania wersji Minecraft Windows 10 Edition (na podstawie którego powstał ten program)</v:String>
+    <v:String x:Key="AboutPage_BsCommunity_Text">Za stworzenie SkinView3D, który jest używany do przeglądania skórek w launcherze</v:String>
+    <v:String x:Key="AboutPage_Mojang_Text">Za Minecraft!!!</v:String>
+    <v:String x:Key="AboutPage_BsRepo_Text">Repozytorium SkinView3D</v:String>
     <v:String x:Key="AboutPage_CurrentBuild">Bieżąca kompilacja: </v:String>
 
     <!--#endregion-->
@@ -303,11 +303,11 @@
     <!--#region AdvancedSettings -->
 
     <v:String x:Key="AdvancedSettings_Title">Ustawienia zaawansowane</v:String>
-    <v:String x:Key="AdvancedSettings_LauncherOptions_Text">LAUNCHER OPTIONS</v:String>
+    <v:String x:Key="AdvancedSettings_LauncherOptions_Text">OPCJE LAUNCHERA</v:String>
     <v:String x:Key="AdvancedSettings_PathSubtitle_Text">STORAGE DIRECTORY</v:String>
     <v:String x:Key="AdvancedSettings_RestartButton_Text">Uruchom ponownie</v:String>
-    <v:String x:Key="AdvancedSettings_Notice_Text">* All settings will restart the launcher</v:String>
-    <v:String x:Key="AdvancedSettings_PortableMode_Text">Enable Portable Mode</v:String>
+    <v:String x:Key="AdvancedSettings_Notice_Text">* Zmiana ustawień wymaga ponownego uruchomienia launchera</v:String>
+    <v:String x:Key="AdvancedSettings_PortableMode_Text">Włącz tryb przenośny</v:String>
 
     <!--#endregion-->
 
@@ -318,13 +318,13 @@
     <!--#region FirstLaunch -->
 
     <v:String x:Key="FirstLaunch_WelcomeTitle">Witaj!</v:String>
-    <v:String x:Key="FirstLaunch_WelcomeSubTitle">Welcome to Minecraft Bedrock Launcher!</v:String>
+    <v:String x:Key="FirstLaunch_WelcomeSubTitle">Witaj w Minecraft Bedrock Launcher!</v:String>
     <v:String x:Key="FirstLaunch_CreateProfileSubTitle">Utwórz swój pierwszy profil!</v:String>
     <v:String x:Key="FirstLaunch_AlmostThereTitle">Prawie gotowe!</v:String>
     <v:String x:Key="FirstLaunch_OneThingTitle">Jeszcze jedna rzecz...</v:String>
     <v:String x:Key="FirstLaunch_OneThingSubtitle">Poświęć chwilę na dostosowanie tych opcji do własnych potrzeb.</v:String>
-    <v:String x:Key="FirstLaunch_ChooseAccountTitle">Choose an Insider Account</v:String>
-    <v:String x:Key="FirstLaunch_ChooseAccountSubtitle">* This will be used to verify and download betas. You must be opted in the Xbox Insider Hub for the selected account to download betas. You also may need to restart the launcher or uninstall Minecraft for downloading betas to work.</v:String>
+    <v:String x:Key="FirstLaunch_ChooseAccountTitle">Wybierz konto Insider</v:String>
+    <v:String x:Key="FirstLaunch_ChooseAccountSubtitle">* Zostanie ono użyte do weryfikacji i pobierania wersji beta. Należy dołączyć do Xbox Insider Hub, aby pobierać wersje beta na wybranym koncie. Może być również wymagane ponowne uruchomienie launchera lub odinstalowanie Minecraft w celu uruchomienia wersji beta.</v:String>
 
     <v:String x:Key="FirstLaunch_BeforeStartingToUse" xml:space="preserve">Before using, it is highly recommended that you press backup to create an installation of your existing save data as the launcher does replace the original directory with a symbolic link which allows us to redirect save data.
 
@@ -492,20 +492,20 @@ są wyłączone, włącz je i spróbuj ponownie</v:String>
     <v:String x:Key="Installer_InstallLocation_Browse_Text">PRZEGLĄDAJ</v:String>
 
     <v:String x:Key="Installer_InstallLocation_CreateDesktopIcon_Text">Utwórz skrót na pulpicie</v:String>
-    <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text">Add to Start menu</v:String>
+    <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text">Dodaj skrót do menu Start</v:String>
     <v:String x:Key="Installer_InstallLocation_RegisterApp_Text">Register Program</v:String>
 
     <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text">Start Program on Exit</v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_FilesInUse">Some of the files are currently in use by the following:</v:String>
+    <v:String x:Key="Installer_InstallationProgress_FilesInUse">Niektóre pliki są obecnie używane przez:</v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_Title">Installing</v:String>
-    <v:String x:Key="Installer_InstallationProgress_Info_Text">Please wait while Setup installs Minecraft Bedrock Launcher on your computer.</v:String>
+    <v:String x:Key="Installer_InstallationProgress_Title">Instalowanie</v:String>
+    <v:String x:Key="Installer_InstallationProgress_Info_Text">Proszę czekać, aż konfigurator zainstaluje Minecraft Bedrock Launcher na Twoim komputerze.</v:String>
 
 
     <!--#endregion-->
 
-    <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text">Unable to Move Directory</v:String>
+    <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text">Nie można przenieść katalogu</v:String>
     <v:String x:Key="Installer_Dialog_MovingFileFailed_Text">Nie można przenieść pliku</v:String>
     <v:String x:Key="Installer_Dialog_FileLocked_Text">Plik jest w użyciu</v:String>
     <v:String x:Key="Installer_Dialog_TryAgain_Text">Spróbować ponownie?</v:String>

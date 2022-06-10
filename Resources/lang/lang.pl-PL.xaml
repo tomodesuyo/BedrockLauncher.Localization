@@ -278,8 +278,8 @@
 
     <v:String x:Key="AcountsSettingsPage_SelectedAccount_Subtitle">WYBRANE KONTO</v:String>
     <v:String x:Key="AcountsSettingsPage_InsiderHub_Text">INSIDER SETTINGS</v:String>
-    <v:String x:Key="AcountsSettingsPage_InsiderHubNew_Text">Normal Settings</v:String>
-    <v:String x:Key="AcountsSettingsPage_InsiderHubLegacy_Text">Legacy Settings</v:String>
+    <v:String x:Key="AcountsSettingsPage_InsiderHubNew_Text">Zwykłe ustawienia</v:String>
+    <v:String x:Key="AcountsSettingsPage_InsiderHubLegacy_Text">Przestarzałe ustawienia</v:String>
     <v:String x:Key="AcountsSettingsPage_ManageAccounts_Text">Zarządzaj kontami</v:String>
     <v:String x:Key="AcountsSettingsPage_AccountSettings_Text">USTAWIENIA KONTA</v:String>
 

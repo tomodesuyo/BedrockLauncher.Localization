@@ -104,6 +104,12 @@ namespace BedrockLauncher.Localization.Language
             }
         }
 
+        public static string GetResource(string _name)
+        {
+            TryGetResource(_name, out string result);
+            return result;
+        }
+
 
         #region Public Methods
 

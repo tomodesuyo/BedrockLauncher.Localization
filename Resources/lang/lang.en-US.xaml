@@ -123,7 +123,8 @@
     <v:String x:Key="EditInstallationScreen_CreateButton">Create</v:String>
     <v:String x:Key="EditInstallationScreen_AltCreateButton">Save</v:String>
 
-    <v:String x:Key="EditInstallationScreen_LatestSnapshot">Latest beta</v:String>
+    <v:String x:Key="EditInstallationScreen_LatestPreview">Latest preview</v:String>
+    <v:String x:Key="EditInstallationScreen_LatestBeta">Latest beta</v:String>
     <v:String x:Key="EditInstallationScreen_LatestRelease">Latest release</v:String>
 
     <v:String x:Key="EditInstallationScreen_NameSubtitle">NAME</v:String>
@@ -262,19 +263,7 @@
 
     <v:String x:Key="GeneralSettingsScreen_SupportCreatorButton">Support creator</v:String>
 
-
-    <v:String x:Key="GeneralSettingsScreen_ExperimentalSaveRedirection">Enable experimental save redirection</v:String>
-    <v:String x:Key="GeneralSettingsScreen_HideJavaLauncherShortcut">Hide Java Edition launcher shortcut</v:String>
-    <v:String x:Key="GeneralSettingsScreen_ShowExternalLauncherShortcut">Show external launcher shortcut</v:String>
     <v:String x:Key="GeneralSettingsScreen_BackupButton">Backup Save Data</v:String>
-    <v:String x:Key="GeneralSettingsScreen_AdvancedSettingsButton">Advanced Settings</v:String>
-
-    <v:String x:Key="GeneralSettingsScreen_ExternalLauncherSubtitle">EXTERNAL LAUNCHER SETTINGS</v:String>
-    <v:String x:Key="GeneralSettingsScreen_ExternalLauncherNameSubtitle">PATH</v:String>
-    <v:String x:Key="GeneralSettingsScreen_ExternalLauncherPathSubtitle">NAME</v:String>
-    <v:String x:Key="GeneralSettingsScreen_ExternalLauncherArgumentsSubtitle">ARGUMENTS</v:String>
-    <v:String x:Key="GeneralSettingsScreen_ExternalLauncherIconSubtitle">ICON</v:String>
-
     <!--#endregion-->
 
     <!--#region AcountsSettingsPage -->
@@ -303,14 +292,13 @@
 
     <!--#endregion-->
 
-    <!--#region AdvancedSettings -->
+    <!--#region GeneralSettingsScreen_PathOptions -->
 
-    <v:String x:Key="AdvancedSettings_Title">Advanced Settings</v:String>
-    <v:String x:Key="AdvancedSettings_LauncherOptions_Text">LAUNCHER OPTIONS</v:String>
-    <v:String x:Key="AdvancedSettings_PathSubtitle_Text">STORAGE DIRECTORY</v:String>
-    <v:String x:Key="AdvancedSettings_RestartButton_Text">Restart</v:String>
-    <v:String x:Key="AdvancedSettings_Notice_Text">* All settings will restart the launcher</v:String>
-    <v:String x:Key="AdvancedSettings_PortableMode_Text">Enable Portable Mode</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_LauncherOptions_Text">PATH OPTIONS</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_PathSubtitle_Text">STORAGE DIRECTORY</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_PortableMode_Text">Enable Portable Mode</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_RestartButton_Text">Apply &amp; Restart</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_Notice_Text">* These settings will restart the launcher</v:String>
 
     <!--#endregion-->
 
@@ -525,7 +513,8 @@
 
     <!--#region VersionEntries -->
 
-    <v:String x:Key="VersionEntries_LatestSnapshot">Latest Beta</v:String>
+    <v:String x:Key="VersionEntries_LatestPreview">Latest Preview</v:String>
+    <v:String x:Key="VersionEntries_LatestBeta">Latest Beta</v:String>
     <v:String x:Key="VersionEntries_LatestRelease">Latest Release</v:String>
     <v:String x:Key="VersionEntries_UnnamedInstallation">&lt;unnamed installation&gt;</v:String>
 
@@ -577,6 +566,7 @@
     <v:String x:Key="GeneralText_No">No</v:String>
     <v:String x:Key="GeneralText_Releases">Releases</v:String>
     <v:String x:Key="GeneralText_Betas">Betas</v:String>
+    <v:String x:Key="GeneralText_Previews">Previews</v:String>
     <v:String x:Key="GeneralText_Export">Export</v:String>
     <v:String x:Key="GeneralText_Repair">Repair</v:String>
 

@@ -129,7 +129,7 @@
     <v:String x:Key="LauncherNewsPage_Build_Text">Montaje</v:String>
     <v:String x:Key="LauncherNewsPage_Changes_Text">Cambios:</v:String>
     <v:String x:Key="LauncherNewsPage_CheckForUpdates">Buscar Actualizaciones</v:String>
-    <v:String x:Key="LauncherNewsPage_ForceUpdate">Forzar la actualización</v:String>
+    <v:String x:Key="LauncherNewsPage_GetUpdates">Get Updates</v:String>
     <v:String x:Key="LauncherNewsPage_CurrentBuild_Text">Actual</v:String>
 
     <!--#endregion-->

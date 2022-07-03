@@ -129,7 +129,7 @@
     <v:String x:Key="LauncherNewsPage_Build_Text">Kompilacja</v:String>
     <v:String x:Key="LauncherNewsPage_Changes_Text">Zmiany:</v:String>
     <v:String x:Key="LauncherNewsPage_CheckForUpdates">Sprawdź aktualizacje</v:String>
-    <v:String x:Key="LauncherNewsPage_ForceUpdate">Wymuś aktualizację</v:String>
+    <v:String x:Key="LauncherNewsPage_GetUpdates">Get Updates</v:String>
     <v:String x:Key="LauncherNewsPage_CurrentBuild_Text">Bieżąca</v:String>
 
     <!--#endregion-->

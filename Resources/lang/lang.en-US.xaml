@@ -132,7 +132,7 @@
     <v:String x:Key="LauncherNewsPage_Build_Text">Build</v:String>
     <v:String x:Key="LauncherNewsPage_Changes_Text">Changes:</v:String>
     <v:String x:Key="LauncherNewsPage_CheckForUpdates">Check for Updates</v:String>
-    <v:String x:Key="LauncherNewsPage_ForceUpdate">Force Update</v:String>
+    <v:String x:Key="LauncherNewsPage_GetUpdates">Get Updates</v:String>
     <v:String x:Key="LauncherNewsPage_CurrentBuild_Text">Current</v:String>
 
     <!--#endregion-->

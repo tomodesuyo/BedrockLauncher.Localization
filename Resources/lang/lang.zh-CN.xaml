@@ -129,7 +129,7 @@
     <v:String x:Key="LauncherNewsPage_Build_Text">构建</v:String>
     <v:String x:Key="LauncherNewsPage_Changes_Text">更改</v:String>
     <v:String x:Key="LauncherNewsPage_CheckForUpdates">检查更新</v:String>
-    <v:String x:Key="LauncherNewsPage_ForceUpdate">强制更新</v:String>
+    <v:String x:Key="LauncherNewsPage_GetUpdates">Get Updates</v:String>
     <v:String x:Key="LauncherNewsPage_CurrentBuild_Text">当前</v:String>
 
     <!--#endregion-->

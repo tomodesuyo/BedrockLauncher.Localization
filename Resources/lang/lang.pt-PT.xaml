@@ -129,7 +129,7 @@
     <v:String x:Key="LauncherNewsPage_Build_Text">Versão</v:String>
     <v:String x:Key="LauncherNewsPage_Changes_Text">Mudanças:</v:String>
     <v:String x:Key="LauncherNewsPage_CheckForUpdates">Verificar por atualizações</v:String>
-    <v:String x:Key="LauncherNewsPage_ForceUpdate">Forçar atualização</v:String>
+    <v:String x:Key="LauncherNewsPage_GetUpdates">Get Updates</v:String>
     <v:String x:Key="LauncherNewsPage_CurrentBuild_Text">Em uso</v:String>
 
     <!--#endregion-->

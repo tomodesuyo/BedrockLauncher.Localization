@@ -129,7 +129,7 @@
     <v:String x:Key="LauncherNewsPage_Build_Text">Сборка</v:String>
     <v:String x:Key="LauncherNewsPage_Changes_Text">Изменения:</v:String>
     <v:String x:Key="LauncherNewsPage_CheckForUpdates">Проверить обновления</v:String>
-    <v:String x:Key="LauncherNewsPage_ForceUpdate">Форсированное обновление</v:String>
+    <v:String x:Key="LauncherNewsPage_GetUpdates">Get Updates</v:String>
     <v:String x:Key="LauncherNewsPage_CurrentBuild_Text">Текущая</v:String>
 
     <!--#endregion-->

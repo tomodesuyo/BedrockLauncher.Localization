@@ -14,8 +14,6 @@
     <!-- #region CommunityPage -->
 
     <v:String x:Key="CommunityPage_SupportText">❤ Підтримати розробку ❤</v:String>
-    <v:String x:Key="CommunityPage_ComingSoon">Незабаром!</v:String>
-    <v:String x:Key="CommunityPage_CheckBackLater">Поверніться сюди пізніше, щоб побачити щось СУПЕР ДУПЕР КЛАСНЕ!</v:String>
 
     <!-- #endregion -->
 
@@ -23,12 +21,7 @@
 
     <v:String x:Key="ToolbarButtons_NewsButton_Text">Новини</v:String>
     <v:String x:Key="ToolbarButtons_MinecraftEdition_Text">Bedrock Edition</v:String>
-    <v:String x:Key="ToolbarButtons_MinecraftJavaEdition_Text">Java Edition</v:String>
-    <v:String x:Key="ToolbarButtons_MinecraftJavaLauncher_Text">Лаунчер Java</v:String>
-    <v:String x:Key="ToolbarButtons_CustomLauncher_Text">Користувацький лаунчер</v:String>
-    <v:String x:Key="ToolbarButtons_SwitchEdition_Text">Змінити на</v:String>
     <v:String x:Key="ToolbarButtons_Minecraft_Text">MINECRAFT:</v:String>
-    <v:String x:Key="ToolbarButtons_CommunityButton_Text">Спільнота</v:String>
     <v:String x:Key="ToolbarButtons_ProfileButton_ProfileType_Text">Профіль</v:String>
     <v:String x:Key="ToolbarButtons_SettingsButton_Text">Налаштування</v:String>
 
@@ -65,27 +58,6 @@
     <!--#endregion-->
 
     <!--#endregion-->
-    
-    <!-- #region Dungeons Section -->
-
-    <v:String x:Key="Dungeons_InstallationPage_GameVariant">ВАРІАНТ ГРИ</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_GameVariant_Windows">Windows Launcher</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_GameVariant_Steam">Steam</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_GameVariant_Store">Microsoft Store</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_HintText_DefaultPath">&lt;Default path&gt;</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_Header_InstallLocation">ВСТАНОВИТИ РОЗТАШУВАННЯ ТЕКИ</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_Header_ModFolderLocation">Місце розташування символічних модів</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_InstructionsTab">Інструкції</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_PathsTab">Шляхи</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_GeneralTab">Загальне</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_InstallStorePatch">Встановити Store Patch</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_UpdateStorePatch">Оновити Store Patch</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_RemoveModManager">Видалити символічне посилання</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_InstallModManager">Встановити символічне посилання</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_RepairOrUpdateGame">Виправити/Оновити гру</v:String>
-
-
-    <!--#endregion-->
 
     <!--#region Game Section -->
 
@@ -95,7 +67,6 @@
     <v:String x:Key="GameTab_PlayButton_Text">Грати</v:String>
     <v:String x:Key="GameTab_PlayButton_Kill_Text">Завершити</v:String>
     <v:String x:Key="GameTab_InstallationsButton_Text">Інсталяції</v:String>
-    <v:String x:Key="GameTab_SkinsButton_Text">Скіни</v:String>
     <v:String x:Key="GameTab_PatchNotesButton_Text">Список змін</v:String>
 
     <!--#endregion-->
@@ -107,6 +78,7 @@
 
     <v:String x:Key="InstallationsPage_SortBy_LatestPlayed">Зіграно в останній раз</v:String>
     <v:String x:Key="InstallationsPage_SortBy_Name">Назвою</v:String>
+    <v:String x:Key="InstallationsPage_SortBy_None">None</v:String>
 
     <v:String x:Key="InstallationsPage_SearchBar_Content">Назва інсталяції</v:String>
 
@@ -120,7 +92,8 @@
     <v:String x:Key="EditInstallationScreen_CreateButton">Створити</v:String>
     <v:String x:Key="EditInstallationScreen_AltCreateButton">Зберегти</v:String>
 
-    <v:String x:Key="EditInstallationScreen_LatestSnapshot">Остання бета</v:String>
+    <v:String x:Key="EditInstallationScreen_LatestPreview">Latest preview</v:String>
+    <v:String x:Key="EditInstallationScreen_LatestBeta">Latest beta</v:String>
     <v:String x:Key="EditInstallationScreen_LatestRelease">Останній реліз</v:String>
 
     <v:String x:Key="EditInstallationScreen_NameSubtitle">НАЗВА</v:String>
@@ -143,50 +116,6 @@
 
     <v:String x:Key="SkinsPage_AddButton">Новий...</v:String>
     <v:String x:Key="SkinsPage_ImportButton">Імпортувати...</v:String>
-
-    <!--#endregion-->
-
-    <!--#region EditSkinScreen -->
-
-    <v:String x:Key="EditSkinScreen_Title">Редагувати скін</v:String>
-    <v:String x:Key="EditSkinScreen_AltTitle">Додати скін</v:String>
-
-    <v:String x:Key="EditSkinScreen_TextureSubtitle">ТЕКСТУРА</v:String>
-    <v:String x:Key="EditSkinScreen_GeometrySubtitle">ГЕОМЕТРІЯ</v:String>
-    <v:String x:Key="EditSkinScreen_TypeSubtitle">ТИП</v:String>
-    <v:String x:Key="EditSkinScreen_LocalizationSubtitle">НАЗВА ЛОКАЛІЗАЦІЇ</v:String>
-
-    <!--#endregion-->
-
-    <!--#region EditSkinPackScreen -->
-
-    <v:String x:Key="EditSkinPackScreen_DescriptionSubtitle">ОПИС</v:String>
-    <v:String x:Key="EditSkinPackScreen_GeometryPathSubtitle">ГЕОМЕТРІЯ</v:String>
-
-    <v:String x:Key="EditSkinPackScreen_LocalizationNameSubtitle">НАЗВА ЛОКАЛІЗАЦІЇ</v:String>
-    <v:String x:Key="EditSkinPackScreen_SerializeNameSubtitle">НАЗВА СЕРІАЛІЗАЦІЇ</v:String>
-    <v:String x:Key="EditSkinPackScreen_LocalizationLangSubtitle">МОВНІ ВИЗНАЧЕННЯ</v:String>
-
-    <v:String x:Key="EditSkinPackScreen_AddLangTextBoxSubtitle">НАЗВА МОВИ</v:String>
-
-    <v:String x:Key="EditSkinPackScreen_DefinitionsSubtitle">ІНШІ ВИЗНЕЧЕННЯ</v:String>
-    <v:String x:Key="EditSkinPackScreen_ContentSubtitle">ЗМІСТ</v:String>
-    <v:String x:Key="EditSkinPackScreen_ModulesSubtitle">МОДУЛІ</v:String>
-
-    <v:String x:Key="EditSkinPackScreen_FormatVersionSubtitle">ВЕРСІЯ ФОРМАТУ</v:String>
-
-    <v:String x:Key="EditSkinPackScreen_HeaderNameSubtitle">НАЗВА ПАКЕТА</v:String>
-    <v:String x:Key="EditSkinPackScreen_HeaderUUIDSubtitle">UUID</v:String>
-    <v:String x:Key="EditSkinPackScreen_HeaderVersionSubtitle">ВЕРСІЯ</v:String>
-
-    <v:String x:Key="EditSkinPackScreen_ModulesTypeSubtitle">ТИП</v:String>
-    <v:String x:Key="EditSkinPackScreen_ModulesUUIDSubtitle">UUID</v:String>
-    <v:String x:Key="EditSkinPackScreen_ModulesVersionSubtitle">ВЕРСІЯ</v:String>
-
-    <v:String x:Key="EditSkinPackScreen_Header">Редагувати пакет скінів</v:String>
-    <v:String x:Key="EditSkinPackScreen_AddHeader">Додати пакет скінів</v:String>
-
-    <v:String x:Key="EditSkinPackScreen_Warning">* Будь ласка, зверніть увагу, що зміна мовних визначень і зміна значка пакету незворотна навіть, якщо ви не збережете зміни!!!</v:String>
 
     <!--#endregion-->
 
@@ -243,13 +172,9 @@
     <v:String x:Key="GeneralSettingsScreen_ShortcutSettingsSubtitle">НАЛАШТУВАННЯ ЯРЛИКА</v:String>
     <v:String x:Key="GeneralSettingsScreen_UseBetaLauncher">Використовувати бета-версію лаунчера</v:String>
     <v:String x:Key="GeneralSettingsScreen_KeepLauncherOpen">Не закривати лаунчер під час запуску гри</v:String>
-    <v:String x:Key="GeneralSettingsScreen_DoNotCloseLauncherOnOpeningOtherLauncher">Закривати лаунчер при його зміні</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimateTransitions">Анімувати переходи між сторінками в лаунчері</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimatePlayButton">Анімувати кнопку &quot;Грати&quot; в ігрових розділах лаунчера</v:String>
-    <v:String x:Key="GeneralSettingsScreen_EnableDungeonsSupport">Увімкнути підтримку Minecraft Dungeon (не заверш.)</v:String>
-    <v:String x:Key="GeneralSettingsScreen_ShowAdvancedInstallDetails">Показувати додаткову інформацію під час встановлення пакетів</v:String>
-    <v:String x:Key="GeneralSettingsScreen_FancierAnimationsButton">Використовувати красивіші переходи між сторінками у лаунчері</v:String>
-    <v:String x:Key="GeneralSettingsScreen_FancierAnimationsButtonPt2">(вимагає включення анімованих переходів між сторінками)</v:String>
+    <v:String x:Key="GeneralSettingsScreen_FetchVersionsFromMicrosoftStore">Allow additional checking for new versions directly from the Microsoft Store</v:String>
     
 
     <v:String x:Key="GeneralSettingsScreen_BedrockEditionSettingsSubtitle">НАЛАШТУВАННЯ MINECRAFT: BEDROCK EDITION</v:String>
@@ -259,19 +184,9 @@
 
     <v:String x:Key="GeneralSettingsScreen_SupportCreatorButton">Підтримати автора</v:String>
 
-
-    <v:String x:Key="GeneralSettingsScreen_ExperimentalSaveRedirection">Увімкнути експериментальне переспрямування збережень</v:String>
-    <v:String x:Key="GeneralSettingsScreen_HideJavaLauncherShortcut">Сховати ярлик лаунчера Java Edition</v:String>
-    <v:String x:Key="GeneralSettingsScreen_ShowExternalLauncherShortcut">Додати вибір користувацького лаунчера</v:String>
+    <v:String x:Key="GeneralSettingsScreen_BackupsSubtitle">BACKUP OPTIONS</v:String>
     <v:String x:Key="GeneralSettingsScreen_BackupButton">Створити резервну копію збережених файлів</v:String>
-    <v:String x:Key="GeneralSettingsScreen_AdvancedSettingsButton">Додаткові налаштування</v:String>
-
-    <v:String x:Key="GeneralSettingsScreen_ExternalLauncherSubtitle">НАЛАШТУВАННЯ КОРИСТУВАЦЬКОГО ЛАУНЧЕРА</v:String>
-    <v:String x:Key="GeneralSettingsScreen_ExternalLauncherNameSubtitle">ТЕКА ГРИ</v:String>
-    <v:String x:Key="GeneralSettingsScreen_ExternalLauncherPathSubtitle">НАЗВА</v:String>
-    <v:String x:Key="GeneralSettingsScreen_ExternalLauncherArgumentsSubtitle">АРГУМЕНТИ</v:String>
-    <v:String x:Key="GeneralSettingsScreen_ExternalLauncherIconSubtitle">ЗНАЧОК</v:String>
-
+    <v:String x:Key="GeneralSettingsScreen_BackupPreviewButton">Backup Save Data (Preview)</v:String>
     <!--#endregion-->
 
     <!--#region AcountsSettingsPage -->
@@ -293,21 +208,18 @@
     <v:String x:Key="AboutPage_SpecialThanks_Text">ОСОБЛИВА ПОДЯКА</v:String>
 
     <v:String x:Key="AboutPage_McMrArm_Text">За створення ориґінального Minecraft Windows 10 Version downloader (на чому ґрунтується дана програма)</v:String>
-    <v:String x:Key="AboutPage_BsCommunity_Text">За їхню роботу над SkinView3D, що використовується для перегляду скінів у лаунчері</v:String>
     <v:String x:Key="AboutPage_Mojang_Text">За створення Minecraft!!!</v:String>
-    <v:String x:Key="AboutPage_BsRepo_Text">Репозиторій SkinView3D</v:String>
     <v:String x:Key="AboutPage_CurrentBuild">Поточна збірка: </v:String>
 
     <!--#endregion-->
 
-    <!--#region AdvancedSettings -->
+    <!--#region GeneralSettingsScreen_PathOptions -->
 
-    <v:String x:Key="AdvancedSettings_Title">Додаткові налаштування</v:String>
-    <v:String x:Key="AdvancedSettings_LauncherOptions_Text">НАЛАШТУВАННЯ ЛАУНЧЕРА</v:String>
-    <v:String x:Key="AdvancedSettings_PathSubtitle_Text">ТЕКА ЗБЕРЕЖЕННЯ</v:String>
-    <v:String x:Key="AdvancedSettings_RestartButton_Text">Перезапустити</v:String>
-    <v:String x:Key="AdvancedSettings_Notice_Text">* Усі налаштування потребують перезапуск лаунчера</v:String>
-    <v:String x:Key="AdvancedSettings_PortableMode_Text">Увімкнути портативний режим</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_LauncherOptions_Text">PATH OPTIONS</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_PathSubtitle_Text">STORAGE DIRECTORY</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_PortableMode_Text">Enable Portable Mode</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_RestartButton_Text">Apply &amp; Restart</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_Notice_Text">* These settings will restart the launcher</v:String>
 
     <!--#endregion-->
 
@@ -361,12 +273,6 @@
     <v:String x:Key="Error_AuthenticationFailed_Title">Автентифікація не пройдена</v:String>
     <v:String x:Key="Error_AuthenticationFailed">Не вдалося здійснити автентифікацію. Переконайтеся, що ваш обліковий є у програмі бета-тестування.</v:String>
 
-    <v:String x:Key="Error_CantFindExternalLauncher_Title">Не вдалося змінити лаунчер</v:String>
-    <v:String x:Key="Error_CantFindExternalLauncher">Не вдалося змінити лаунчер. Переконайтеся, що шлях до лаунчера встановлений правильно.</v:String>
-
-    <v:String x:Key="Error_CantFindJavaLauncher_Title">Не вдалося змінити лаунчер</v:String>
-    <v:String x:Key="Error_CantFindJavaLauncher">Не вдалося знайти лаунчер. Переконайся, що ви встановили ориґінальний Minecraft Launcher з Minecraft.net.</v:String>
-
     <v:String x:Key="Error_AppReregisterFailed_Title">Реєстрація додатку невдала</v:String>
     <v:String x:Key="Error_AppReregisterFailed">Будь ласка, спробуйте знову :(</v:String>
 
@@ -388,12 +294,6 @@
     <v:String x:Key="Error_AppExtractionFailed_Title">Видобування не вдалося</v:String>
     <v:String x:Key="Error_AppExtractionFailed">Будь ласка, спробуйте знову :(</v:String>
 
-    <v:String x:Key="Error_CantFindPaidServerList_Title">Не вдалося відкрити список серверів</v:String>
-    <v:String x:Key="Error_CantFindPaidServerList">Список платних серверів не знайдено.</v:String>
-
-    <v:String x:Key="Error_NotaSkinPack_Title">Не вдалося імпортувати пакет скінів</v:String>
-    <v:String x:Key="Error_NotaSkinPack">Дурнику, це не пакет скінів!</v:String>
-
     <!--#endregion-->
 
     <!--#region NewProfile -->
@@ -409,10 +309,10 @@
     <!--#region Dialog -->
 
     <v:String x:Key="Dialog_Item_Installation_Text">інсталяція</v:String>
-    <v:String x:Key="Dialog_Item_SkinPack_Text">пакет скінів</v:String>
-    <v:String x:Key="Dialog_Item_Skin_Text">скін</v:String>
     <v:String x:Key="Dialog_Item_Version_Text">версія</v:String>
     <v:String x:Key="Dialog_Item_Profile_Text">профіль</v:String>
+
+    <v:String x:Key="Dialog_Item_Optional_DeleteInstallationData">Delete user data</v:String>
 
     <v:String x:Key="Dialog_DeleteItem_Title">Видалити {0} назавжди</v:String>
     <v:String x:Key="Dialog_DeleteItem_Text" xml:space="preserve">Ви дійсно хочете видалити &quot;{1}&quot;?
@@ -525,7 +425,8 @@
 
     <!--#region VersionEntries -->
 
-    <v:String x:Key="VersionEntries_LatestSnapshot">Остання бета</v:String>
+    <v:String x:Key="VersionEntries_LatestPreview">Latest Preview</v:String>
+    <v:String x:Key="VersionEntries_LatestBeta">Latest Beta</v:String>
     <v:String x:Key="VersionEntries_LatestRelease">Останній реліз</v:String>
     <v:String x:Key="VersionEntries_UnnamedInstallation">&lt;unnamed installation&gt;</v:String>
 
@@ -577,6 +478,7 @@
     <v:String x:Key="GeneralText_No">Ні</v:String>
     <v:String x:Key="GeneralText_Releases">Релізи</v:String>
     <v:String x:Key="GeneralText_Betas">Бети</v:String>
+    <v:String x:Key="GeneralText_Previews">Previews</v:String>
     <v:String x:Key="GeneralText_Export">Експортувати</v:String>
     <v:String x:Key="GeneralText_Repair">Виправити</v:String>
 

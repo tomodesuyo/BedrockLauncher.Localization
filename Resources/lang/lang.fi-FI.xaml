@@ -14,8 +14,6 @@
     <!-- #region CommunityPage -->
 
     <v:String x:Key="CommunityPage_SupportText">❤ Tue kehitystä ❤</v:String>
-    <v:String x:Key="CommunityPage_ComingSoon">Tulossa pian!</v:String>
-    <v:String x:Key="CommunityPage_CheckBackLater">Tarkista tämä myöhemmin jos haluat nähdä jotain SUPERMAHTAVAA!</v:String>
 
     <!-- #endregion -->
 
@@ -23,12 +21,7 @@
 
     <v:String x:Key="ToolbarButtons_NewsButton_Text">Uutiset</v:String>
     <v:String x:Key="ToolbarButtons_MinecraftEdition_Text">Bedrock Edition</v:String>
-    <v:String x:Key="ToolbarButtons_MinecraftJavaEdition_Text">Java Edition</v:String>
-    <v:String x:Key="ToolbarButtons_MinecraftJavaLauncher_Text">Java-launcher</v:String>
-    <v:String x:Key="ToolbarButtons_CustomLauncher_Text">Mukautettu launcher</v:String>
-    <v:String x:Key="ToolbarButtons_SwitchEdition_Text">Vaihda versioon</v:String>
     <v:String x:Key="ToolbarButtons_Minecraft_Text">MINECRAFT:</v:String>
-    <v:String x:Key="ToolbarButtons_CommunityButton_Text">Yhteisö</v:String>
     <v:String x:Key="ToolbarButtons_ProfileButton_ProfileType_Text">Profiili</v:String>
     <v:String x:Key="ToolbarButtons_SettingsButton_Text">Asetukset</v:String>
 
@@ -65,27 +58,6 @@
     <!--#endregion-->
 
     <!--#endregion-->
-    
-    <!-- #region Dungeons Section -->
-
-    <v:String x:Key="Dungeons_InstallationPage_GameVariant">PELIVARIANTTI</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_GameVariant_Windows">Windows Launcher</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_GameVariant_Steam">Steam</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_GameVariant_Store">Microsoft Store</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_HintText_DefaultPath">&lt;Oletuspolku&gt;</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_Header_InstallLocation">ASENNUSSIJAINTI</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_Header_ModFolderLocation">SYMBOLISEN MODIKANSION SIJAINTI</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_InstructionsTab">Ohjeet</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_PathsTab">Polut</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_GeneralTab">Yleiset</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_InstallStorePatch">Asenna Store Patch</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_UpdateStorePatch">Päivitä Store Patch</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_RemoveModManager">Poista symbolinen linkki</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_InstallModManager">Asenna symbolinen linkki</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_RepairOrUpdateGame">Korjaa/Päivitä peli</v:String>
-
-
-    <!--#endregion-->
 
     <!--#region Game Section -->
 
@@ -95,7 +67,6 @@
     <v:String x:Key="GameTab_PlayButton_Text">Pelaa</v:String>
     <v:String x:Key="GameTab_PlayButton_Kill_Text">Tapa</v:String>
     <v:String x:Key="GameTab_InstallationsButton_Text">Asennukset</v:String>
-    <v:String x:Key="GameTab_SkinsButton_Text">Skinit</v:String>
     <v:String x:Key="GameTab_PatchNotesButton_Text">Korjaustiedot</v:String>
 
     <!--#endregion-->
@@ -107,6 +78,7 @@
 
     <v:String x:Key="InstallationsPage_SortBy_LatestPlayed">Viimeisin pelattu</v:String>
     <v:String x:Key="InstallationsPage_SortBy_Name">Nimi</v:String>
+    <v:String x:Key="InstallationsPage_SortBy_None">None</v:String>
 
     <v:String x:Key="InstallationsPage_SearchBar_Content">Asennuksen nimi</v:String>
 
@@ -120,7 +92,8 @@
     <v:String x:Key="EditInstallationScreen_CreateButton">Luo</v:String>
     <v:String x:Key="EditInstallationScreen_AltCreateButton">Tallenna</v:String>
 
-    <v:String x:Key="EditInstallationScreen_LatestSnapshot">Viimeisin beta</v:String>
+    <v:String x:Key="EditInstallationScreen_LatestPreview">Latest preview</v:String>
+    <v:String x:Key="EditInstallationScreen_LatestBeta">Latest beta</v:String>
     <v:String x:Key="EditInstallationScreen_LatestRelease">Viimeisin julkaisu</v:String>
 
     <v:String x:Key="EditInstallationScreen_NameSubtitle">NIMI</v:String>
@@ -143,50 +116,6 @@
 
     <v:String x:Key="SkinsPage_AddButton">Uusi...</v:String>
     <v:String x:Key="SkinsPage_ImportButton">Tuo...</v:String>
-
-    <!--#endregion-->
-
-    <!--#region EditSkinScreen -->
-
-    <v:String x:Key="EditSkinScreen_Title">Muokkaa skiniä</v:String>
-    <v:String x:Key="EditSkinScreen_AltTitle">Lisää skini</v:String>
-
-    <v:String x:Key="EditSkinScreen_TextureSubtitle">TEKSTUURI</v:String>
-    <v:String x:Key="EditSkinScreen_GeometrySubtitle">GEOMETRIA</v:String>
-    <v:String x:Key="EditSkinScreen_TypeSubtitle">TYYPPI</v:String>
-    <v:String x:Key="EditSkinScreen_LocalizationSubtitle">LOKALISOINTINIMI</v:String>
-
-    <!--#endregion-->
-
-    <!--#region EditSkinPackScreen -->
-
-    <v:String x:Key="EditSkinPackScreen_DescriptionSubtitle">KUVAUS</v:String>
-    <v:String x:Key="EditSkinPackScreen_GeometryPathSubtitle">GEOMETRIA</v:String>
-
-    <v:String x:Key="EditSkinPackScreen_LocalizationNameSubtitle">LOKALISOINTINIMI</v:String>
-    <v:String x:Key="EditSkinPackScreen_SerializeNameSubtitle">SERIALISOINTINIMI</v:String>
-    <v:String x:Key="EditSkinPackScreen_LocalizationLangSubtitle">KIELIMÄÄRITELMÄT</v:String>
-
-    <v:String x:Key="EditSkinPackScreen_AddLangTextBoxSubtitle">KIELINIMI</v:String>
-
-    <v:String x:Key="EditSkinPackScreen_DefinitionsSubtitle">MUUT MÄÄRITELMÄT</v:String>
-    <v:String x:Key="EditSkinPackScreen_ContentSubtitle">SISÄLTÖ</v:String>
-    <v:String x:Key="EditSkinPackScreen_ModulesSubtitle">MODUULIT</v:String>
-
-    <v:String x:Key="EditSkinPackScreen_FormatVersionSubtitle">FORMAATTIVERSIO</v:String>
-
-    <v:String x:Key="EditSkinPackScreen_HeaderNameSubtitle">PAKETIN NIMI</v:String>
-    <v:String x:Key="EditSkinPackScreen_HeaderUUIDSubtitle">UUID</v:String>
-    <v:String x:Key="EditSkinPackScreen_HeaderVersionSubtitle">VERSIO</v:String>
-
-    <v:String x:Key="EditSkinPackScreen_ModulesTypeSubtitle">TYYPPI</v:String>
-    <v:String x:Key="EditSkinPackScreen_ModulesUUIDSubtitle">UUID</v:String>
-    <v:String x:Key="EditSkinPackScreen_ModulesVersionSubtitle">VERSIO</v:String>
-
-    <v:String x:Key="EditSkinPackScreen_Header">Muokkaa skinipakettia</v:String>
-    <v:String x:Key="EditSkinPackScreen_AddHeader">Lisää skinipaketti</v:String>
-
-    <v:String x:Key="EditSkinPackScreen_Warning">* Huomaathan että kielimääritelmien muokkaaminen ja paketin kuvakkeen vaihtaminen ovat peruuttamattomia riippumatta siitä oletko tallentanut muutoksiasi vai etkö!!!</v:String>
 
     <!--#endregion-->
 
@@ -243,13 +172,9 @@
     <v:String x:Key="GeneralSettingsScreen_ShortcutSettingsSubtitle">PIKANÄPPÄIN-ASETUKSET</v:String>
     <v:String x:Key="GeneralSettingsScreen_UseBetaLauncher">Käytä launcherin beta-versiota</v:String>
     <v:String x:Key="GeneralSettingsScreen_KeepLauncherOpen">Pidä launcher avoinna, kun pelit ovat käynnissä</v:String>
-    <v:String x:Key="GeneralSettingsScreen_DoNotCloseLauncherOnOpeningOtherLauncher">Sulje launcher launchereita vaihdettaessa</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimateTransitions">Animoi siirtymät launcherin sivujen välillä</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimatePlayButton">Animoi toistopainike launcherin Play-sivuilla</v:String>
-    <v:String x:Key="GeneralSettingsScreen_EnableDungeonsSupport">Ota käyttöön Minecraft Dungeons -tuki (WIP)</v:String>
-    <v:String x:Key="GeneralSettingsScreen_ShowAdvancedInstallDetails">Näytä edistynyttä tietoa paketteja asentaessa</v:String>
-    <v:String x:Key="GeneralSettingsScreen_FancierAnimationsButton">Käytä hienompia siirtymisiä launcherin sivujen välillä</v:String>
-    <v:String x:Key="GeneralSettingsScreen_FancierAnimationsButtonPt2">(vaatii animoitujen sivuvaihdoksien olevien käytössä)</v:String>
+    <v:String x:Key="GeneralSettingsScreen_FetchVersionsFromMicrosoftStore">Allow additional checking for new versions directly from the Microsoft Store</v:String>
     
 
     <v:String x:Key="GeneralSettingsScreen_BedrockEditionSettingsSubtitle">MINECRAFT: BEDROCK EDITION-ASETUKSET</v:String>
@@ -259,19 +184,9 @@
 
     <v:String x:Key="GeneralSettingsScreen_SupportCreatorButton">Tue tekijää</v:String>
 
-
-    <v:String x:Key="GeneralSettingsScreen_ExperimentalSaveRedirection">Ota käyttöön kokeellinen tallennuksen uudellenohjaus</v:String>
-    <v:String x:Key="GeneralSettingsScreen_HideJavaLauncherShortcut">Piilota Java Edition -launcherin pikakuvake</v:String>
-    <v:String x:Key="GeneralSettingsScreen_ShowExternalLauncherShortcut">Näytä ulkoisen launcherin pikakuvake</v:String>
+    <v:String x:Key="GeneralSettingsScreen_BackupsSubtitle">BACKUP OPTIONS</v:String>
     <v:String x:Key="GeneralSettingsScreen_BackupButton">Varmuuskopioi tallennustiedot</v:String>
-    <v:String x:Key="GeneralSettingsScreen_AdvancedSettingsButton">Edistyneet asetukset</v:String>
-
-    <v:String x:Key="GeneralSettingsScreen_ExternalLauncherSubtitle">ULKOISEN LAUNCHERIN ASETUKSET</v:String>
-    <v:String x:Key="GeneralSettingsScreen_ExternalLauncherNameSubtitle">POLKU</v:String>
-    <v:String x:Key="GeneralSettingsScreen_ExternalLauncherPathSubtitle">NIMI</v:String>
-    <v:String x:Key="GeneralSettingsScreen_ExternalLauncherArgumentsSubtitle">ARGUMENTIT</v:String>
-    <v:String x:Key="GeneralSettingsScreen_ExternalLauncherIconSubtitle">KUVAKE</v:String>
-
+    <v:String x:Key="GeneralSettingsScreen_BackupPreviewButton">Backup Save Data (Preview)</v:String>
     <!--#endregion-->
 
     <!--#region AcountsSettingsPage -->
@@ -293,21 +208,18 @@
     <v:String x:Key="AboutPage_SpecialThanks_Text">ERITYISET KIITOKSET</v:String>
 
     <v:String x:Key="AboutPage_McMrArm_Text">Alkuperäisen Minecraft Windows 10-versionlataajan luomisesta (minkä johdannainen tämä on)</v:String>
-    <v:String x:Key="AboutPage_BsCommunity_Text">Heidän työstään SkinView3D:ssä, jota käytetään skininkatsomistoiminnallisuuteen launcherissa</v:String>
     <v:String x:Key="AboutPage_Mojang_Text">Minecraftille!!!</v:String>
-    <v:String x:Key="AboutPage_BsRepo_Text">SkinView3D-repo</v:String>
     <v:String x:Key="AboutPage_CurrentBuild">Nykyinen build: </v:String>
 
     <!--#endregion-->
 
-    <!--#region AdvancedSettings -->
+    <!--#region GeneralSettingsScreen_PathOptions -->
 
-    <v:String x:Key="AdvancedSettings_Title">Edistyneet asetukset</v:String>
-    <v:String x:Key="AdvancedSettings_LauncherOptions_Text">LAUNCHERIN ASETUKSET</v:String>
-    <v:String x:Key="AdvancedSettings_PathSubtitle_Text">TALLENNUSHAKEMISTO</v:String>
-    <v:String x:Key="AdvancedSettings_RestartButton_Text">Käynnistä uudelleen</v:String>
-    <v:String x:Key="AdvancedSettings_Notice_Text">* Kaikki asetukset uudelleenkäynnistävät launcherin</v:String>
-    <v:String x:Key="AdvancedSettings_PortableMode_Text">Ota siirrettävä tila käyttöön</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_LauncherOptions_Text">PATH OPTIONS</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_PathSubtitle_Text">STORAGE DIRECTORY</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_PortableMode_Text">Enable Portable Mode</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_RestartButton_Text">Apply &amp; Restart</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_Notice_Text">* These settings will restart the launcher</v:String>
 
     <!--#endregion-->
 
@@ -361,12 +273,6 @@
     <v:String x:Key="Error_AuthenticationFailed_Title">Tunnistautuminen epäonnistui</v:String>
     <v:String x:Key="Error_AuthenticationFailed">Tunnistautuminen epäonnistui. Varmistathan tilisi olevan tilannut betaohjelman.</v:String>
 
-    <v:String x:Key="Error_CantFindExternalLauncher_Title">Launcheria ei voitu vaihtaa</v:String>
-    <v:String x:Key="Error_CantFindExternalLauncher">Launcheria ei voitu vaihtaa. Varmistathan asettaneesi polun launcheriin oikein.</v:String>
-
-    <v:String x:Key="Error_CantFindJavaLauncher_Title">Launcheria ei voitu vaihtaa</v:String>
-    <v:String x:Key="Error_CantFindJavaLauncher">Laucheria ei löydetty. Varmistathan asentaneesi alkuperäisen Minecraft-launcherin minercraft.net:istä.</v:String>
-
     <v:String x:Key="Error_AppReregisterFailed_Title">Sovelluksen rekisteröiminen epäonnistui</v:String>
     <v:String x:Key="Error_AppReregisterFailed">Yritä uudelleen :(</v:String>
 
@@ -388,12 +294,6 @@
     <v:String x:Key="Error_AppExtractionFailed_Title">Purku epäonnistui</v:String>
     <v:String x:Key="Error_AppExtractionFailed">Yritä uudelleen :(</v:String>
 
-    <v:String x:Key="Error_CantFindPaidServerList_Title">Palvelinvälilehteä ei voitu avata</v:String>
-    <v:String x:Key="Error_CantFindPaidServerList">Maksettua palvelinlistaa ei löydetty.</v:String>
-
-    <v:String x:Key="Error_NotaSkinPack_Title">Skinipakettia ei voitu tuoda</v:String>
-    <v:String x:Key="Error_NotaSkinPack">Tämä ei ole skinipaketti höpsö!</v:String>
-
     <!--#endregion-->
 
     <!--#region NewProfile -->
@@ -409,10 +309,10 @@
     <!--#region Dialog -->
 
     <v:String x:Key="Dialog_Item_Installation_Text">asennus</v:String>
-    <v:String x:Key="Dialog_Item_SkinPack_Text">skinipaketti</v:String>
-    <v:String x:Key="Dialog_Item_Skin_Text">skini</v:String>
     <v:String x:Key="Dialog_Item_Version_Text">versio</v:String>
     <v:String x:Key="Dialog_Item_Profile_Text">profiili</v:String>
+
+    <v:String x:Key="Dialog_Item_Optional_DeleteInstallationData">Delete user data</v:String>
 
     <v:String x:Key="Dialog_DeleteItem_Title">Poista {0} pysyvästi</v:String>
     <v:String x:Key="Dialog_DeleteItem_Text" xml:space="preserve">Haluatko varmasti poistaa &quot;{1}&quot;:n?
@@ -525,7 +425,8 @@ Tämä {0} tullaan menettämään ikiajoiksi! (Pitkäksi ajaksi!)</v:String>
 
     <!--#region VersionEntries -->
 
-    <v:String x:Key="VersionEntries_LatestSnapshot">Viimeisin beta</v:String>
+    <v:String x:Key="VersionEntries_LatestPreview">Latest Preview</v:String>
+    <v:String x:Key="VersionEntries_LatestBeta">Latest Beta</v:String>
     <v:String x:Key="VersionEntries_LatestRelease">Viimeisin julkaisu</v:String>
     <v:String x:Key="VersionEntries_UnnamedInstallation">&lt;nimetön asennus&gt;</v:String>
 
@@ -577,6 +478,7 @@ Tämä {0} tullaan menettämään ikiajoiksi! (Pitkäksi ajaksi!)</v:String>
     <v:String x:Key="GeneralText_No">Ei</v:String>
     <v:String x:Key="GeneralText_Releases">Julkaisut</v:String>
     <v:String x:Key="GeneralText_Betas">Betat</v:String>
+    <v:String x:Key="GeneralText_Previews">Previews</v:String>
     <v:String x:Key="GeneralText_Export">Vie</v:String>
     <v:String x:Key="GeneralText_Repair">Korjaa</v:String>
 

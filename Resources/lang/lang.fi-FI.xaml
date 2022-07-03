@@ -129,7 +129,7 @@
     <v:String x:Key="LauncherNewsPage_Build_Text">Build</v:String>
     <v:String x:Key="LauncherNewsPage_Changes_Text">Muutokset:</v:String>
     <v:String x:Key="LauncherNewsPage_CheckForUpdates">Tarkista päivitykset</v:String>
-    <v:String x:Key="LauncherNewsPage_ForceUpdate">Pakota päivitys</v:String>
+    <v:String x:Key="LauncherNewsPage_GetUpdates">Get Updates</v:String>
     <v:String x:Key="LauncherNewsPage_CurrentBuild_Text">Nykyinen</v:String>
 
     <!--#endregion-->

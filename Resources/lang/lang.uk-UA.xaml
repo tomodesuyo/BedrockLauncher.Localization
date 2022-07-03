@@ -129,7 +129,7 @@
     <v:String x:Key="LauncherNewsPage_Build_Text">Збірка</v:String>
     <v:String x:Key="LauncherNewsPage_Changes_Text">Зміни:</v:String>
     <v:String x:Key="LauncherNewsPage_CheckForUpdates">Перевірити наявність оновлень</v:String>
-    <v:String x:Key="LauncherNewsPage_ForceUpdate">Примусове оновлення</v:String>
+    <v:String x:Key="LauncherNewsPage_GetUpdates">Get Updates</v:String>
     <v:String x:Key="LauncherNewsPage_CurrentBuild_Text">Поточний</v:String>
 
     <!--#endregion-->

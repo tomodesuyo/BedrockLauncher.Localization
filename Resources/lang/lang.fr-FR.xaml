@@ -463,7 +463,7 @@ du Minecraft Bedrock Launcher</v:String>
     <!--#region GeneralText -->
 
     <v:String x:Key="GeneralText_Delete">Supprimer</v:String>
-    <v:String x:Key="GeneralText_Edit">Editer</v:String>
+    <v:String x:Key="GeneralText_Edit">Modifier</v:String>
     <v:String x:Key="GeneralText_Duplicate">Dupliquer</v:String>
     <v:String x:Key="GeneralText_Remove">Retirer</v:String>
     <v:String x:Key="GeneralText_Cancel">Annuler</v:String>

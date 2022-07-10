@@ -40,10 +40,10 @@
     <v:String x:Key="ProgressBar_Installing">Installing</v:String>
     <v:String x:Key="ProgressBar_Launching">Launching</v:String>
     <v:String x:Key="ProgressBar_Extracting">Extracting</v:String>
-    <v:String x:Key="ProgressBar_Uninstalling">Uninstalling</v:String>
-    <v:String x:Key="ProgressBar_RegisteringPackage">Registering Package</v:String>
-    <v:String x:Key="ProgressBar_RemovingPackage">Unregistering Package</v:String>
-    <v:String x:Key="ProgressBar_BackingUp">Backing up Save Data</v:String>
+    <v:String x:Key="ProgressBar_Uninstalling">Deïnstalleer tans</v:String>
+    <v:String x:Key="ProgressBar_RegisteringPackage">Registreer pakket</v:String>
+    <v:String x:Key="ProgressBar_RemovingPackage">Deregistreer pakket</v:String>
+    <v:String x:Key="ProgressBar_BackingUp">Rugsteun tans Stoor data</v:String>
 
     <!--#endregion-->
 
@@ -155,32 +155,32 @@
 
     <!--#region SettingsTab -->
 
-    <v:String x:Key="SettingsTab_Title">SETTINGS</v:String>
-    <v:String x:Key="SettingsTab_GeneralButton">General</v:String>
-    <v:String x:Key="SettingsTab_AccountsButton">Accounts</v:String>
-    <v:String x:Key="SettingsTab_AboutButton">About</v:String>
-    <v:String x:Key="SettingsTab_VersionsButton">Versions</v:String>
+    <v:String x:Key="SettingsTab_Title">INSTELLINGS</v:String>
+    <v:String x:Key="SettingsTab_GeneralButton">Algemeen</v:String>
+    <v:String x:Key="SettingsTab_AccountsButton">Rekeninge</v:String>
+    <v:String x:Key="SettingsTab_AboutButton">Oor</v:String>
+    <v:String x:Key="SettingsTab_VersionsButton">Weergawes</v:String>
 
     <!--#endregion-->
 
     <!--#region GeneralSettingsScreen -->
-    <v:String x:Key="GeneralSettingsScreen_LanguageSubtitle">LANGUAGE</v:String>
-    <v:String x:Key="GeneralSettingsScreen_ThemeSubtitle">LAUNCHER THEME</v:String>
+    <v:String x:Key="GeneralSettingsScreen_LanguageSubtitle">TAAL</v:String>
+    <v:String x:Key="GeneralSettingsScreen_ThemeSubtitle">LANSEERTEMA</v:String>
 
 
-    <v:String x:Key="GeneralSettingsScreen_LauncherSettingsSubtitle">LAUNCHER SETTINGS</v:String>
-    <v:String x:Key="GeneralSettingsScreen_ShortcutSettingsSubtitle">SHORTCUT SETTINGS</v:String>
-    <v:String x:Key="GeneralSettingsScreen_UseBetaLauncher">Use beta version of the Launcher</v:String>
-    <v:String x:Key="GeneralSettingsScreen_KeepLauncherOpen">Keep the Launcher open while games are running</v:String>
-    <v:String x:Key="GeneralSettingsScreen_AnimateTransitions">Animate transitions between pages in the Launcher</v:String>
-    <v:String x:Key="GeneralSettingsScreen_AnimatePlayButton">Animate play button on the Play pages in the Launcher</v:String>
-    <v:String x:Key="GeneralSettingsScreen_FetchVersionsFromMicrosoftStore">Allow additional checking for new versions directly from the Microsoft Store</v:String>
+    <v:String x:Key="GeneralSettingsScreen_LauncherSettingsSubtitle">LANSEERDER-INSTELLINGS</v:String>
+    <v:String x:Key="GeneralSettingsScreen_ShortcutSettingsSubtitle">KORTPADIE INSTELLINGS</v:String>
+    <v:String x:Key="GeneralSettingsScreen_UseBetaLauncher">Gebruik beta weergawe van die Launcher</v:String>
+    <v:String x:Key="GeneralSettingsScreen_KeepLauncherOpen">Hou die lanseerder oop terwyl speletjies aan die gang is</v:String>
+    <v:String x:Key="GeneralSettingsScreen_AnimateTransitions">Animeer oorgange tussen bladsye in die Launcher</v:String>
+    <v:String x:Key="GeneralSettingsScreen_AnimatePlayButton">Animeer speel-knoppie op die Speel-bladsye in die Launcher</v:String>
+    <v:String x:Key="GeneralSettingsScreen_FetchVersionsFromMicrosoftStore">Laat addisionele nagaan vir nuwe weergawes direk vanaf die Microsoft Store toe</v:String>
     
 
     <v:String x:Key="GeneralSettingsScreen_BedrockEditionSettingsSubtitle">MINECRAFT: BEDROCK EDITION SETTINGS</v:String>
-    <v:String x:Key="GeneralSettingsScreen_SupportCreatorSubtitle">SUPPORT CREATOR</v:String>
+    <v:String x:Key="GeneralSettingsScreen_SupportCreatorSubtitle">ONDERSTEUN SKEPPER</v:String>
 
-    <v:String x:Key="GeneralSettingsScreen_UpdatesSubtitle">LAUNCHER UPDATES</v:String>
+    <v:String x:Key="GeneralSettingsScreen_UpdatesSubtitle">LANSEERDER BYWERKINGS</v:String>
 
     <v:String x:Key="GeneralSettingsScreen_SupportCreatorButton">Support creator</v:String>
 
@@ -467,7 +467,7 @@ turned off, try turning the back on and search again</v:String>
     <v:String x:Key="GeneralText_Duplicate">Duplicate</v:String>
     <v:String x:Key="GeneralText_Remove">Remove</v:String>
     <v:String x:Key="GeneralText_Cancel">Cancel</v:String>
-    <v:String x:Key="GeneralText_Update">Update</v:String>
+    <v:String x:Key="GeneralText_Update">Opdateer</v:String>
     <v:String x:Key="GeneralText_Add">Add</v:String>
     <v:String x:Key="GeneralText_Save">Save</v:String>
     <v:String x:Key="GeneralText_Refresh">Refresh</v:String>

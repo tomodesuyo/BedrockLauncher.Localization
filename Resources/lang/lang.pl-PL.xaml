@@ -78,7 +78,7 @@
 
     <v:String x:Key="InstallationsPage_SortBy_LatestPlayed">Ostatnio uruchamiane</v:String>
     <v:String x:Key="InstallationsPage_SortBy_Name">Nazwa</v:String>
-    <v:String x:Key="InstallationsPage_SortBy_None">None</v:String>
+    <v:String x:Key="InstallationsPage_SortBy_None">Żadne</v:String>
 
     <v:String x:Key="InstallationsPage_SearchBar_Content">Nazwa instalacji</v:String>
 
@@ -92,8 +92,8 @@
     <v:String x:Key="EditInstallationScreen_CreateButton">Utwórz</v:String>
     <v:String x:Key="EditInstallationScreen_AltCreateButton">Zapisz</v:String>
 
-    <v:String x:Key="EditInstallationScreen_LatestPreview">Latest preview</v:String>
-    <v:String x:Key="EditInstallationScreen_LatestBeta">Latest beta</v:String>
+    <v:String x:Key="EditInstallationScreen_LatestPreview">Najnowsza wersja poglądowa</v:String>
+    <v:String x:Key="EditInstallationScreen_LatestBeta">Najnowsza wersja beta</v:String>
     <v:String x:Key="EditInstallationScreen_LatestRelease">Najnowsze wydanie</v:String>
 
     <v:String x:Key="EditInstallationScreen_NameSubtitle">NAZWA</v:String>
@@ -129,7 +129,7 @@
     <v:String x:Key="LauncherNewsPage_Build_Text">Kompilacja</v:String>
     <v:String x:Key="LauncherNewsPage_Changes_Text">Zmiany:</v:String>
     <v:String x:Key="LauncherNewsPage_CheckForUpdates">Sprawdź aktualizacje</v:String>
-    <v:String x:Key="LauncherNewsPage_GetUpdates">Get Updates</v:String>
+    <v:String x:Key="LauncherNewsPage_GetUpdates">Pobierz aktualizacje</v:String>
     <v:String x:Key="LauncherNewsPage_CurrentBuild_Text">Bieżąca</v:String>
 
     <!--#endregion-->
@@ -173,8 +173,8 @@
     <v:String x:Key="GeneralSettingsScreen_UseBetaLauncher">Użyj wersji beta Launchera</v:String>
     <v:String x:Key="GeneralSettingsScreen_KeepLauncherOpen">Pozostaw Launcher otwarty, gdy gra jest uruchomiona</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimateTransitions">Animowane przejścia pomiędzy stronami Launchera</v:String>
-    <v:String x:Key="GeneralSettingsScreen_AnimatePlayButton">Animate play button on the Play pages in the Launcher</v:String>
-    <v:String x:Key="GeneralSettingsScreen_FetchVersionsFromMicrosoftStore">Allow additional checking for new versions directly from the Microsoft Store</v:String>
+    <v:String x:Key="GeneralSettingsScreen_AnimatePlayButton">Animowany przycisk Graj</v:String>
+    <v:String x:Key="GeneralSettingsScreen_FetchVersionsFromMicrosoftStore">Zezwalaj na dodatkowe sprawdzanie nowych wersji bezpośrednio z Microsoft Store</v:String>
     
 
     <v:String x:Key="GeneralSettingsScreen_BedrockEditionSettingsSubtitle">USTAWIENIA MINECRAFT: BEDROCK EDITION</v:String>
@@ -184,15 +184,15 @@
 
     <v:String x:Key="GeneralSettingsScreen_SupportCreatorButton">Wspieraj twórcę</v:String>
 
-    <v:String x:Key="GeneralSettingsScreen_BackupsSubtitle">BACKUP OPTIONS</v:String>
+    <v:String x:Key="GeneralSettingsScreen_BackupsSubtitle">OPCJE KOPII ZAPASOWEJ</v:String>
     <v:String x:Key="GeneralSettingsScreen_BackupButton">Utwórz kopię danych zapisu</v:String>
-    <v:String x:Key="GeneralSettingsScreen_BackupPreviewButton">Backup Save Data (Preview)</v:String>
+    <v:String x:Key="GeneralSettingsScreen_BackupPreviewButton">Utwórz kopię danych zapisu (podgląd)</v:String>
     <!--#endregion-->
 
     <!--#region AcountsSettingsPage -->
 
     <v:String x:Key="AcountsSettingsPage_SelectedAccount_Subtitle">WYBRANE KONTO</v:String>
-    <v:String x:Key="AcountsSettingsPage_InsiderHub_Text">INSIDER SETTINGS</v:String>
+    <v:String x:Key="AcountsSettingsPage_InsiderHub_Text">USTAWIENIA POGLĄDOWE</v:String>
     <v:String x:Key="AcountsSettingsPage_InsiderHubNew_Text">Zwykłe ustawienia</v:String>
     <v:String x:Key="AcountsSettingsPage_InsiderHubLegacy_Text">Przestarzałe ustawienia</v:String>
     <v:String x:Key="AcountsSettingsPage_ManageAccounts_Text">Zarządzaj kontami</v:String>
@@ -215,11 +215,11 @@
 
     <!--#region GeneralSettingsScreen_PathOptions -->
 
-    <v:String x:Key="GeneralSettingsScreen_PathOptions_LauncherOptions_Text">PATH OPTIONS</v:String>
-    <v:String x:Key="GeneralSettingsScreen_PathOptions_PathSubtitle_Text">STORAGE DIRECTORY</v:String>
-    <v:String x:Key="GeneralSettingsScreen_PathOptions_PortableMode_Text">Enable Portable Mode</v:String>
-    <v:String x:Key="GeneralSettingsScreen_PathOptions_RestartButton_Text">Apply &amp; Restart</v:String>
-    <v:String x:Key="GeneralSettingsScreen_PathOptions_Notice_Text">* These settings will restart the launcher</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_LauncherOptions_Text">OPCJE ŚCIEŻKI</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_PathSubtitle_Text">KATALOG DANYCH</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_PortableMode_Text">Włącz Tryb Przenośny</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_RestartButton_Text">Zastosuj i zrestartuj</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_Notice_Text">* Te ustawienia zrestartują launcher</v:String>
 
     <!--#endregion-->
 
@@ -242,10 +242,10 @@
 
  (Don't worry, you will not lose your data by doing this, you will only lose data if you press play and haven't backed your stuff up)</v:String>
 
-    <v:String x:Key="FirstLaunch_InstallType_Header">Save/Load Launcher Data From:</v:String>
+    <v:String x:Key="FirstLaunch_InstallType_Header">Zapisz/Wczytaj dane launchera z:</v:String>
     <v:String x:Key="FirstLaunch_FixedInstall_Checkbox">Ustalony folder (zalecane)</v:String>
-    <v:String x:Key="FirstLaunch_PortableInstall_Checkbox">Portable/Root Folder</v:String>
-    <v:String x:Key="FirstLaunch_BackupCheckBox_Text">Backup Existing Save Data</v:String>
+    <v:String x:Key="FirstLaunch_PortableInstall_Checkbox">Przenośny/Główny folder</v:String>
+    <v:String x:Key="FirstLaunch_BackupCheckBox_Text">Kopia istniejących danych zapisu</v:String>
     <v:String x:Key="FirstLaunch_BackupCheckBox_Subtext">(ZALECANE)</v:String>
     <v:String x:Key="FirstLaunch_CloseButton">Zamknij</v:String>
     <v:String x:Key="FirstLaunch_BackButton">Wstecz</v:String>
@@ -271,7 +271,7 @@
     <!--#region Errors -->
 
     <v:String x:Key="Error_AuthenticationFailed_Title">Błąd autoryzacji</v:String>
-    <v:String x:Key="Error_AuthenticationFailed">Failed to authenticate. Please make sure your account is subscribed to the beta program.</v:String>
+    <v:String x:Key="Error_AuthenticationFailed">Błąd autoryzacji. Upewnij się, że to konto subskrybuje program beta.</v:String>
 
     <v:String x:Key="Error_AppReregisterFailed_Title">Błąd rejestracji aplikacji</v:String>
     <v:String x:Key="Error_AppReregisterFailed">Spróbuj ponownie :(</v:String>
@@ -285,10 +285,10 @@
     <v:String x:Key="Error_AppDownloadFailed_Title">Błąd pobierania</v:String>
     <v:String x:Key="Error_AppDownloadFailed">Spróbuj ponownie :(</v:String>
 
-    <v:String x:Key="Error_SaveDirectoryRedirectionFailed_Title">Save redirection failed</v:String>
+    <v:String x:Key="Error_SaveDirectoryRedirectionFailed_Title">Błąd przekierowania katalogu zapisów</v:String>
     <v:String x:Key="Error_SaveDirectoryRedirectionFailed">Spróbuj ponownie :(</v:String>
 
-    <v:String x:Key="Error_AppUninstallFailed_Title">Uninstall failed</v:String>
+    <v:String x:Key="Error_AppUninstallFailed_Title">Odinstalowanie nie powiodło się</v:String>
     <v:String x:Key="Error_AppUninstallFailed">Spróbuj ponownie :(</v:String>
 
     <v:String x:Key="Error_AppExtractionFailed_Title">Błąd wypakowywania</v:String>
@@ -312,7 +312,7 @@
     <v:String x:Key="Dialog_Item_Version_Text">wersja</v:String>
     <v:String x:Key="Dialog_Item_Profile_Text">profil</v:String>
 
-    <v:String x:Key="Dialog_Item_Optional_DeleteInstallationData">Delete user data</v:String>
+    <v:String x:Key="Dialog_Item_Optional_DeleteInstallationData">Usuń dane użytkownika</v:String>
 
     <v:String x:Key="Dialog_DeleteItem_Title">Trwale usuń {0}</v:String>
     <v:String x:Key="Dialog_DeleteItem_Text" xml:space="preserve">Czy na pewno chcesz usunąć &quot;{1}&quot;?
@@ -322,7 +322,7 @@
     <v:String x:Key="Dialog_KillGame_Text">To niebezpieczne i jest zalecane tylko wtedy, gdy gra nie odpowiada. Czy nadal chcesz zatrzymać grę?</v:String>
 
     <v:String x:Key="Dialog_CloseGame_Title">Gra jest nadal uruchomiona</v:String>
-    <v:String x:Key="Dialog_CloseGame_Text">Would you like to force close it? (without saving changes, this is only recommended if you get stuck, please close the game normally)</v:String>
+    <v:String x:Key="Dialog_CloseGame_Text">Czy chcesz wymusić jej zamknięcie? (bez zapisywania zmian, jest to zalecane tylko wtedy, gdy gra nie odpowiada, zalecamy zwyczajne zamknięcie gry)</v:String>
 
     <v:String x:Key="DialogBtn_YesToAll_Text">Tak na wszystkie</v:String>
     <v:String x:Key="DialogBtn_NoToAll_Text">Nie na wszystkie</v:String>
@@ -393,9 +393,9 @@ są wyłączone, włącz je i spróbuj ponownie</v:String>
 
     <v:String x:Key="Installer_InstallLocation_CreateDesktopIcon_Text">Utwórz skrót na pulpicie</v:String>
     <v:String x:Key="Installer_InstallLocation_AddToStartMenu_Text">Dodaj skrót do menu Start</v:String>
-    <v:String x:Key="Installer_InstallLocation_RegisterApp_Text">Register Program</v:String>
+    <v:String x:Key="Installer_InstallLocation_RegisterApp_Text">Zarejestruj program</v:String>
 
-    <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text">Start Program on Exit</v:String>
+    <v:String x:Key="Installer_InstallationProgress_LaunchOnExit_Text">Uruchom po instalacji</v:String>
 
     <v:String x:Key="Installer_InstallationProgress_FilesInUse">Niektóre pliki są obecnie używane przez:</v:String>
 
@@ -426,8 +426,8 @@ są wyłączone, włącz je i spróbuj ponownie</v:String>
 
     <!--#region VersionEntries -->
 
-    <v:String x:Key="VersionEntries_LatestPreview">Latest Preview</v:String>
-    <v:String x:Key="VersionEntries_LatestBeta">Latest Beta</v:String>
+    <v:String x:Key="VersionEntries_LatestPreview">Najnowsza wersja poglądowa</v:String>
+    <v:String x:Key="VersionEntries_LatestBeta">Najnowsza wersja beta</v:String>
     <v:String x:Key="VersionEntries_LatestRelease">Najnowsze wydanie</v:String>
     <v:String x:Key="VersionEntries_UnnamedInstallation">&lt;unnamed installation&gt;</v:String>
 
@@ -436,7 +436,7 @@ są wyłączone, włącz je i spróbuj ponownie</v:String>
     <!--#region ThemeEntries -->
 
     <v:String x:Key="ThemeEntries_LatestUpdate">Najnowsza aktualizacja</v:String>
-    <v:String x:Key="ThemeEntries_Original">Original</v:String>
+    <v:String x:Key="ThemeEntries_Original">Oryginalny</v:String>
 
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">Caves &amp; Cliffs (Part 1)</v:String>
     <v:String x:Key="ThemeEntries_NetherUpdate">Nether Update</v:String>

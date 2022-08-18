@@ -78,7 +78,7 @@
 
     <v:String x:Key="InstallationsPage_SortBy_LatestPlayed">Última jugada</v:String>
     <v:String x:Key="InstallationsPage_SortBy_Name">Nombre</v:String>
-    <v:String x:Key="InstallationsPage_SortBy_None">None</v:String>
+    <v:String x:Key="InstallationsPage_SortBy_None">Ninguno</v:String>
 
     <v:String x:Key="InstallationsPage_SearchBar_Content">Nombre de la instalación</v:String>
 
@@ -92,8 +92,8 @@
     <v:String x:Key="EditInstallationScreen_CreateButton">Crear</v:String>
     <v:String x:Key="EditInstallationScreen_AltCreateButton">Guardar</v:String>
 
-    <v:String x:Key="EditInstallationScreen_LatestPreview">Latest preview</v:String>
-    <v:String x:Key="EditInstallationScreen_LatestBeta">Latest beta</v:String>
+    <v:String x:Key="EditInstallationScreen_LatestPreview">Última Preliminar</v:String>
+    <v:String x:Key="EditInstallationScreen_LatestBeta">Última Beta</v:String>
     <v:String x:Key="EditInstallationScreen_LatestRelease">Última actualización estable</v:String>
 
     <v:String x:Key="EditInstallationScreen_NameSubtitle">NOMBRE</v:String>
@@ -129,7 +129,7 @@
     <v:String x:Key="LauncherNewsPage_Build_Text">Montaje</v:String>
     <v:String x:Key="LauncherNewsPage_Changes_Text">Cambios:</v:String>
     <v:String x:Key="LauncherNewsPage_CheckForUpdates">Buscar Actualizaciones</v:String>
-    <v:String x:Key="LauncherNewsPage_GetUpdates">Get Updates</v:String>
+    <v:String x:Key="LauncherNewsPage_GetUpdates">Actualizaciones</v:String>
     <v:String x:Key="LauncherNewsPage_CurrentBuild_Text">Actual</v:String>
 
     <!--#endregion-->
@@ -174,7 +174,7 @@
     <v:String x:Key="GeneralSettingsScreen_KeepLauncherOpen">Mantener el Launcher abierto mientras el juego está en funcionamiento</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimateTransitions">Animar las transiciones entre páginas en el launcher</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimatePlayButton">Animar el botón de reproducción en las páginas de reproducción del launcher</v:String>
-    <v:String x:Key="GeneralSettingsScreen_FetchVersionsFromMicrosoftStore">Allow additional checking for new versions directly from the Microsoft Store</v:String>
+    <v:String x:Key="GeneralSettingsScreen_FetchVersionsFromMicrosoftStore">Permitir comprobación adicional para nuevas versiones desde la Microsoft Store</v:String>
     
 
     <v:String x:Key="GeneralSettingsScreen_BedrockEditionSettingsSubtitle">AJUSTES DE MINECRAFT: BEDROCK EDITION</v:String>
@@ -184,9 +184,9 @@
 
     <v:String x:Key="GeneralSettingsScreen_SupportCreatorButton">Apoyar al creador</v:String>
 
-    <v:String x:Key="GeneralSettingsScreen_BackupsSubtitle">BACKUP OPTIONS</v:String>
+    <v:String x:Key="GeneralSettingsScreen_BackupsSubtitle">OPCIONES DE RESTAURACION</v:String>
     <v:String x:Key="GeneralSettingsScreen_BackupButton">Guardar datos</v:String>
-    <v:String x:Key="GeneralSettingsScreen_BackupPreviewButton">Backup Save Data (Preview)</v:String>
+    <v:String x:Key="GeneralSettingsScreen_BackupPreviewButton">Copia de Seguridad de Datos (Vista previa)</v:String>
     <!--#endregion-->
 
     <!--#region AcountsSettingsPage -->
@@ -215,11 +215,11 @@
 
     <!--#region GeneralSettingsScreen_PathOptions -->
 
-    <v:String x:Key="GeneralSettingsScreen_PathOptions_LauncherOptions_Text">PATH OPTIONS</v:String>
-    <v:String x:Key="GeneralSettingsScreen_PathOptions_PathSubtitle_Text">STORAGE DIRECTORY</v:String>
-    <v:String x:Key="GeneralSettingsScreen_PathOptions_PortableMode_Text">Enable Portable Mode</v:String>
-    <v:String x:Key="GeneralSettingsScreen_PathOptions_RestartButton_Text">Apply &amp; Restart</v:String>
-    <v:String x:Key="GeneralSettingsScreen_PathOptions_Notice_Text">* These settings will restart the launcher</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_LauncherOptions_Text">OPCIONES DE DESTINO</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_PathSubtitle_Text">DIRECTORIO DE ALMACENAMIENTO</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_PortableMode_Text">Activar el Modo Portable</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_RestartButton_Text">Aplicar y Reiniciar</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_Notice_Text">* Estos ajustes reiniciarán el lanzador</v:String>
 
     <!--#endregion-->
 
@@ -312,7 +312,7 @@
     <v:String x:Key="Dialog_Item_Version_Text">versión</v:String>
     <v:String x:Key="Dialog_Item_Profile_Text">perfil</v:String>
 
-    <v:String x:Key="Dialog_Item_Optional_DeleteInstallationData">Delete user data</v:String>
+    <v:String x:Key="Dialog_Item_Optional_DeleteInstallationData">Borrar datos de usuario</v:String>
 
     <v:String x:Key="Dialog_DeleteItem_Title">Borrar {0} permanentemente</v:String>
     <v:String x:Key="Dialog_DeleteItem_Text" xml:space="preserve">¿Estás seguro de que quieres borrar &quot;{1}&quot;?
@@ -425,8 +425,8 @@
 
     <!--#region VersionEntries -->
 
-    <v:String x:Key="VersionEntries_LatestPreview">Latest Preview</v:String>
-    <v:String x:Key="VersionEntries_LatestBeta">Latest Beta</v:String>
+    <v:String x:Key="VersionEntries_LatestPreview">Última Preliminar</v:String>
+    <v:String x:Key="VersionEntries_LatestBeta">Última Beta</v:String>
     <v:String x:Key="VersionEntries_LatestRelease">Última Versión</v:String>
     <v:String x:Key="VersionEntries_UnnamedInstallation">&lt;instalación sin nombre&gt;</v:String>
 
@@ -478,7 +478,7 @@
     <v:String x:Key="GeneralText_No">No</v:String>
     <v:String x:Key="GeneralText_Releases">Lanzamientos</v:String>
     <v:String x:Key="GeneralText_Betas">Betas</v:String>
-    <v:String x:Key="GeneralText_Previews">Previews</v:String>
+    <v:String x:Key="GeneralText_Previews">Preliminares</v:String>
     <v:String x:Key="GeneralText_Export">Exportar</v:String>
     <v:String x:Key="GeneralText_Repair">Reparar</v:String>
 

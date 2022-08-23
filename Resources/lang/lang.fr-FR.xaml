@@ -129,7 +129,7 @@
     <v:String x:Key="LauncherNewsPage_Build_Text">Version</v:String>
     <v:String x:Key="LauncherNewsPage_Changes_Text">Changements :</v:String>
     <v:String x:Key="LauncherNewsPage_CheckForUpdates">Vérifier les mises à jour</v:String>
-    <v:String x:Key="LauncherNewsPage_GetUpdates">Get Updates</v:String>
+    <v:String x:Key="LauncherNewsPage_GetUpdates">Obtenir des mises à jour</v:String>
     <v:String x:Key="LauncherNewsPage_CurrentBuild_Text">Actuelle</v:String>
 
     <!--#endregion-->
@@ -192,7 +192,7 @@
     <!-- #region VersionsPage -->
 
 
-    <v:String x:Key="VersionsPage_InstallVersion">Install from Local File</v:String>
+    <v:String x:Key="VersionsPage_InstallVersion">Installer à partir d'un fichier local</v:String>
 
 
     <!--#endregion-->
@@ -307,13 +307,13 @@
     <!--#region NewProfile -->
 
     <v:String x:Key="NewProfile_GoBackButton">❮ RETOUR</v:String>
-    <v:String x:Key="NewProfile_ProfileNameHeader">PROFILE NAME</v:String>
-    <v:String x:Key="NewProfile_ProfilePathHeader">PROFILE DIRECTORY</v:String>
+    <v:String x:Key="NewProfile_ProfileNameHeader">NOM DU PROFIL</v:String>
+    <v:String x:Key="NewProfile_ProfilePathHeader">RÉPERTOIRE DU PROFIL</v:String>
     <v:String x:Key="NewProfile_CreateProfileText_Error">CE NOM EST DÉJÀ PRIS</v:String>
-    <v:String x:Key="NewProfile_CreateProfileSubTitle">Create profile</v:String>
+    <v:String x:Key="NewProfile_CreateProfileSubTitle">Créer un profil</v:String>
     <v:String x:Key="NewProfile_CreateProfileButton">Créer</v:String>
-    <v:String x:Key="NewProfile_EditProfileButton">Save</v:String>
-    <v:String x:Key="NewProfile_EditProfileSubTitle">Edit profile</v:String>
+    <v:String x:Key="NewProfile_EditProfileButton">Enregistrer</v:String>
+    <v:String x:Key="NewProfile_EditProfileSubTitle">Modifier le profil</v:String>
 
     <!--#endregion-->
 
@@ -448,10 +448,10 @@ du Minecraft Bedrock Launcher</v:String>
 
     <v:String x:Key="ThemeEntries_LatestUpdate">Dernière mise à Jour</v:String>
     <v:String x:Key="ThemeEntries_Original">Originale</v:String>
-    <v:String x:Key="ThemeEntries_Custom">Custom</v:String>
+    <v:String x:Key="ThemeEntries_Custom">Personnalisé</v:String>
 
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">Cavernes et falaises (partie 1)</v:String>
-    <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">Caves &amp; Cliffs (Part 2)</v:String>
+    <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">Caves &amp; Cliffs (Partie 2)</v:String>
     <v:String x:Key="ThemeEntries_NetherUpdate">Mise à jour du Nether</v:String>
     <v:String x:Key="ThemeEntries_BuzzyBeesUpdate">Mise à jour Abeilles bourdonnantes</v:String>
     <v:String x:Key="ThemeEntries_VillagePillageUpdate">Mise à jour Village et pillage</v:String>
@@ -485,7 +485,7 @@ du Minecraft Bedrock Launcher</v:String>
     <v:String x:Key="GeneralText_Remove">Retirer</v:String>
     <v:String x:Key="GeneralText_Cancel">Annuler</v:String>
     <v:String x:Key="GeneralText_Update">Mise à jour</v:String>
-    <v:String x:Key="GeneralText_Install">Install</v:String>
+    <v:String x:Key="GeneralText_Install">Installer</v:String>
     <v:String x:Key="GeneralText_Add">Ajouter</v:String>
     <v:String x:Key="GeneralText_Save">Enregistrer</v:String>
     <v:String x:Key="GeneralText_Refresh">Actualiser</v:String>

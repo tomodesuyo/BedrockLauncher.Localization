@@ -188,6 +188,14 @@
     <v:String x:Key="GeneralSettingsScreen_BackupButton">备份存档数据</v:String>
     <v:String x:Key="GeneralSettingsScreen_BackupPreviewButton">备份存档数据（预览版）</v:String>
     <!--#endregion-->
+    
+    <!-- #region VersionsPage -->
+
+
+    <v:String x:Key="VersionsPage_InstallVersion">Install from Local File</v:String>
+
+
+    <!--#endregion-->
 
     <!--#region AcountsSettingsPage -->
 
@@ -299,10 +307,13 @@
     <!--#region NewProfile -->
 
     <v:String x:Key="NewProfile_GoBackButton">❮ 返回</v:String>
-    <v:String x:Key="NewProfile_CreateProfileText">档案</v:String>
+    <v:String x:Key="NewProfile_ProfileNameHeader">PROFILE NAME</v:String>
+    <v:String x:Key="NewProfile_ProfilePathHeader">PROFILE DIRECTORY</v:String>
     <v:String x:Key="NewProfile_CreateProfileText_Error">此名称已存在</v:String>
-    <v:String x:Key="NewProfile_CreateProfileSubTitle">输入您的新档案名称！</v:String>
+    <v:String x:Key="NewProfile_CreateProfileSubTitle">Create profile</v:String>
     <v:String x:Key="NewProfile_CreateProfileButton">创建</v:String>
+    <v:String x:Key="NewProfile_EditProfileButton">Save</v:String>
+    <v:String x:Key="NewProfile_EditProfileSubTitle">Edit profile</v:String>
 
     <!--#endregion-->
 
@@ -437,8 +448,10 @@
 
     <v:String x:Key="ThemeEntries_LatestUpdate">最新更新</v:String>
     <v:String x:Key="ThemeEntries_Original">原版</v:String>
+    <v:String x:Key="ThemeEntries_Custom">Custom</v:String>
 
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">洞穴与山崖（第一部分）</v:String>
+    <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">Caves &amp; Cliffs (Part 2)</v:String>
     <v:String x:Key="ThemeEntries_NetherUpdate">下界更新</v:String>
     <v:String x:Key="ThemeEntries_BuzzyBeesUpdate">嗡嗡蜂群更新</v:String>
     <v:String x:Key="ThemeEntries_VillagePillageUpdate">村庄与掠夺更新</v:String>
@@ -449,6 +462,10 @@
     <v:String x:Key="ThemeEntries_CombatUpdate">战斗更新 [Java]</v:String>
     <v:String x:Key="ThemeEntries_CatsAndPandasUpdate">猫与熊猫 [Bedrock]</v:String>
     <v:String x:Key="ThemeEntries_PocketEditionRelease">正式发布 [Bedrock]</v:String>
+
+    <v:String x:Key="ThemeEntries_BedrockAndJavaTogetherTechnoblade">Bedrock &amp; Java (Technoblade)</v:String>
+    <v:String x:Key="ThemeEntries_BedrockAndJavaTogether">Bedrock &amp; Java</v:String>
+
     <v:String x:Key="ThemeEntries_BedrockStandard">基岩版标准</v:String>
     <v:String x:Key="ThemeEntries_BedrockMaster">基岩版大师</v:String>
     <v:String x:Key="ThemeEntries_EarlyLegacyConsole">原主机板时代原始时期</v:String>
@@ -468,6 +485,7 @@
     <v:String x:Key="GeneralText_Remove">移除</v:String>
     <v:String x:Key="GeneralText_Cancel">取消</v:String>
     <v:String x:Key="GeneralText_Update">更新</v:String>
+    <v:String x:Key="GeneralText_Install">Install</v:String>
     <v:String x:Key="GeneralText_Add">添加</v:String>
     <v:String x:Key="GeneralText_Save">保存</v:String>
     <v:String x:Key="GeneralText_Refresh">刷新</v:String>

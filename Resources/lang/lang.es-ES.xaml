@@ -188,6 +188,14 @@
     <v:String x:Key="GeneralSettingsScreen_BackupButton">Guardar datos</v:String>
     <v:String x:Key="GeneralSettingsScreen_BackupPreviewButton">Copia de Seguridad de Datos (Vista previa)</v:String>
     <!--#endregion-->
+    
+    <!-- #region VersionsPage -->
+
+
+    <v:String x:Key="VersionsPage_InstallVersion">Install from Local File</v:String>
+
+
+    <!--#endregion-->
 
     <!--#region AcountsSettingsPage -->
 
@@ -299,10 +307,13 @@
     <!--#region NewProfile -->
 
     <v:String x:Key="NewProfile_GoBackButton">❮ ATRÁS</v:String>
-    <v:String x:Key="NewProfile_CreateProfileText">PERFIL</v:String>
+    <v:String x:Key="NewProfile_ProfileNameHeader">PROFILE NAME</v:String>
+    <v:String x:Key="NewProfile_ProfilePathHeader">PROFILE DIRECTORY</v:String>
     <v:String x:Key="NewProfile_CreateProfileText_Error">ESTE NOMBRE YA ESTÁ TOMADO</v:String>
-    <v:String x:Key="NewProfile_CreateProfileSubTitle">¡Introduzca el nombre de su nuevo perfil!</v:String>
+    <v:String x:Key="NewProfile_CreateProfileSubTitle">Create profile</v:String>
     <v:String x:Key="NewProfile_CreateProfileButton">Crear</v:String>
+    <v:String x:Key="NewProfile_EditProfileButton">Save</v:String>
+    <v:String x:Key="NewProfile_EditProfileSubTitle">Edit profile</v:String>
 
     <!--#endregion-->
 
@@ -436,8 +447,10 @@
 
     <v:String x:Key="ThemeEntries_LatestUpdate">Última actualización</v:String>
     <v:String x:Key="ThemeEntries_Original">Original</v:String>
+    <v:String x:Key="ThemeEntries_Custom">Custom</v:String>
 
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">Caves &amp; Cliffs (Parte 1)</v:String>
+    <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">Caves &amp; Cliffs (Part 2)</v:String>
     <v:String x:Key="ThemeEntries_NetherUpdate">Actualización del Nether</v:String>
     <v:String x:Key="ThemeEntries_BuzzyBeesUpdate">Actualización Zumbido de Abejas</v:String>
     <v:String x:Key="ThemeEntries_VillagePillageUpdate">Actualización de Aldeanos y Saqueadores</v:String>
@@ -448,6 +461,10 @@
     <v:String x:Key="ThemeEntries_CombatUpdate">Actualización de Combate [Java]</v:String>
     <v:String x:Key="ThemeEntries_CatsAndPandasUpdate">Gatos y Pandas [Bedrock]</v:String>
     <v:String x:Key="ThemeEntries_PocketEditionRelease">Lanzamiento oficial [Bedrock]</v:String>
+
+    <v:String x:Key="ThemeEntries_BedrockAndJavaTogetherTechnoblade">Bedrock &amp; Java (Technoblade)</v:String>
+    <v:String x:Key="ThemeEntries_BedrockAndJavaTogether">Bedrock &amp; Java</v:String>
+
     <v:String x:Key="ThemeEntries_BedrockStandard">Edición Bedrock Standard</v:String>
     <v:String x:Key="ThemeEntries_BedrockMaster">Edición Bedrock Master</v:String>
     <v:String x:Key="ThemeEntries_EarlyLegacyConsole">Original Legacy Console Era</v:String>
@@ -467,6 +484,7 @@
     <v:String x:Key="GeneralText_Remove">Remover</v:String>
     <v:String x:Key="GeneralText_Cancel">Cancelar</v:String>
     <v:String x:Key="GeneralText_Update">Actualizar</v:String>
+    <v:String x:Key="GeneralText_Install">Install</v:String>
     <v:String x:Key="GeneralText_Add">Añadir</v:String>
     <v:String x:Key="GeneralText_Save">Guardar</v:String>
     <v:String x:Key="GeneralText_Refresh">Actualizar</v:String>

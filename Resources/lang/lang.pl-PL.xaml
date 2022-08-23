@@ -188,6 +188,14 @@
     <v:String x:Key="GeneralSettingsScreen_BackupButton">Utwórz kopię danych zapisu</v:String>
     <v:String x:Key="GeneralSettingsScreen_BackupPreviewButton">Utwórz kopię danych zapisu (podgląd)</v:String>
     <!--#endregion-->
+    
+    <!-- #region VersionsPage -->
+
+
+    <v:String x:Key="VersionsPage_InstallVersion">Install from Local File</v:String>
+
+
+    <!--#endregion-->
 
     <!--#region AcountsSettingsPage -->
 
@@ -299,10 +307,13 @@
     <!--#region NewProfile -->
 
     <v:String x:Key="NewProfile_GoBackButton">❮ WSTECZ</v:String>
-    <v:String x:Key="NewProfile_CreateProfileText">PROFIL</v:String>
+    <v:String x:Key="NewProfile_ProfileNameHeader">PROFILE NAME</v:String>
+    <v:String x:Key="NewProfile_ProfilePathHeader">PROFILE DIRECTORY</v:String>
     <v:String x:Key="NewProfile_CreateProfileText_Error">TA NAZWA JEST JUŻ ZAJĘTA</v:String>
-    <v:String x:Key="NewProfile_CreateProfileSubTitle">Wprowadź nazwę swojego nowego profilu!</v:String>
+    <v:String x:Key="NewProfile_CreateProfileSubTitle">Create profile</v:String>
     <v:String x:Key="NewProfile_CreateProfileButton">Utwórz</v:String>
+    <v:String x:Key="NewProfile_EditProfileButton">Save</v:String>
+    <v:String x:Key="NewProfile_EditProfileSubTitle">Edit profile</v:String>
 
     <!--#endregion-->
 
@@ -437,8 +448,10 @@ są wyłączone, włącz je i spróbuj ponownie</v:String>
 
     <v:String x:Key="ThemeEntries_LatestUpdate">Najnowsza aktualizacja</v:String>
     <v:String x:Key="ThemeEntries_Original">Oryginalny</v:String>
+    <v:String x:Key="ThemeEntries_Custom">Custom</v:String>
 
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">Caves &amp; Cliffs (Part 1)</v:String>
+    <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">Caves &amp; Cliffs (Part 2)</v:String>
     <v:String x:Key="ThemeEntries_NetherUpdate">Nether Update</v:String>
     <v:String x:Key="ThemeEntries_BuzzyBeesUpdate">Buzzy Bees Update</v:String>
     <v:String x:Key="ThemeEntries_VillagePillageUpdate">Village &amp; Pillage Update</v:String>
@@ -449,6 +462,10 @@ są wyłączone, włącz je i spróbuj ponownie</v:String>
     <v:String x:Key="ThemeEntries_CombatUpdate">Combat Update [Java]</v:String>
     <v:String x:Key="ThemeEntries_CatsAndPandasUpdate">Cats &amp; Pandas [Bedrock]</v:String>
     <v:String x:Key="ThemeEntries_PocketEditionRelease">Oficjalne Wydanie [Bedrock]</v:String>
+
+    <v:String x:Key="ThemeEntries_BedrockAndJavaTogetherTechnoblade">Bedrock &amp; Java (Technoblade)</v:String>
+    <v:String x:Key="ThemeEntries_BedrockAndJavaTogether">Bedrock &amp; Java</v:String>
+
     <v:String x:Key="ThemeEntries_BedrockStandard">Bedrock Edition Standard</v:String>
     <v:String x:Key="ThemeEntries_BedrockMaster">Bedrock Edition Master</v:String>
     <v:String x:Key="ThemeEntries_EarlyLegacyConsole">Original Legacy Console Era</v:String>
@@ -468,6 +485,7 @@ są wyłączone, włącz je i spróbuj ponownie</v:String>
     <v:String x:Key="GeneralText_Remove">Usuń</v:String>
     <v:String x:Key="GeneralText_Cancel">Anuluj</v:String>
     <v:String x:Key="GeneralText_Update">Aktualizuj</v:String>
+    <v:String x:Key="GeneralText_Install">Install</v:String>
     <v:String x:Key="GeneralText_Add">Dodaj</v:String>
     <v:String x:Key="GeneralText_Save">Zapisz</v:String>
     <v:String x:Key="GeneralText_Refresh">Odśwież</v:String>

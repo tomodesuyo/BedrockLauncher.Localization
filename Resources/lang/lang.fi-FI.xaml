@@ -310,9 +310,9 @@
     <v:String x:Key="NewProfile_ProfileNameHeader">PROFILE NAME</v:String>
     <v:String x:Key="NewProfile_ProfilePathHeader">PROFILE DIRECTORY</v:String>
     <v:String x:Key="NewProfile_CreateProfileText_Error">TÄMÄ NIMI ON JO OTETTU</v:String>
-    <v:String x:Key="NewProfile_CreateProfileSubTitle">Create profile</v:String>
+    <v:String x:Key="NewProfile_CreateProfileSubTitle">Luo profiili</v:String>
     <v:String x:Key="NewProfile_CreateProfileButton">Luo</v:String>
-    <v:String x:Key="NewProfile_EditProfileButton">Save</v:String>
+    <v:String x:Key="NewProfile_EditProfileButton">Tallenna</v:String>
     <v:String x:Key="NewProfile_EditProfileSubTitle">Edit profile</v:String>
 
     <!--#endregion-->

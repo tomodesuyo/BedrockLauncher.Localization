@@ -29,7 +29,7 @@
 
     <!--#region UpdateButton-->
 
-    <v:String x:Key="UpdateButton_NewUpdate_Text">New Update!</v:String>
+    <v:String x:Key="UpdateButton_NewUpdate_Text">Yeni Güncelleme!</v:String>
     <v:String x:Key="UpdateButton_Download_Text">Click to download!</v:String>
 
     <!--#endregion-->

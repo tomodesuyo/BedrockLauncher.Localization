@@ -484,7 +484,7 @@ Tämä {0} tullaan menettämään ikiajoiksi! (Pitkäksi ajaksi!)</v:String>
     <v:String x:Key="GeneralText_Remove">Poista</v:String>
     <v:String x:Key="GeneralText_Cancel">Peruuta</v:String>
     <v:String x:Key="GeneralText_Update">Päivitä</v:String>
-    <v:String x:Key="GeneralText_Install">Install</v:String>
+    <v:String x:Key="GeneralText_Install">Asenna</v:String>
     <v:String x:Key="GeneralText_Add">Lisää</v:String>
     <v:String x:Key="GeneralText_Save">Tallenna</v:String>
     <v:String x:Key="GeneralText_Refresh">Päivitä</v:String>

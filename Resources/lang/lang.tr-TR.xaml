@@ -6,7 +6,7 @@
 
     <!--#region MainWindow -->
 
-    <v:String x:Key="MainWindow_Title">Minecraft Bedrock Launcher</v:String>
+    <v:String x:Key="MainWindow_Title">Minecraft Bedrock Başlatıcısı</v:String>
     <v:String x:Key="MainWindow_Disclaimer">NOT ASSOCIATED OR APPROVED BY MOJANG</v:String>
 
     <!--#endregion-->
@@ -22,25 +22,25 @@
     <v:String x:Key="ToolbarButtons_NewsButton_Text">News</v:String>
     <v:String x:Key="ToolbarButtons_MinecraftEdition_Text">Bedrock Edition</v:String>
     <v:String x:Key="ToolbarButtons_Minecraft_Text">MINECRAFT:</v:String>
-    <v:String x:Key="ToolbarButtons_ProfileButton_ProfileType_Text">Profile</v:String>
-    <v:String x:Key="ToolbarButtons_SettingsButton_Text">Settings</v:String>
+    <v:String x:Key="ToolbarButtons_ProfileButton_ProfileType_Text">Profil</v:String>
+    <v:String x:Key="ToolbarButtons_SettingsButton_Text">Ayarlar</v:String>
 
     <!--#endregion-->
 
     <!--#region UpdateButton-->
 
     <v:String x:Key="UpdateButton_NewUpdate_Text">Yeni Güncelleme!</v:String>
-    <v:String x:Key="UpdateButton_Download_Text">Click to download!</v:String>
+    <v:String x:Key="UpdateButton_Download_Text">İndirmek için tıklayın!</v:String>
 
     <!--#endregion-->
 
     <!--#region ProgressBar -->
 
-    <v:String x:Key="ProgressBar_Downloading">Downloading</v:String>
-    <v:String x:Key="ProgressBar_Installing">Installing</v:String>
-    <v:String x:Key="ProgressBar_Launching">Launching</v:String>
-    <v:String x:Key="ProgressBar_Extracting">Extracting</v:String>
-    <v:String x:Key="ProgressBar_Uninstalling">Uninstalling</v:String>
+    <v:String x:Key="ProgressBar_Downloading">İndiriliyor</v:String>
+    <v:String x:Key="ProgressBar_Installing">Yükleniyor</v:String>
+    <v:String x:Key="ProgressBar_Launching">Başlatılıyor</v:String>
+    <v:String x:Key="ProgressBar_Extracting">Çıkartılıyor</v:String>
+    <v:String x:Key="ProgressBar_Uninstalling">Kaldırılıyor</v:String>
     <v:String x:Key="ProgressBar_RegisteringPackage">Registering Package</v:String>
     <v:String x:Key="ProgressBar_RemovingPackage">Unregistering Package</v:String>
     <v:String x:Key="ProgressBar_BackingUp">Backing up Save Data</v:String>
@@ -51,9 +51,9 @@
 
     <v:String x:Key="ProfileButton_ManageProfiles_Text">Manage Profiles</v:String>
     <v:String x:Key="ProfileButton_ProfileSettings_Text">Profile Settings</v:String>
-    <v:String x:Key="ProfileButton_AddProfile_Text">Add Profile</v:String>
-    <v:String x:Key="ProfileButton_RemoveProfile_Text">Remove Profile</v:String>
-    <v:String x:Key="ProfileButton_ChooseAccount_Text">CHOOSE PROFILE</v:String>
+    <v:String x:Key="ProfileButton_AddProfile_Text">Profil Ekle</v:String>
+    <v:String x:Key="ProfileButton_RemoveProfile_Text">Profili Kaldır</v:String>
+    <v:String x:Key="ProfileButton_ChooseAccount_Text">PROFİL SEÇİN</v:String>
 
     <!--#endregion-->
 
@@ -64,32 +64,32 @@
     <!--#region GameTab -->
 
     <v:String x:Key="GameTab_Title">MINECRAFT: BEDROCK EDITION</v:String>
-    <v:String x:Key="GameTab_PlayButton_Text">Play</v:String>
+    <v:String x:Key="GameTab_PlayButton_Text">Oyna</v:String>
     <v:String x:Key="GameTab_PlayButton_Kill_Text">Kill</v:String>
-    <v:String x:Key="GameTab_InstallationsButton_Text">Installations</v:String>
-    <v:String x:Key="GameTab_PatchNotesButton_Text">Patch notes</v:String>
+    <v:String x:Key="GameTab_InstallationsButton_Text">Kurulumlar</v:String>
+    <v:String x:Key="GameTab_PatchNotesButton_Text">Yama Notları</v:String>
 
     <!--#endregion-->
 
     <!--#region InstallationsPage -->
 
-    <v:String x:Key="InstallationsPage_AddButton">New installation</v:String>
-    <v:String x:Key="InstallationsPage_PlayButton">Play</v:String>
+    <v:String x:Key="InstallationsPage_AddButton">Yeni Kurulum</v:String>
+    <v:String x:Key="InstallationsPage_PlayButton">Oyna</v:String>
 
-    <v:String x:Key="InstallationsPage_SortBy_LatestPlayed">Latest Played</v:String>
-    <v:String x:Key="InstallationsPage_SortBy_Name">Name</v:String>
+    <v:String x:Key="InstallationsPage_SortBy_LatestPlayed">Son Oynanan</v:String>
+    <v:String x:Key="InstallationsPage_SortBy_Name">İsim</v:String>
     <v:String x:Key="InstallationsPage_SortBy_None">None</v:String>
 
-    <v:String x:Key="InstallationsPage_SearchBar_Content">Installation name</v:String>
+    <v:String x:Key="InstallationsPage_SearchBar_Content">Kurulum İsmi</v:String>
 
     <!--#endregion-->
 
     <!--#region EditInstallationScreen -->
 
-    <v:String x:Key="EditInstallationScreen_Title">Create new installation</v:String>
-    <v:String x:Key="EditInstallationScreen_AltTitle">Edit installation</v:String>
+    <v:String x:Key="EditInstallationScreen_Title">Yeni Kurulum Oluştur</v:String>
+    <v:String x:Key="EditInstallationScreen_AltTitle">Kurulumu Düzenle</v:String>
 
-    <v:String x:Key="EditInstallationScreen_CreateButton">Create</v:String>
+    <v:String x:Key="EditInstallationScreen_CreateButton">Oluştur</v:String>
     <v:String x:Key="EditInstallationScreen_AltCreateButton">Save</v:String>
 
     <v:String x:Key="EditInstallationScreen_LatestPreview">Latest preview</v:String>
@@ -155,34 +155,34 @@
 
     <!--#region SettingsTab -->
 
-    <v:String x:Key="SettingsTab_Title">SETTINGS</v:String>
-    <v:String x:Key="SettingsTab_GeneralButton">General</v:String>
-    <v:String x:Key="SettingsTab_AccountsButton">Accounts</v:String>
-    <v:String x:Key="SettingsTab_AboutButton">About</v:String>
-    <v:String x:Key="SettingsTab_VersionsButton">Versions</v:String>
+    <v:String x:Key="SettingsTab_Title">AYARLAR</v:String>
+    <v:String x:Key="SettingsTab_GeneralButton">Genel</v:String>
+    <v:String x:Key="SettingsTab_AccountsButton">Hesaplar</v:String>
+    <v:String x:Key="SettingsTab_AboutButton">Hakkında</v:String>
+    <v:String x:Key="SettingsTab_VersionsButton">Sürümler</v:String>
 
     <!--#endregion-->
 
     <!--#region GeneralSettingsScreen -->
-    <v:String x:Key="GeneralSettingsScreen_LanguageSubtitle">LANGUAGE</v:String>
-    <v:String x:Key="GeneralSettingsScreen_ThemeSubtitle">LAUNCHER THEME</v:String>
+    <v:String x:Key="GeneralSettingsScreen_LanguageSubtitle">DİL</v:String>
+    <v:String x:Key="GeneralSettingsScreen_ThemeSubtitle">BAŞLATICI TEMASI</v:String>
 
 
-    <v:String x:Key="GeneralSettingsScreen_LauncherSettingsSubtitle">LAUNCHER SETTINGS</v:String>
-    <v:String x:Key="GeneralSettingsScreen_ShortcutSettingsSubtitle">SHORTCUT SETTINGS</v:String>
-    <v:String x:Key="GeneralSettingsScreen_UseBetaLauncher">Use beta version of the Launcher</v:String>
-    <v:String x:Key="GeneralSettingsScreen_KeepLauncherOpen">Keep the Launcher open while games are running</v:String>
-    <v:String x:Key="GeneralSettingsScreen_AnimateTransitions">Animate transitions between pages in the Launcher</v:String>
+    <v:String x:Key="GeneralSettingsScreen_LauncherSettingsSubtitle">BAŞLATICI AYARLARI</v:String>
+    <v:String x:Key="GeneralSettingsScreen_ShortcutSettingsSubtitle">KISAYOL AYARLARI</v:String>
+    <v:String x:Key="GeneralSettingsScreen_UseBetaLauncher">Başlatıcının beta sürümünü kullan</v:String>
+    <v:String x:Key="GeneralSettingsScreen_KeepLauncherOpen">Oyun çalışırken başlatıcıyı açık tut</v:String>
+    <v:String x:Key="GeneralSettingsScreen_AnimateTransitions">Başlatıcıdaki sayfa geçişlerinde animasyon göster</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimatePlayButton">Animate play button on the Play pages in the Launcher</v:String>
     <v:String x:Key="GeneralSettingsScreen_FetchVersionsFromMicrosoftStore">Allow additional checking for new versions directly from the Microsoft Store</v:String>
     
 
     <v:String x:Key="GeneralSettingsScreen_BedrockEditionSettingsSubtitle">MINECRAFT: BEDROCK EDITION SETTINGS</v:String>
-    <v:String x:Key="GeneralSettingsScreen_SupportCreatorSubtitle">SUPPORT CREATOR</v:String>
+    <v:String x:Key="GeneralSettingsScreen_SupportCreatorSubtitle">YAPIMCIYI DESTEKLE</v:String>
 
-    <v:String x:Key="GeneralSettingsScreen_UpdatesSubtitle">LAUNCHER UPDATES</v:String>
+    <v:String x:Key="GeneralSettingsScreen_UpdatesSubtitle">BAŞLATICI GÜNCELLEMELERİ</v:String>
 
-    <v:String x:Key="GeneralSettingsScreen_SupportCreatorButton">Support creator</v:String>
+    <v:String x:Key="GeneralSettingsScreen_SupportCreatorButton">Yapımcıyı destekle</v:String>
 
     <v:String x:Key="GeneralSettingsScreen_BackupsSubtitle">BACKUP OPTIONS</v:String>
     <v:String x:Key="GeneralSettingsScreen_BackupButton">Backup Save Data</v:String>
@@ -192,32 +192,32 @@
     <!-- #region VersionsPage -->
 
 
-    <v:String x:Key="VersionsPage_InstallVersion">Install from Local File</v:String>
+    <v:String x:Key="VersionsPage_InstallVersion">Yerel Dosyadan Yükle</v:String>
 
 
     <!--#endregion-->
 
     <!--#region AcountsSettingsPage -->
 
-    <v:String x:Key="AcountsSettingsPage_SelectedAccount_Subtitle">SELECTED ACCOUNT</v:String>
-    <v:String x:Key="AcountsSettingsPage_InsiderHub_Text">INSIDER SETTINGS</v:String>
-    <v:String x:Key="AcountsSettingsPage_InsiderHubNew_Text">Normal Settings</v:String>
+    <v:String x:Key="AcountsSettingsPage_SelectedAccount_Subtitle">SEÇİLİ HESAP</v:String>
+    <v:String x:Key="AcountsSettingsPage_InsiderHub_Text">INSIDER AYARLARI</v:String>
+    <v:String x:Key="AcountsSettingsPage_InsiderHubNew_Text">Normal Ayarlar</v:String>
     <v:String x:Key="AcountsSettingsPage_InsiderHubLegacy_Text">Legacy Settings</v:String>
-    <v:String x:Key="AcountsSettingsPage_ManageAccounts_Text">Manage Accounts</v:String>
-    <v:String x:Key="AcountsSettingsPage_AccountSettings_Text">ACCOUNT SETTINGS</v:String>
+    <v:String x:Key="AcountsSettingsPage_ManageAccounts_Text">Hesapları Yönet</v:String>
+    <v:String x:Key="AcountsSettingsPage_AccountSettings_Text">HESAP AYARLARI</v:String>
 
     <!--#endregion-->
 
     <!--#region AboutPage -->
 
-    <v:String x:Key="AboutPage_Title">ABOUT MINECRAFT: BEDROCK EDITION LAUNCHER</v:String>
-    <v:String x:Key="AboutPage_DevelopedBy_Text">DEVELOPED BY</v:String>
+    <v:String x:Key="AboutPage_Title">MINECRAFT HAKKINDA: BEDROCK EDITION BAŞLATICISI</v:String>
+    <v:String x:Key="AboutPage_DevelopedBy_Text">GELİŞTİRENLER</v:String>
     <v:String x:Key="AboutPage_OriginallyDevelopedBy_Text">FORKED FROM THE WORK OF</v:String>
-    <v:String x:Key="AboutPage_SpecialThanks_Text">SPECIAL THANKS TO</v:String>
+    <v:String x:Key="AboutPage_SpecialThanks_Text">ÖZEL TEŞEKKÜRLER</v:String>
 
     <v:String x:Key="AboutPage_McMrArm_Text">For creating the original Minecraft Windows 10 Version downloader (which this work derives from)</v:String>
     <v:String x:Key="AboutPage_Mojang_Text">For Minecraft!!!</v:String>
-    <v:String x:Key="AboutPage_CurrentBuild">Current Build: </v:String>
+    <v:String x:Key="AboutPage_CurrentBuild">Geçerli Sürüm: </v:String>
 
     <!--#endregion-->
 
@@ -226,8 +226,8 @@
     <v:String x:Key="GeneralSettingsScreen_PathOptions_LauncherOptions_Text">PATH OPTIONS</v:String>
     <v:String x:Key="GeneralSettingsScreen_PathOptions_PathSubtitle_Text">STORAGE DIRECTORY</v:String>
     <v:String x:Key="GeneralSettingsScreen_PathOptions_PortableMode_Text">Enable Portable Mode</v:String>
-    <v:String x:Key="GeneralSettingsScreen_PathOptions_RestartButton_Text">Apply &amp; Restart</v:String>
-    <v:String x:Key="GeneralSettingsScreen_PathOptions_Notice_Text">* These settings will restart the launcher</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_RestartButton_Text">Uygula ve Yeniden Başlat</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_Notice_Text">*Bu ayarlar başlatıcı'yı yeniden başlatacak</v:String>
 
     <!--#endregion-->
 
@@ -237,11 +237,11 @@
 
     <!--#region FirstLaunch -->
 
-    <v:String x:Key="FirstLaunch_WelcomeTitle">Welcome!</v:String>
-    <v:String x:Key="FirstLaunch_WelcomeSubTitle">Welcome to Minecraft Bedrock Launcher!</v:String>
-    <v:String x:Key="FirstLaunch_CreateProfileSubTitle">Create your first profile!</v:String>
+    <v:String x:Key="FirstLaunch_WelcomeTitle">Hoş Geldiniz!</v:String>
+    <v:String x:Key="FirstLaunch_WelcomeSubTitle">Minecraft Bedrock Başlatıcısı'na Hoş Geldiniz!</v:String>
+    <v:String x:Key="FirstLaunch_CreateProfileSubTitle">İlk profilinizi oluşturun!</v:String>
     <v:String x:Key="FirstLaunch_AlmostThereTitle">Almost there!</v:String>
-    <v:String x:Key="FirstLaunch_OneThingTitle">One thing...</v:String>
+    <v:String x:Key="FirstLaunch_OneThingTitle">Son bir şey...</v:String>
     <v:String x:Key="FirstLaunch_OneThingSubtitle">Just check over these to make sure they're just how you like it.</v:String>
     <v:String x:Key="FirstLaunch_ChooseAccountTitle">Choose an Insider Account</v:String>
     <v:String x:Key="FirstLaunch_ChooseAccountSubtitle">* This will be used to verify and download betas. You must be opted in the Xbox Insider Hub for the selected account to download betas. You also may need to restart the launcher or uninstall Minecraft for downloading betas to work.</v:String>
@@ -254,24 +254,24 @@
     <v:String x:Key="FirstLaunch_FixedInstall_Checkbox">Fixed Folder (Recommended)</v:String>
     <v:String x:Key="FirstLaunch_PortableInstall_Checkbox">Portable/Root Folder</v:String>
     <v:String x:Key="FirstLaunch_BackupCheckBox_Text">Backup Existing Save Data</v:String>
-    <v:String x:Key="FirstLaunch_BackupCheckBox_Subtext">(RECOMMENDED)</v:String>
-    <v:String x:Key="FirstLaunch_CloseButton">Close</v:String>
-    <v:String x:Key="FirstLaunch_BackButton">Back</v:String>
-    <v:String x:Key="FirstLaunch_GoBackButton">❮ GO BACK</v:String>
-    <v:String x:Key="FirstLaunch_CreateProfileText">PROFILE</v:String>
-    <v:String x:Key="FirstLaunch_CreateProfileButton">Create</v:String>
-    <v:String x:Key="FirstLaunch_NextButton">Next</v:String>
-    <v:String x:Key="FirstLaunch_DownloadButton">Download</v:String>
-    <v:String x:Key="FirstLaunch_FinishButton">Finish</v:String>
+    <v:String x:Key="FirstLaunch_BackupCheckBox_Subtext">(ÖNERİLEN)</v:String>
+    <v:String x:Key="FirstLaunch_CloseButton">Kapat</v:String>
+    <v:String x:Key="FirstLaunch_BackButton">Geri</v:String>
+    <v:String x:Key="FirstLaunch_GoBackButton">❮ GERİ GİT</v:String>
+    <v:String x:Key="FirstLaunch_CreateProfileText">PROFİL</v:String>
+    <v:String x:Key="FirstLaunch_CreateProfileButton">Oluştur</v:String>
+    <v:String x:Key="FirstLaunch_NextButton">Sonraki</v:String>
+    <v:String x:Key="FirstLaunch_DownloadButton">İndir</v:String>
+    <v:String x:Key="FirstLaunch_FinishButton">Son</v:String>
 
     <!--#endregion-->
 
     <!--#region ErrorScreen -->
 
-    <v:String x:Key="ErrorScreen_Title">ERROR</v:String>
-    <v:String x:Key="ErrorScreen_SubTitle">Launcher crashed</v:String>
-    <v:String x:Key="ErrorScreen_DefaultErrorMessage">An unexpected issue occurred and the launcher has crashed. We're sorry for the inconvenience.</v:String>
-    <v:String x:Key="ErrorScreen_CloseButton">Close</v:String>
+    <v:String x:Key="ErrorScreen_Title">HATA</v:String>
+    <v:String x:Key="ErrorScreen_SubTitle">Başlatıcı çöktü</v:String>
+    <v:String x:Key="ErrorScreen_DefaultErrorMessage">Bilinmeyen bir hata oluştu ve başlatıcı çöktü. Rahatsızlık için için özür dileriz.</v:String>
+    <v:String x:Key="ErrorScreen_CloseButton">Kapat</v:String>
     <v:String x:Key="ErrorScreen_ViewCrash">View crash report</v:String>
 
     <!--#endregion-->
@@ -290,7 +290,7 @@
     <v:String x:Key="Error_AppLaunchFailed_Title">Launch failed</v:String>
     <v:String x:Key="Error_AppLaunchFailed">Please try again :(</v:String>
 
-    <v:String x:Key="Error_AppDownloadFailed_Title">Download failed</v:String>
+    <v:String x:Key="Error_AppDownloadFailed_Title">İndirme başarısız oldu</v:String>
     <v:String x:Key="Error_AppDownloadFailed">Please try again :(</v:String>
 
     <v:String x:Key="Error_SaveDirectoryRedirectionFailed_Title">Save redirection failed</v:String>
@@ -335,22 +335,22 @@ This {0} will be lost forever! (A long time!)</v:String>
     <v:String x:Key="Dialog_CloseGame_Title">Game is Still Running</v:String>
     <v:String x:Key="Dialog_CloseGame_Text">Would you like to force close it? (without saving changes, this is only recommended if you get stuck, please close the game normally)</v:String>
 
-    <v:String x:Key="DialogBtn_YesToAll_Text">Yes To All</v:String>
-    <v:String x:Key="DialogBtn_NoToAll_Text">No To All</v:String>
-    <v:String x:Key="DialogBtn_Yes_Text">Yes</v:String>
-    <v:String x:Key="DialogBtn_No_Text">No</v:String>
+    <v:String x:Key="DialogBtn_YesToAll_Text">Tümüne Evet</v:String>
+    <v:String x:Key="DialogBtn_NoToAll_Text">Tümüne Hayır</v:String>
+    <v:String x:Key="DialogBtn_Yes_Text">Evet</v:String>
+    <v:String x:Key="DialogBtn_No_Text">Hayır</v:String>
 
-    <v:String x:Key="Dialog_NoNewsContentFound_NoMatchingResultsTitle">No matching results</v:String>
+    <v:String x:Key="Dialog_NoNewsContentFound_NoMatchingResultsTitle">Eşleşen bir sonuç bulunamadı</v:String>
     <v:String x:Key="Dialog_NoNewsContentFound_NoMatchingResultsText" xml:space="preserve">We couldn't find news any content matching your search. If you have category filters 
 turned off, try turning the back on and search again</v:String>
 
-    <v:String x:Key="Dialog_ResultPanel_Loading_Title">Loading...</v:String>
-    <v:String x:Key="Dialog_ResultPanel_Loading_Text" xml:space="preserve">Please wait!</v:String>
+    <v:String x:Key="Dialog_ResultPanel_Loading_Title">Yükleniyor...</v:String>
+    <v:String x:Key="Dialog_ResultPanel_Loading_Text" xml:space="preserve">Lütfen bekleyin!</v:String>
 
-    <v:String x:Key="Dialog_ResultPanel_Error_Title">Error</v:String>
+    <v:String x:Key="Dialog_ResultPanel_Error_Title">Hata</v:String>
     <v:String x:Key="Dialog_ResultPanel_Error_Text" xml:space="preserve">:(</v:String>
 
-    <v:String x:Key="Dialog_NoContentFound_NoMatchingResultsTitle">No result</v:String>
+    <v:String x:Key="Dialog_NoContentFound_NoMatchingResultsTitle">Sonuç bulunamadı</v:String>
     <v:String x:Key="Dialog_NoContentFound_NoMatchingResultsText" xml:space="preserve">Found no items matching your search</v:String>
 
     <!--#endregion-->
@@ -373,12 +373,12 @@ turned off, try turning the back on and search again</v:String>
 
     <v:String x:Key="Installer_Title">Minecraft Bedrock Launcher Setup Wizard</v:String>
 
-    <v:String x:Key="Installer_Back_Text">Back</v:String>
-    <v:String x:Key="Installer_Next_Text">Next</v:String>
-    <v:String x:Key="Installer_Cancel_Text">Cancel</v:String>
-    <v:String x:Key="Installer_Finish_Text">Finish</v:String>
+    <v:String x:Key="Installer_Back_Text">Geri</v:String>
+    <v:String x:Key="Installer_Next_Text">Sonraki</v:String>
+    <v:String x:Key="Installer_Cancel_Text">İptal</v:String>
+    <v:String x:Key="Installer_Finish_Text">Son</v:String>
 
-    <v:String x:Key="Installer_WelcomePage_Title">Welcome to the Minecraft Bedrock Launcher Setup Wizard</v:String>
+    <v:String x:Key="Installer_WelcomePage_Title">Minecraft Bedrock Başlatıcısı'nın Kurulum Sihirbazına Hoşgeldiniz</v:String>
     <v:String x:Key="Installer_WelcomePage_Info_Text">This will install Minecraft Bedrock Launcher on your computer.</v:String>
     <v:String x:Key="Installer_WelcomePage_Info2_Text">It is recommended that you close all other applications before continuing.</v:String>
     <v:String x:Key="Installer_WelcomePage_Info3_Text">Click Next to continue, or Cancel to exit Setup.</v:String>

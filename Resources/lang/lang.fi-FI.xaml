@@ -192,7 +192,7 @@
     <!-- #region VersionsPage -->
 
 
-    <v:String x:Key="VersionsPage_InstallVersion">Install from Local File</v:String>
+    <v:String x:Key="VersionsPage_InstallVersion">Asenna paikallisesta tiedostosta</v:String>
 
 
     <!--#endregion-->
@@ -307,13 +307,13 @@
     <!--#region NewProfile -->
 
     <v:String x:Key="NewProfile_GoBackButton">❮ TAKAISIN</v:String>
-    <v:String x:Key="NewProfile_ProfileNameHeader">PROFILE NAME</v:String>
-    <v:String x:Key="NewProfile_ProfilePathHeader">PROFILE DIRECTORY</v:String>
+    <v:String x:Key="NewProfile_ProfileNameHeader">PROFIILIN NIMI</v:String>
+    <v:String x:Key="NewProfile_ProfilePathHeader">PROFIILIN HAKEMISTO</v:String>
     <v:String x:Key="NewProfile_CreateProfileText_Error">TÄMÄ NIMI ON JO OTETTU</v:String>
     <v:String x:Key="NewProfile_CreateProfileSubTitle">Luo profiili</v:String>
     <v:String x:Key="NewProfile_CreateProfileButton">Luo</v:String>
     <v:String x:Key="NewProfile_EditProfileButton">Tallenna</v:String>
-    <v:String x:Key="NewProfile_EditProfileSubTitle">Edit profile</v:String>
+    <v:String x:Key="NewProfile_EditProfileSubTitle">Muokkaa profiilia</v:String>
 
     <!--#endregion-->
 
@@ -447,10 +447,10 @@ Tämä {0} tullaan menettämään ikiajoiksi! (Pitkäksi ajaksi!)</v:String>
 
     <v:String x:Key="ThemeEntries_LatestUpdate">Viimeisin päivitys</v:String>
     <v:String x:Key="ThemeEntries_Original">Alkuperäinen</v:String>
-    <v:String x:Key="ThemeEntries_Custom">Custom</v:String>
+    <v:String x:Key="ThemeEntries_Custom">Mukautettu</v:String>
 
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">Caves &amp; Cliffs (Osa 1)</v:String>
-    <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">Caves &amp; Cliffs (Part 2)</v:String>
+    <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">Caves &amp; Cliffs (Osa 2)</v:String>
     <v:String x:Key="ThemeEntries_NetherUpdate">Nether Update</v:String>
     <v:String x:Key="ThemeEntries_BuzzyBeesUpdate">Buzzy Beez-päivitys</v:String>
     <v:String x:Key="ThemeEntries_VillagePillageUpdate">Village &amp; Pillage-päivitys</v:String>

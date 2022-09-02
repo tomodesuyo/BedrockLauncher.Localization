@@ -439,8 +439,8 @@ turned off, try turning the back on and search again</v:String>
 
     <v:String x:Key="VersionEntries_LatestPreview">Latest Preview</v:String>
     <v:String x:Key="VersionEntries_LatestBeta">Son Beta</v:String>
-    <v:String x:Key="VersionEntries_LatestRelease">Latest Release</v:String>
-    <v:String x:Key="VersionEntries_UnnamedInstallation">&lt;unnamed installation&gt;</v:String>
+    <v:String x:Key="VersionEntries_LatestRelease">Son Sürüm</v:String>
+    <v:String x:Key="VersionEntries_UnnamedInstallation">&lt;isimsiz kurulum&gt;</v:String>
 
     <!--#endregion-->
 
@@ -450,10 +450,10 @@ turned off, try turning the back on and search again</v:String>
     <v:String x:Key="ThemeEntries_Original">Orijinal</v:String>
     <v:String x:Key="ThemeEntries_Custom">Özel</v:String>
 
-    <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">Caves &amp; Cliffs (Part 1)</v:String>
-    <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">Caves &amp; Cliffs (Part 2)</v:String>
+    <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">Mağaralar &amp; Kayalıklar (Kısım 1)</v:String>
+    <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">Mağaralar &amp; Kayalıklar (Kısım 2)</v:String>
     <v:String x:Key="ThemeEntries_NetherUpdate">Nether Güncellemesi</v:String>
-    <v:String x:Key="ThemeEntries_BuzzyBeesUpdate">Buzzy Bees Update</v:String>
+    <v:String x:Key="ThemeEntries_BuzzyBeesUpdate">Çalışkan Arılar Güncellemesi</v:String>
     <v:String x:Key="ThemeEntries_VillagePillageUpdate">Village &amp; Pillage Update</v:String>
     <v:String x:Key="ThemeEntries_UpdateAquatic">Update Aquatic</v:String>
     <v:String x:Key="ThemeEntries_TechnicallyUpdated">Technically Updated [Java]</v:String>

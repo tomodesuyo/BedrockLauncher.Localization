@@ -65,7 +65,7 @@
 
     <v:String x:Key="GameTab_Title">MINECRAFT: BEDROCK EDITION</v:String>
     <v:String x:Key="GameTab_PlayButton_Text">Oyna</v:String>
-    <v:String x:Key="GameTab_PlayButton_Kill_Text">Kill</v:String>
+    <v:String x:Key="GameTab_PlayButton_Kill_Text">Sonlandır</v:String>
     <v:String x:Key="GameTab_InstallationsButton_Text">Kurulumlar</v:String>
     <v:String x:Key="GameTab_PatchNotesButton_Text">Yama Notları</v:String>
 
@@ -98,7 +98,7 @@
 
     <v:String x:Key="EditInstallationScreen_NameSubtitle">İSİM</v:String>
     <v:String x:Key="EditInstallationScreen_VersionSubtitle">SÜRÜM</v:String>
-    <v:String x:Key="EditInstallationScreen_DirectorySubtitle">DIRECTORY</v:String>
+    <v:String x:Key="EditInstallationScreen_DirectorySubtitle">KONUM</v:String>
 
     <v:String x:Key="EditInstallationScreen_NameHintText">&lt;isimsiz kurulum&gt;</v:String>
     <v:String x:Key="EditInstallationScreen_DirectoryHintText">&lt;varsayılan konum&gt;</v:String>
@@ -139,7 +139,7 @@
     <v:String x:Key="NewsScreen_LauncherTabTitle">Başlatıcı</v:String>
     <v:String x:Key="NewsScreen_OfficialTabTitle">Resmi</v:String>
     <v:String x:Key="NewsScreen_MinecraftForumsTitle">Minecraft Forumları</v:String>
-    <v:String x:Key="NewsScreen_JavaNDungeonsTabTitle">Java / Dungeons</v:String>
+    <v:String x:Key="NewsScreen_JavaNDungeonsTabTitle">Java / Zindanlar</v:String>
 
     <v:String x:Key="NewsScreen_SearchBar_Content">Haber Başlığı</v:String>
 
@@ -240,10 +240,10 @@
     <v:String x:Key="FirstLaunch_WelcomeTitle">Hoş Geldiniz!</v:String>
     <v:String x:Key="FirstLaunch_WelcomeSubTitle">Minecraft Bedrock Başlatıcısı'na Hoş Geldiniz!</v:String>
     <v:String x:Key="FirstLaunch_CreateProfileSubTitle">İlk profilinizi oluşturun!</v:String>
-    <v:String x:Key="FirstLaunch_AlmostThereTitle">Almost there!</v:String>
+    <v:String x:Key="FirstLaunch_AlmostThereTitle">Neredeyse bitti!</v:String>
     <v:String x:Key="FirstLaunch_OneThingTitle">Son bir şey...</v:String>
     <v:String x:Key="FirstLaunch_OneThingSubtitle">Just check over these to make sure they're just how you like it.</v:String>
-    <v:String x:Key="FirstLaunch_ChooseAccountTitle">Choose an Insider Account</v:String>
+    <v:String x:Key="FirstLaunch_ChooseAccountTitle">Bir Insider Hesabı seç</v:String>
     <v:String x:Key="FirstLaunch_ChooseAccountSubtitle">* Bu betaları doğrulamak ve indirmek için kullanılacaktır. Seçilen hesabın betaları indirebilmesi için Xbox Insider Hub'a dahil olmanız gerekir. Betaların çalışması için ayrıca başlatıcıyı yeniden başlatmanız veya Minecraft'ı kaldırmanız gerekebilir.</v:String>
 
     <v:String x:Key="FirstLaunch_BeforeStartingToUse" xml:space="preserve">Before using, it is highly recommended that you press backup to create an installation of your existing save data as the launcher does replace the original directory with a symbolic link which allows us to redirect save data.
@@ -251,7 +251,7 @@
  (Don't worry, you will not lose your data by doing this, you will only lose data if you press play and haven't backed your stuff up)</v:String>
 
     <v:String x:Key="FirstLaunch_InstallType_Header">Save/Load Launcher Data From:</v:String>
-    <v:String x:Key="FirstLaunch_FixedInstall_Checkbox">Fixed Folder (Recommended)</v:String>
+    <v:String x:Key="FirstLaunch_FixedInstall_Checkbox">Düzeltilmiş Klasör (Önerilen)</v:String>
     <v:String x:Key="FirstLaunch_PortableInstall_Checkbox">Portable/Root Folder</v:String>
     <v:String x:Key="FirstLaunch_BackupCheckBox_Text">Backup Existing Save Data</v:String>
     <v:String x:Key="FirstLaunch_BackupCheckBox_Subtext">(ÖNERİLEN)</v:String>
@@ -281,7 +281,7 @@
     <v:String x:Key="Error_AuthenticationFailed_Title">Authentication failed</v:String>
     <v:String x:Key="Error_AuthenticationFailed">Failed to authenticate. Please make sure your account is subscribed to the beta program.</v:String>
 
-    <v:String x:Key="Error_AppReregisterFailed_Title">App registration failed</v:String>
+    <v:String x:Key="Error_AppReregisterFailed_Title">Uygulama Kaydı başarısız oldu</v:String>
     <v:String x:Key="Error_AppReregisterFailed">Lütfen yeniden deneyin :(</v:String>
 
     <v:String x:Key="Error_AppDeregisteringFailed_Title">App de-registration failed</v:String>
@@ -351,7 +351,7 @@ turned off, try turning the back on and search again</v:String>
     <v:String x:Key="Dialog_ResultPanel_Error_Text" xml:space="preserve">:(</v:String>
 
     <v:String x:Key="Dialog_NoContentFound_NoMatchingResultsTitle">Sonuç bulunamadı</v:String>
-    <v:String x:Key="Dialog_NoContentFound_NoMatchingResultsText" xml:space="preserve">Found no items matching your search</v:String>
+    <v:String x:Key="Dialog_NoContentFound_NoMatchingResultsText" xml:space="preserve">Aramanızla eşleşen içerik bulunamadı</v:String>
 
     <!--#endregion-->
 
@@ -387,7 +387,7 @@ turned off, try turning the back on and search again</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Info_Text">Lütfen Lisans Sözleşmesini okuyunuz. Bu şartları kabul etmelisiniz</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Info2_Text">agreement before continuing with the installation.</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Accept_Text">Anlaşmayı kabul ediyorum.</v:String>
-    <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">I don't accept the license.</v:String>
+    <v:String x:Key="Installer_LicenseAgreement_DontAccept_Text">Anlaşmayı kabul etmiyorum.</v:String>
 
     <v:String x:Key="Installer_InstallType_Title">Kurulum Yöntemini Seçin</v:String>
     <v:String x:Key="Installer_InstallType_Info_Text">Select which version of the launcher you want to download</v:String>
@@ -395,7 +395,7 @@ turned off, try turning the back on and search again</v:String>
     <v:String x:Key="Installer_InstallType_InstallLocation_BetaRadioButton_Text">Beta Sürümü</v:String>
     <v:String x:Key="Installer_InstallType_InstallLocation_ReleaseRadioButton_Text">Release Version</v:String>
 
-    <v:String x:Key="Installer_InstallLocation_Title">Choose Install Location</v:String>
+    <v:String x:Key="Installer_InstallLocation_Title">Kurulum Konumunu Seç</v:String>
     <v:String x:Key="Installer_InstallLocation_Info_Text">Setup will install Minecraft Bedrock Launcher in the following folder. To install in a different folder,</v:String>
     <v:String x:Key="Installer_InstallLocation_Info2_Text">Gözat'a tıklayın ve farklı bir dosya seçin.</v:String>
 
@@ -416,7 +416,7 @@ turned off, try turning the back on and search again</v:String>
 
     <!--#endregion-->
 
-    <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text">Unable to Move Directory</v:String>
+    <v:String x:Key="Installer_Dialog_MovingDirectoryFailed_Text">Dizin taşınamadı</v:String>
     <v:String x:Key="Installer_Dialog_MovingFileFailed_Text">Dosya taşınamadı</v:String>
     <v:String x:Key="Installer_Dialog_FileLocked_Text">Dosya Kullanılıyor</v:String>
     <v:String x:Key="Installer_Dialog_TryAgain_Text">Tekrar Dene?</v:String>
@@ -425,7 +425,7 @@ turned off, try turning the back on and search again</v:String>
     <!--#region ProgressBar -->
 
     <v:String x:Key="Installer_ProgressBar_Downloading">İndiriliyor...</v:String>
-    <v:String x:Key="Installer_ProgressBar_Finalizing">Finalizing...</v:String>
+    <v:String x:Key="Installer_ProgressBar_Finalizing">Sonlandırılıyor...</v:String>
     <v:String x:Key="Installer_ProgressBar_Initalizing">Initializing...</v:String>
 
 
@@ -454,19 +454,19 @@ turned off, try turning the back on and search again</v:String>
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">Mağaralar &amp; Kayalıklar (Kısım 2)</v:String>
     <v:String x:Key="ThemeEntries_NetherUpdate">Nether Güncellemesi</v:String>
     <v:String x:Key="ThemeEntries_BuzzyBeesUpdate">Çalışkan Arılar Güncellemesi</v:String>
-    <v:String x:Key="ThemeEntries_VillagePillageUpdate">Village &amp; Pillage Update</v:String>
-    <v:String x:Key="ThemeEntries_UpdateAquatic">Update Aquatic</v:String>
-    <v:String x:Key="ThemeEntries_TechnicallyUpdated">Technically Updated [Java]</v:String>
-    <v:String x:Key="ThemeEntries_WorldOfColorUpdate">World of Color Update [Java]</v:String>
-    <v:String x:Key="ThemeEntries_ExplorationUpdate">Exploration Update [Java]</v:String>
+    <v:String x:Key="ThemeEntries_VillagePillageUpdate">Köy &amp; Yağma Güncellemesi</v:String>
+    <v:String x:Key="ThemeEntries_UpdateAquatic">Su Altı Güncellemesi</v:String>
+    <v:String x:Key="ThemeEntries_TechnicallyUpdated">Teknik Olarak Güncellendi [Java]</v:String>
+    <v:String x:Key="ThemeEntries_WorldOfColorUpdate">Renk Dünyası Güncellemesi [Java]</v:String>
+    <v:String x:Key="ThemeEntries_ExplorationUpdate">Keşif Güncellemesi [Java]</v:String>
     <v:String x:Key="ThemeEntries_CombatUpdate">Savaş Güncellemesi [Java]</v:String>
-    <v:String x:Key="ThemeEntries_CatsAndPandasUpdate">Cats &amp; Pandas [Bedrock]</v:String>
+    <v:String x:Key="ThemeEntries_CatsAndPandasUpdate">Kediler &amp; Pandalar [Bedrock]</v:String>
     <v:String x:Key="ThemeEntries_PocketEditionRelease">Official Release [Bedrock]</v:String>
 
-    <v:String x:Key="ThemeEntries_BedrockAndJavaTogetherTechnoblade">Bedrock &amp; Java (Technoblade)</v:String>
+    <v:String x:Key="ThemeEntries_BedrockAndJavaTogetherTechnoblade">Bedrock ve Java (Technoblade)</v:String>
     <v:String x:Key="ThemeEntries_BedrockAndJavaTogether">Bedrock ve Java</v:String>
 
-    <v:String x:Key="ThemeEntries_BedrockStandard">Bedrock Edition Standard</v:String>
+    <v:String x:Key="ThemeEntries_BedrockStandard">Bedrock Edition Standart</v:String>
     <v:String x:Key="ThemeEntries_BedrockMaster">Bedrock Edition Master</v:String>
     <v:String x:Key="ThemeEntries_EarlyLegacyConsole">Original Legacy Console Era</v:String>
     <v:String x:Key="ThemeEntries_MidLegacyConsole">Mid Legacy Console Era</v:String>
@@ -495,7 +495,7 @@ turned off, try turning the back on and search again</v:String>
     <v:String x:Key="GeneralText_Reset">Sıfırla</v:String>
     <v:String x:Key="GeneralText_Yes">Evet</v:String>
     <v:String x:Key="GeneralText_No">Hayır</v:String>
-    <v:String x:Key="GeneralText_Releases">Releases</v:String>
+    <v:String x:Key="GeneralText_Releases">Sürümler</v:String>
     <v:String x:Key="GeneralText_Betas">Betalar</v:String>
     <v:String x:Key="GeneralText_Previews">Previews</v:String>
     <v:String x:Key="GeneralText_Export">Dışa Aktar</v:String>

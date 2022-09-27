@@ -192,7 +192,7 @@
     <!-- #region VersionsPage -->
 
 
-    <v:String x:Key="VersionsPage_InstallVersion">Install from Local File</v:String>
+    <v:String x:Key="VersionsPage_InstallVersion">Pasang dari Fail Tempatan</v:String>
 
 
     <!--#endregion-->
@@ -307,13 +307,13 @@
     <!--#region NewProfile -->
 
     <v:String x:Key="NewProfile_GoBackButton">❮ KEMBALI</v:String>
-    <v:String x:Key="NewProfile_ProfileNameHeader">PROFILE NAME</v:String>
-    <v:String x:Key="NewProfile_ProfilePathHeader">PROFILE DIRECTORY</v:String>
+    <v:String x:Key="NewProfile_ProfileNameHeader">NAMA PROFIL</v:String>
+    <v:String x:Key="NewProfile_ProfilePathHeader">DIREKTORI PROFIL</v:String>
     <v:String x:Key="NewProfile_CreateProfileText_Error">NAMA INI SUDAH DIAMBIL</v:String>
-    <v:String x:Key="NewProfile_CreateProfileSubTitle">Create profile</v:String>
+    <v:String x:Key="NewProfile_CreateProfileSubTitle">Cipta profil</v:String>
     <v:String x:Key="NewProfile_CreateProfileButton">Cipta</v:String>
-    <v:String x:Key="NewProfile_EditProfileButton">Save</v:String>
-    <v:String x:Key="NewProfile_EditProfileSubTitle">Edit profile</v:String>
+    <v:String x:Key="NewProfile_EditProfileButton">Simpan</v:String>
+    <v:String x:Key="NewProfile_EditProfileSubTitle">Sunting profil</v:String>
 
     <!--#endregion-->
 
@@ -448,7 +448,7 @@ dimatikan, cuba hidupkannya kembali dan cari lagi</v:String>
 
     <v:String x:Key="ThemeEntries_LatestUpdate">Kemas Kini Terkini</v:String>
     <v:String x:Key="ThemeEntries_Original">Asal</v:String>
-    <v:String x:Key="ThemeEntries_Custom">Custom</v:String>
+    <v:String x:Key="ThemeEntries_Custom">Tersuai</v:String>
 
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">Caves &amp; Cliffs (Part 1)</v:String>
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">Caves &amp; Cliffs (Part 2)</v:String>
@@ -485,7 +485,7 @@ dimatikan, cuba hidupkannya kembali dan cari lagi</v:String>
     <v:String x:Key="GeneralText_Remove">Hapus</v:String>
     <v:String x:Key="GeneralText_Cancel">Batal</v:String>
     <v:String x:Key="GeneralText_Update">Kemas kini</v:String>
-    <v:String x:Key="GeneralText_Install">Install</v:String>
+    <v:String x:Key="GeneralText_Install">Pasang</v:String>
     <v:String x:Key="GeneralText_Add">Tambah</v:String>
     <v:String x:Key="GeneralText_Save">Simpan</v:String>
     <v:String x:Key="GeneralText_Refresh">Muat Semula</v:String>

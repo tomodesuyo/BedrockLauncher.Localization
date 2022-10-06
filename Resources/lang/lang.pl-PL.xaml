@@ -246,9 +246,9 @@
     <v:String x:Key="FirstLaunch_ChooseAccountTitle">Wybierz konto Insider</v:String>
     <v:String x:Key="FirstLaunch_ChooseAccountSubtitle">* Zostanie ono użyte do weryfikacji i pobierania wersji beta. Należy dołączyć do Xbox Insider Hub, aby pobierać wersje beta na wybranym koncie. Może być również wymagane ponowne uruchomienie launchera lub odinstalowanie Minecraft w celu uruchomienia wersji beta.</v:String>
 
-    <v:String x:Key="FirstLaunch_BeforeStartingToUse" xml:space="preserve">Before using, it is highly recommended that you press backup to create an installation of your existing save data as the launcher does replace the original directory with a symbolic link which allows us to redirect save data.
+    <v:String x:Key="FirstLaunch_BeforeStartingToUse" xml:space="preserve">Przed użyciem zalecane jest naciśnięcie na Kopia zapasowa, aby utworzyć instalację istniejących danych zapisu, ponieważ program zastępuje oryginalny katalog symbolicznym połączeniem, które umożliwia nam przekierowanie danych zapisu.
 
- (Don't worry, you will not lose your data by doing this, you will only lose data if you press play and haven't backed your stuff up)</v:String>
+ (Nie obawiaj się, że utracisz swoje dane, ponieważ stanie się to tylko wtedy, gdy naciśniesz Graj bez utworzenia kopii zapasowej)</v:String>
 
     <v:String x:Key="FirstLaunch_InstallType_Header">Zapisz/Wczytaj dane launchera z:</v:String>
     <v:String x:Key="FirstLaunch_FixedInstall_Checkbox">Ustalony folder (zalecane)</v:String>

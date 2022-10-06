@@ -192,7 +192,7 @@
     <!-- #region VersionsPage -->
 
 
-    <v:String x:Key="VersionsPage_InstallVersion">Install from Local File</v:String>
+    <v:String x:Key="VersionsPage_InstallVersion">Zainstaluj z pliku lokalnego</v:String>
 
 
     <!--#endregion-->
@@ -307,13 +307,13 @@
     <!--#region NewProfile -->
 
     <v:String x:Key="NewProfile_GoBackButton">❮ WSTECZ</v:String>
-    <v:String x:Key="NewProfile_ProfileNameHeader">PROFILE NAME</v:String>
-    <v:String x:Key="NewProfile_ProfilePathHeader">PROFILE DIRECTORY</v:String>
+    <v:String x:Key="NewProfile_ProfileNameHeader">NAZWA PROFILU</v:String>
+    <v:String x:Key="NewProfile_ProfilePathHeader">KATALOG PROFILU</v:String>
     <v:String x:Key="NewProfile_CreateProfileText_Error">TA NAZWA JEST JUŻ ZAJĘTA</v:String>
-    <v:String x:Key="NewProfile_CreateProfileSubTitle">Create profile</v:String>
+    <v:String x:Key="NewProfile_CreateProfileSubTitle">Utwórz profil</v:String>
     <v:String x:Key="NewProfile_CreateProfileButton">Utwórz</v:String>
-    <v:String x:Key="NewProfile_EditProfileButton">Save</v:String>
-    <v:String x:Key="NewProfile_EditProfileSubTitle">Edit profile</v:String>
+    <v:String x:Key="NewProfile_EditProfileButton">Zapisz</v:String>
+    <v:String x:Key="NewProfile_EditProfileSubTitle">Edytuj profil</v:String>
 
     <!--#endregion-->
 
@@ -485,7 +485,7 @@ są wyłączone, włącz je i spróbuj ponownie</v:String>
     <v:String x:Key="GeneralText_Remove">Usuń</v:String>
     <v:String x:Key="GeneralText_Cancel">Anuluj</v:String>
     <v:String x:Key="GeneralText_Update">Aktualizuj</v:String>
-    <v:String x:Key="GeneralText_Install">Install</v:String>
+    <v:String x:Key="GeneralText_Install">Zainstaluj</v:String>
     <v:String x:Key="GeneralText_Add">Dodaj</v:String>
     <v:String x:Key="GeneralText_Save">Zapisz</v:String>
     <v:String x:Key="GeneralText_Refresh">Odśwież</v:String>

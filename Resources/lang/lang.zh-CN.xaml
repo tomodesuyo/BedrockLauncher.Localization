@@ -81,6 +81,7 @@
     <v:String x:Key="InstallationsPage_SortBy_None">无</v:String>
 
     <v:String x:Key="InstallationsPage_SearchBar_Content">配置名称</v:String>
+    <v:String x:Key="InstallationVersionSelect_SearchBar_Content">Version text</v:String>
 
     <!--#endregion-->
 
@@ -189,6 +190,14 @@
     <v:String x:Key="GeneralSettingsScreen_BackupPreviewButton">备份存档数据（预览版）</v:String>
     <!--#endregion-->
     
+    <!-- #region VersionsPage -->
+
+
+    <v:String x:Key="VersionsPage_InstallVersion">Install from Local File</v:String>
+
+
+    <!--#endregion-->
+
     <!-- #region VersionsPage -->
 
 
@@ -484,6 +493,7 @@
     <v:String x:Key="GeneralText_Duplicate">复制</v:String>
     <v:String x:Key="GeneralText_Remove">移除</v:String>
     <v:String x:Key="GeneralText_Cancel">取消</v:String>
+    <v:String x:Key="GeneralText_Select">Select</v:String>
     <v:String x:Key="GeneralText_Update">更新</v:String>
     <v:String x:Key="GeneralText_Install">Install</v:String>
     <v:String x:Key="GeneralText_Add">添加</v:String>

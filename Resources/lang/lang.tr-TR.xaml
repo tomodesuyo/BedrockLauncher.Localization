@@ -81,6 +81,7 @@
     <v:String x:Key="InstallationsPage_SortBy_None">None</v:String>
 
     <v:String x:Key="InstallationsPage_SearchBar_Content">Kurulum İsmi</v:String>
+    <v:String x:Key="InstallationVersionSelect_SearchBar_Content">Version text</v:String>
 
     <!--#endregion-->
 
@@ -192,7 +193,15 @@
     <!-- #region VersionsPage -->
 
 
-    <v:String x:Key="VersionsPage_InstallVersion">Yerel Dosyadan Yükle</v:String>
+    <v:String x:Key="VersionsPage_InstallVersion">Install from Local File</v:String>
+
+
+    <!--#endregion-->
+
+    <!-- #region VersionsPage -->
+
+
+    <v:String x:Key="VersionsPage_InstallVersion">Install from Local File</v:String>
 
 
     <!--#endregion-->
@@ -484,6 +493,7 @@ turned off, try turning the back on and search again</v:String>
     <v:String x:Key="GeneralText_Duplicate">Çoğalt</v:String>
     <v:String x:Key="GeneralText_Remove">Kaldır</v:String>
     <v:String x:Key="GeneralText_Cancel">İptal</v:String>
+    <v:String x:Key="GeneralText_Select">Select</v:String>
     <v:String x:Key="GeneralText_Update">Güncelle</v:String>
     <v:String x:Key="GeneralText_Install">Yükle</v:String>
     <v:String x:Key="GeneralText_Add">Ekle</v:String>

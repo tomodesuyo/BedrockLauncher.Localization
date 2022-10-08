@@ -499,6 +499,7 @@
     <v:String x:Key="GeneralText_Releases">正式</v:String>
     <v:String x:Key="GeneralText_Betas">開發</v:String>
     <v:String x:Key="GeneralText_Previews">Previews</v:String>
+    <v:String x:Key="GeneralText_Imported">Imported</v:String>
     <v:String x:Key="GeneralText_Export">匯出</v:String>
     <v:String x:Key="GeneralText_Repair">修</v:String>
 
@@ -511,6 +512,7 @@
     <!--#region GeneralSubtitles -->
 
     <v:String x:Key="GeneralSubtitles_Versions">版本</v:String>
+    <v:String x:Key="GeneralSubtitles_Architectures">ARCHITECTURES</v:String>
     <v:String x:Key="GeneralSubtitles_Browse">瀏覽</v:String>
     <v:String x:Key="GeneralSubtitles_Reset">重設</v:String>
     <v:String x:Key="GeneralSubtitles_Categories">分類</v:String>

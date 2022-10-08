@@ -499,6 +499,7 @@
     <v:String x:Key="GeneralText_Releases">Релізи</v:String>
     <v:String x:Key="GeneralText_Betas">Бети</v:String>
     <v:String x:Key="GeneralText_Previews">Previews</v:String>
+    <v:String x:Key="GeneralText_Imported">Imported</v:String>
     <v:String x:Key="GeneralText_Export">Експортувати</v:String>
     <v:String x:Key="GeneralText_Repair">Виправити</v:String>
 
@@ -511,6 +512,7 @@
     <!--#region GeneralSubtitles -->
 
     <v:String x:Key="GeneralSubtitles_Versions">ВЕРСІЇ</v:String>
+    <v:String x:Key="GeneralSubtitles_Architectures">ARCHITECTURES</v:String>
     <v:String x:Key="GeneralSubtitles_Browse">ОГЛЯД</v:String>
     <v:String x:Key="GeneralSubtitles_Reset">СКИНУТИ</v:String>
     <v:String x:Key="GeneralSubtitles_Categories">КАТЕГОРІЇ</v:String>

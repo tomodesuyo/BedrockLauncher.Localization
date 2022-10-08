@@ -81,6 +81,7 @@
     <v:String x:Key="InstallationsPage_SortBy_None">None</v:String>
 
     <v:String x:Key="InstallationsPage_SearchBar_Content">Nome da instalação</v:String>
+    <v:String x:Key="InstallationVersionSelect_SearchBar_Content">Version text</v:String>
 
     <!--#endregion-->
 
@@ -189,6 +190,14 @@
     <v:String x:Key="GeneralSettingsScreen_BackupPreviewButton">Backup Save Data (Preview)</v:String>
     <!--#endregion-->
     
+    <!-- #region VersionsPage -->
+
+
+    <v:String x:Key="VersionsPage_InstallVersion">Install from Local File</v:String>
+
+
+    <!--#endregion-->
+
     <!-- #region VersionsPage -->
 
 
@@ -484,6 +493,7 @@ turned off, try turning the back on and search again</v:String>
     <v:String x:Key="GeneralText_Duplicate">Duplicar</v:String>
     <v:String x:Key="GeneralText_Remove">Remover</v:String>
     <v:String x:Key="GeneralText_Cancel">Cancelar</v:String>
+    <v:String x:Key="GeneralText_Select">Select</v:String>
     <v:String x:Key="GeneralText_Update">Atualizar</v:String>
     <v:String x:Key="GeneralText_Install">Install</v:String>
     <v:String x:Key="GeneralText_Add">Adicionar</v:String>

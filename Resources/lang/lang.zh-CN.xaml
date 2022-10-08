@@ -14,8 +14,6 @@
     <!-- #region CommunityPage -->
 
     <v:String x:Key="CommunityPage_SupportText">❤ 支持开发 ❤</v:String>
-    <v:String x:Key="CommunityPage_ComingSoon">即将到来！</v:String>
-    <v:String x:Key="CommunityPage_CheckBackLater">请稍后再回来看看，这里将有一些超级棒的东西！</v:String>
 
     <!-- #endregion -->
 
@@ -23,12 +21,7 @@
 
     <v:String x:Key="ToolbarButtons_NewsButton_Text">新闻</v:String>
     <v:String x:Key="ToolbarButtons_MinecraftEdition_Text">Bedrock Edition</v:String>
-    <v:String x:Key="ToolbarButtons_MinecraftJavaEdition_Text">Java Edition</v:String>
-    <v:String x:Key="ToolbarButtons_MinecraftJavaLauncher_Text">Java 启动器</v:String>
-    <v:String x:Key="ToolbarButtons_CustomLauncher_Text">自定义启动器</v:String>
-    <v:String x:Key="ToolbarButtons_SwitchEdition_Text">切换至</v:String>
     <v:String x:Key="ToolbarButtons_Minecraft_Text">MINECRAFT：</v:String>
-    <v:String x:Key="ToolbarButtons_CommunityButton_Text">社区</v:String>
     <v:String x:Key="ToolbarButtons_ProfileButton_ProfileType_Text">配置</v:String>
     <v:String x:Key="ToolbarButtons_SettingsButton_Text">设置</v:String>
 
@@ -65,27 +58,6 @@
     <!--#endregion-->
 
     <!--#endregion-->
-    
-    <!-- #region Dungeons Section -->
-
-    <v:String x:Key="Dungeons_InstallationPage_GameVariant">游戏变体</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_GameVariant_Windows">Windows启动器</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_GameVariant_Steam">Steam</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_GameVariant_Store">Microsoft应用商店</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_HintText_DefaultPath">&lt;默认路径&gt;</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_Header_InstallLocation">安装位置</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_Header_ModFolderLocation">符号链接模组文件夹位置</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_InstructionsTab">指导</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_PathsTab">路径</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_GeneralTab">常规</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_InstallStorePatch">安装商店补丁</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_UpdateStorePatch">更新商店补丁</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_RemoveModManager">卸载符号链接</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_InstallModManager">安装符号链接</v:String>
-    <v:String x:Key="Dungeons_InstallationPage_RepairOrUpdateGame">修复/更新游戏</v:String>
-
-
-    <!--#endregion-->
 
     <!--#region Game Section -->
 
@@ -95,7 +67,6 @@
     <v:String x:Key="GameTab_PlayButton_Text">开始游戏</v:String>
     <v:String x:Key="GameTab_PlayButton_Kill_Text">终止</v:String>
     <v:String x:Key="GameTab_InstallationsButton_Text">配置</v:String>
-    <v:String x:Key="GameTab_SkinsButton_Text">皮肤</v:String>
     <v:String x:Key="GameTab_PatchNotesButton_Text">更新说明</v:String>
 
     <!--#endregion-->
@@ -107,6 +78,7 @@
 
     <v:String x:Key="InstallationsPage_SortBy_LatestPlayed">上次游玩</v:String>
     <v:String x:Key="InstallationsPage_SortBy_Name">名称</v:String>
+    <v:String x:Key="InstallationsPage_SortBy_None">无</v:String>
 
     <v:String x:Key="InstallationsPage_SearchBar_Content">配置名称</v:String>
 
@@ -120,7 +92,8 @@
     <v:String x:Key="EditInstallationScreen_CreateButton">创建</v:String>
     <v:String x:Key="EditInstallationScreen_AltCreateButton">保存</v:String>
 
-    <v:String x:Key="EditInstallationScreen_LatestSnapshot">最新测试版</v:String>
+    <v:String x:Key="EditInstallationScreen_LatestPreview">最新预览版</v:String>
+    <v:String x:Key="EditInstallationScreen_LatestBeta">最新测试版</v:String>
     <v:String x:Key="EditInstallationScreen_LatestRelease">最新版本</v:String>
 
     <v:String x:Key="EditInstallationScreen_NameSubtitle">名称</v:String>
@@ -146,50 +119,6 @@
 
     <!--#endregion-->
 
-    <!--#region EditSkinScreen -->
-
-    <v:String x:Key="EditSkinScreen_Title">编辑皮肤</v:String>
-    <v:String x:Key="EditSkinScreen_AltTitle">添加皮肤</v:String>
-
-    <v:String x:Key="EditSkinScreen_TextureSubtitle">纹理</v:String>
-    <v:String x:Key="EditSkinScreen_GeometrySubtitle">几何</v:String>
-    <v:String x:Key="EditSkinScreen_TypeSubtitle">类型</v:String>
-    <v:String x:Key="EditSkinScreen_LocalizationSubtitle">本地化名称</v:String>
-
-    <!--#endregion-->
-
-    <!--#region EditSkinPackScreen -->
-
-    <v:String x:Key="EditSkinPackScreen_DescriptionSubtitle">描述</v:String>
-    <v:String x:Key="EditSkinPackScreen_GeometryPathSubtitle">几何</v:String>
-
-    <v:String x:Key="EditSkinPackScreen_LocalizationNameSubtitle">本地化名称</v:String>
-    <v:String x:Key="EditSkinPackScreen_SerializeNameSubtitle">序列化名称</v:String>
-    <v:String x:Key="EditSkinPackScreen_LocalizationLangSubtitle">语言定义</v:String>
-
-    <v:String x:Key="EditSkinPackScreen_AddLangTextBoxSubtitle">语言名称</v:String>
-
-    <v:String x:Key="EditSkinPackScreen_DefinitionsSubtitle">其他定义</v:String>
-    <v:String x:Key="EditSkinPackScreen_ContentSubtitle">内容</v:String>
-    <v:String x:Key="EditSkinPackScreen_ModulesSubtitle">模块</v:String>
-
-    <v:String x:Key="EditSkinPackScreen_FormatVersionSubtitle">格式版本</v:String>
-
-    <v:String x:Key="EditSkinPackScreen_HeaderNameSubtitle">包名称</v:String>
-    <v:String x:Key="EditSkinPackScreen_HeaderUUIDSubtitle">UUID</v:String>
-    <v:String x:Key="EditSkinPackScreen_HeaderVersionSubtitle">版本</v:String>
-
-    <v:String x:Key="EditSkinPackScreen_ModulesTypeSubtitle">类型</v:String>
-    <v:String x:Key="EditSkinPackScreen_ModulesUUIDSubtitle">UUID</v:String>
-    <v:String x:Key="EditSkinPackScreen_ModulesVersionSubtitle">版本</v:String>
-
-    <v:String x:Key="EditSkinPackScreen_Header">编辑皮肤包</v:String>
-    <v:String x:Key="EditSkinPackScreen_AddHeader">添加皮肤包</v:String>
-
-    <v:String x:Key="EditSkinPackScreen_Warning">* 请注意，修改语言定义和更改包图标是不可逆的，无论您是否保存了您的更改！！！</v:String>
-
-    <!--#endregion-->
-
     <!--#endregion-->
 
     <!--#region News Section -->
@@ -200,7 +129,7 @@
     <v:String x:Key="LauncherNewsPage_Build_Text">构建</v:String>
     <v:String x:Key="LauncherNewsPage_Changes_Text">更改</v:String>
     <v:String x:Key="LauncherNewsPage_CheckForUpdates">检查更新</v:String>
-    <v:String x:Key="LauncherNewsPage_ForceUpdate">强制更新</v:String>
+    <v:String x:Key="LauncherNewsPage_GetUpdates">获取更新</v:String>
     <v:String x:Key="LauncherNewsPage_CurrentBuild_Text">当前</v:String>
 
     <!--#endregion-->
@@ -243,13 +172,9 @@
     <v:String x:Key="GeneralSettingsScreen_ShortcutSettingsSubtitle">快捷按钮设置</v:String>
     <v:String x:Key="GeneralSettingsScreen_UseBetaLauncher">使用测试版启动器</v:String>
     <v:String x:Key="GeneralSettingsScreen_KeepLauncherOpen">游戏运行时保持启动器开启</v:String>
-    <v:String x:Key="GeneralSettingsScreen_DoNotCloseLauncherOnOpeningOtherLauncher">在切换启动器时将启动器关闭</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimateTransitions">启动器的页面切换动画</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimatePlayButton">开始游戏标签页的开始游戏按钮动画</v:String>
-    <v:String x:Key="GeneralSettingsScreen_EnableDungeonsSupport">启用 Minecraft Dungeons 支持（正在开发中的功能）</v:String>
-    <v:String x:Key="GeneralSettingsScreen_ShowAdvancedInstallDetails">安装软件包时显示高级信息</v:String>
-    <v:String x:Key="GeneralSettingsScreen_FancierAnimationsButton">在启动器中使用更精致的页面切换动画</v:String>
-    <v:String x:Key="GeneralSettingsScreen_FancierAnimationsButtonPt2">（需要启用页面切换动画）</v:String>
+    <v:String x:Key="GeneralSettingsScreen_FetchVersionsFromMicrosoftStore">允许额外直接从 Microsoft Store 检查新版本</v:String>
     
 
     <v:String x:Key="GeneralSettingsScreen_BedrockEditionSettingsSubtitle">MINECRAFT: BEDROCK EDITION 设置</v:String>
@@ -259,18 +184,16 @@
 
     <v:String x:Key="GeneralSettingsScreen_SupportCreatorButton">支持创作者</v:String>
 
-
-    <v:String x:Key="GeneralSettingsScreen_ExperimentalSaveRedirection">启用实验性的存档重定向</v:String>
-    <v:String x:Key="GeneralSettingsScreen_HideJavaLauncherShortcut">隐藏 Java 版启动器快捷按钮</v:String>
-    <v:String x:Key="GeneralSettingsScreen_ShowExternalLauncherShortcut">显示外部启动器快捷按钮</v:String>
+    <v:String x:Key="GeneralSettingsScreen_BackupsSubtitle">备份选项</v:String>
     <v:String x:Key="GeneralSettingsScreen_BackupButton">备份存档数据</v:String>
-    <v:String x:Key="GeneralSettingsScreen_AdvancedSettingsButton">高级设置</v:String>
+    <v:String x:Key="GeneralSettingsScreen_BackupPreviewButton">备份存档数据（预览版）</v:String>
+    <!--#endregion-->
+    
+    <!-- #region VersionsPage -->
 
-    <v:String x:Key="GeneralSettingsScreen_ExternalLauncherSubtitle">外部启动器设置</v:String>
-    <v:String x:Key="GeneralSettingsScreen_ExternalLauncherNameSubtitle">路径</v:String>
-    <v:String x:Key="GeneralSettingsScreen_ExternalLauncherPathSubtitle">名称</v:String>
-    <v:String x:Key="GeneralSettingsScreen_ExternalLauncherArgumentsSubtitle">参数</v:String>
-    <v:String x:Key="GeneralSettingsScreen_ExternalLauncherIconSubtitle">图标</v:String>
+
+    <v:String x:Key="VersionsPage_InstallVersion">Install from Local File</v:String>
+
 
     <!--#endregion-->
 
@@ -293,21 +216,18 @@
     <v:String x:Key="AboutPage_SpecialThanks_Text">特别鸣谢：</v:String>
 
     <v:String x:Key="AboutPage_McMrArm_Text">因为他创建了原始的 Minecraft Windows 10 版的版本下载器（本作品便源自该作品）</v:String>
-    <v:String x:Key="AboutPage_BsCommunity_Text">因为他们在 SkinView3D 上的工作，SkinView3D 用于启动器中的皮肤查看功能</v:String>
     <v:String x:Key="AboutPage_Mojang_Text">因为 Minecraft !!!</v:String>
-    <v:String x:Key="AboutPage_BsRepo_Text">SkinView3D 仓库</v:String>
     <v:String x:Key="AboutPage_CurrentBuild">当前构建： </v:String>
 
     <!--#endregion-->
 
-    <!--#region AdvancedSettings -->
+    <!--#region GeneralSettingsScreen_PathOptions -->
 
-    <v:String x:Key="AdvancedSettings_Title">高级设置</v:String>
-    <v:String x:Key="AdvancedSettings_LauncherOptions_Text">启动器选项</v:String>
-    <v:String x:Key="AdvancedSettings_PathSubtitle_Text">存储目录</v:String>
-    <v:String x:Key="AdvancedSettings_RestartButton_Text">重新启动</v:String>
-    <v:String x:Key="AdvancedSettings_Notice_Text">* 任何设置的更改都将致使启动器重新启动</v:String>
-    <v:String x:Key="AdvancedSettings_PortableMode_Text">启用免安装模式</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_LauncherOptions_Text">路径选项</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_PathSubtitle_Text">存储选项</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_PortableMode_Text">启用免安装模式</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_RestartButton_Text">应用并重启</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_Notice_Text">* 这些设置将致使启动器重新启动</v:String>
 
     <!--#endregion-->
 
@@ -361,12 +281,6 @@
     <v:String x:Key="Error_AuthenticationFailed_Title">认证失败</v:String>
     <v:String x:Key="Error_AuthenticationFailed">认证失败。请确保您的账户订阅了测试版计划。</v:String>
 
-    <v:String x:Key="Error_CantFindExternalLauncher_Title">无法切换启动器</v:String>
-    <v:String x:Key="Error_CantFindExternalLauncher">无法切换启动器。请确保正确设置了启动器的路径。</v:String>
-
-    <v:String x:Key="Error_CantFindJavaLauncher_Title">无法切换启动器</v:String>
-    <v:String x:Key="Error_CantFindJavaLauncher">到不到启动器。请确保您已从 minecraft.net 安装了原版 Minecraft 启动器。</v:String>
-
     <v:String x:Key="Error_AppReregisterFailed_Title">应用注册失败</v:String>
     <v:String x:Key="Error_AppReregisterFailed">请重试 :(</v:String>
 
@@ -388,31 +302,28 @@
     <v:String x:Key="Error_AppExtractionFailed_Title">解压失败</v:String>
     <v:String x:Key="Error_AppExtractionFailed">请重试 :(</v:String>
 
-    <v:String x:Key="Error_CantFindPaidServerList_Title">无法打开服务器标签页</v:String>
-    <v:String x:Key="Error_CantFindPaidServerList">未找到付费服务器列表。</v:String>
-
-    <v:String x:Key="Error_NotaSkinPack_Title">无法导入皮肤包</v:String>
-    <v:String x:Key="Error_NotaSkinPack">笨蛋，这不是皮肤包！</v:String>
-
     <!--#endregion-->
 
     <!--#region NewProfile -->
 
     <v:String x:Key="NewProfile_GoBackButton">❮ 返回</v:String>
-    <v:String x:Key="NewProfile_CreateProfileText">档案</v:String>
+    <v:String x:Key="NewProfile_ProfileNameHeader">PROFILE NAME</v:String>
+    <v:String x:Key="NewProfile_ProfilePathHeader">PROFILE DIRECTORY</v:String>
     <v:String x:Key="NewProfile_CreateProfileText_Error">此名称已存在</v:String>
-    <v:String x:Key="NewProfile_CreateProfileSubTitle">输入您的新档案名称！</v:String>
+    <v:String x:Key="NewProfile_CreateProfileSubTitle">Create profile</v:String>
     <v:String x:Key="NewProfile_CreateProfileButton">创建</v:String>
+    <v:String x:Key="NewProfile_EditProfileButton">Save</v:String>
+    <v:String x:Key="NewProfile_EditProfileSubTitle">Edit profile</v:String>
 
     <!--#endregion-->
 
     <!--#region Dialog -->
 
     <v:String x:Key="Dialog_Item_Installation_Text">配置</v:String>
-    <v:String x:Key="Dialog_Item_SkinPack_Text">皮肤包</v:String>
-    <v:String x:Key="Dialog_Item_Skin_Text">皮肤</v:String>
     <v:String x:Key="Dialog_Item_Version_Text">版本</v:String>
     <v:String x:Key="Dialog_Item_Profile_Text">档案</v:String>
+
+    <v:String x:Key="Dialog_Item_Optional_DeleteInstallationData">删除用户数据</v:String>
 
     <v:String x:Key="Dialog_DeleteItem_Title">将{0}永久删除</v:String>
     <v:String x:Key="Dialog_DeleteItem_Text" xml:space="preserve">您确定要删除“{1}”吗？ 
@@ -526,7 +437,8 @@
 
     <!--#region VersionEntries -->
 
-    <v:String x:Key="VersionEntries_LatestSnapshot">最新测试版</v:String>
+    <v:String x:Key="VersionEntries_LatestPreview">最新预览版</v:String>
+    <v:String x:Key="VersionEntries_LatestBeta">最新测试版</v:String>
     <v:String x:Key="VersionEntries_LatestRelease">最新版本</v:String>
     <v:String x:Key="VersionEntries_UnnamedInstallation">&lt;未命名的配置&gt;</v:String>
 
@@ -536,8 +448,10 @@
 
     <v:String x:Key="ThemeEntries_LatestUpdate">最新更新</v:String>
     <v:String x:Key="ThemeEntries_Original">原版</v:String>
+    <v:String x:Key="ThemeEntries_Custom">Custom</v:String>
 
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">洞穴与山崖（第一部分）</v:String>
+    <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">Caves &amp; Cliffs (Part 2)</v:String>
     <v:String x:Key="ThemeEntries_NetherUpdate">下界更新</v:String>
     <v:String x:Key="ThemeEntries_BuzzyBeesUpdate">嗡嗡蜂群更新</v:String>
     <v:String x:Key="ThemeEntries_VillagePillageUpdate">村庄与掠夺更新</v:String>
@@ -548,6 +462,10 @@
     <v:String x:Key="ThemeEntries_CombatUpdate">战斗更新 [Java]</v:String>
     <v:String x:Key="ThemeEntries_CatsAndPandasUpdate">猫与熊猫 [Bedrock]</v:String>
     <v:String x:Key="ThemeEntries_PocketEditionRelease">正式发布 [Bedrock]</v:String>
+
+    <v:String x:Key="ThemeEntries_BedrockAndJavaTogetherTechnoblade">Bedrock &amp; Java (Technoblade)</v:String>
+    <v:String x:Key="ThemeEntries_BedrockAndJavaTogether">Bedrock &amp; Java</v:String>
+
     <v:String x:Key="ThemeEntries_BedrockStandard">基岩版标准</v:String>
     <v:String x:Key="ThemeEntries_BedrockMaster">基岩版大师</v:String>
     <v:String x:Key="ThemeEntries_EarlyLegacyConsole">原主机板时代原始时期</v:String>
@@ -567,6 +485,7 @@
     <v:String x:Key="GeneralText_Remove">移除</v:String>
     <v:String x:Key="GeneralText_Cancel">取消</v:String>
     <v:String x:Key="GeneralText_Update">更新</v:String>
+    <v:String x:Key="GeneralText_Install">Install</v:String>
     <v:String x:Key="GeneralText_Add">添加</v:String>
     <v:String x:Key="GeneralText_Save">保存</v:String>
     <v:String x:Key="GeneralText_Refresh">刷新</v:String>
@@ -578,6 +497,7 @@
     <v:String x:Key="GeneralText_No">否</v:String>
     <v:String x:Key="GeneralText_Releases">发布版</v:String>
     <v:String x:Key="GeneralText_Betas">测试版</v:String>
+    <v:String x:Key="GeneralText_Previews">预览版</v:String>
     <v:String x:Key="GeneralText_Export">导出</v:String>
     <v:String x:Key="GeneralText_Repair">修理</v:String>
 

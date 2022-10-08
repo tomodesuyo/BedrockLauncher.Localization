@@ -81,6 +81,7 @@
     <v:String x:Key="InstallationsPage_SortBy_None">Żadne</v:String>
 
     <v:String x:Key="InstallationsPage_SearchBar_Content">Nazwa instalacji</v:String>
+    <v:String x:Key="InstallationVersionSelect_SearchBar_Content">Version text</v:String>
 
     <!--#endregion-->
 
@@ -192,7 +193,15 @@
     <!-- #region VersionsPage -->
 
 
-    <v:String x:Key="VersionsPage_InstallVersion">Zainstaluj z pliku lokalnego</v:String>
+    <v:String x:Key="VersionsPage_InstallVersion">Install from Local File</v:String>
+
+
+    <!--#endregion-->
+
+    <!-- #region VersionsPage -->
+
+
+    <v:String x:Key="VersionsPage_InstallVersion">Install from Local File</v:String>
 
 
     <!--#endregion-->
@@ -484,6 +493,7 @@ są wyłączone, włącz je i spróbuj ponownie</v:String>
     <v:String x:Key="GeneralText_Duplicate">Duplikuj</v:String>
     <v:String x:Key="GeneralText_Remove">Usuń</v:String>
     <v:String x:Key="GeneralText_Cancel">Anuluj</v:String>
+    <v:String x:Key="GeneralText_Select">Select</v:String>
     <v:String x:Key="GeneralText_Update">Aktualizuj</v:String>
     <v:String x:Key="GeneralText_Install">Zainstaluj</v:String>
     <v:String x:Key="GeneralText_Add">Dodaj</v:String>

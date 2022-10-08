@@ -500,6 +500,7 @@ turned off, try turning the back on and search again</v:String>
     <v:String x:Key="GeneralText_Releases">Sürümler</v:String>
     <v:String x:Key="GeneralText_Betas">Betalar</v:String>
     <v:String x:Key="GeneralText_Previews">Previews</v:String>
+    <v:String x:Key="GeneralText_Imported">Imported</v:String>
     <v:String x:Key="GeneralText_Export">Dışa Aktar</v:String>
     <v:String x:Key="GeneralText_Repair">Onar</v:String>
 
@@ -512,6 +513,7 @@ turned off, try turning the back on and search again</v:String>
     <!--#region GeneralSubtitles -->
 
     <v:String x:Key="GeneralSubtitles_Versions">SÜRÜMLER</v:String>
+    <v:String x:Key="GeneralSubtitles_Architectures">ARCHITECTURES</v:String>
     <v:String x:Key="GeneralSubtitles_Browse">GÖZAT</v:String>
     <v:String x:Key="GeneralSubtitles_Reset">SIFIRLA</v:String>
     <v:String x:Key="GeneralSubtitles_Categories">KATEGORİLER</v:String>

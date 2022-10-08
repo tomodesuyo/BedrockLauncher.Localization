@@ -81,6 +81,7 @@
     <v:String x:Key="InstallationsPage_SortBy_None">Aucun</v:String>
 
     <v:String x:Key="InstallationsPage_SearchBar_Content">Nom de la configuration</v:String>
+    <v:String x:Key="InstallationVersionSelect_SearchBar_Content">Version text</v:String>
 
     <!--#endregion-->
 
@@ -192,7 +193,15 @@
     <!-- #region VersionsPage -->
 
 
-    <v:String x:Key="VersionsPage_InstallVersion">Installer à partir d'un fichier local</v:String>
+    <v:String x:Key="VersionsPage_InstallVersion">Install from Local File</v:String>
+
+
+    <!--#endregion-->
+
+    <!-- #region VersionsPage -->
+
+
+    <v:String x:Key="VersionsPage_InstallVersion">Install from Local File</v:String>
 
 
     <!--#endregion-->
@@ -484,6 +493,7 @@ du Minecraft Bedrock Launcher</v:String>
     <v:String x:Key="GeneralText_Duplicate">Dupliquer</v:String>
     <v:String x:Key="GeneralText_Remove">Retirer</v:String>
     <v:String x:Key="GeneralText_Cancel">Annuler</v:String>
+    <v:String x:Key="GeneralText_Select">Select</v:String>
     <v:String x:Key="GeneralText_Update">Mise à jour</v:String>
     <v:String x:Key="GeneralText_Install">Installer</v:String>
     <v:String x:Key="GeneralText_Add">Ajouter</v:String>

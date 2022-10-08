@@ -500,6 +500,7 @@ dimatikan, cuba hidupkannya kembali dan cari lagi</v:String>
     <v:String x:Key="GeneralText_Releases">Keluaran</v:String>
     <v:String x:Key="GeneralText_Betas">Beta</v:String>
     <v:String x:Key="GeneralText_Previews">Pratonton</v:String>
+    <v:String x:Key="GeneralText_Imported">Imported</v:String>
     <v:String x:Key="GeneralText_Export">Eksport</v:String>
     <v:String x:Key="GeneralText_Repair">Baiki</v:String>
 
@@ -512,6 +513,7 @@ dimatikan, cuba hidupkannya kembali dan cari lagi</v:String>
     <!--#region GeneralSubtitles -->
 
     <v:String x:Key="GeneralSubtitles_Versions">VERSI</v:String>
+    <v:String x:Key="GeneralSubtitles_Architectures">ARCHITECTURES</v:String>
     <v:String x:Key="GeneralSubtitles_Browse">CARI</v:String>
     <v:String x:Key="GeneralSubtitles_Reset">TETAPKAN SEMULA</v:String>
     <v:String x:Key="GeneralSubtitles_Categories">KATEGORI</v:String>

@@ -499,6 +499,7 @@
     <v:String x:Key="GeneralText_Releases">Oficiais</v:String>
     <v:String x:Key="GeneralText_Betas">Betas</v:String>
     <v:String x:Key="GeneralText_Previews">Previews</v:String>
+    <v:String x:Key="GeneralText_Imported">Imported</v:String>
     <v:String x:Key="GeneralText_Export">Exportar</v:String>
     <v:String x:Key="GeneralText_Repair">Reparar</v:String>
 
@@ -511,6 +512,7 @@
     <!--#region GeneralSubtitles -->
 
     <v:String x:Key="GeneralSubtitles_Versions">VERSÕES</v:String>
+    <v:String x:Key="GeneralSubtitles_Architectures">ARCHITECTURES</v:String>
     <v:String x:Key="GeneralSubtitles_Browse">PROCURAR</v:String>
     <v:String x:Key="GeneralSubtitles_Reset">REPOR</v:String>
     <v:String x:Key="GeneralSubtitles_Categories">CATEGORIAS</v:String>

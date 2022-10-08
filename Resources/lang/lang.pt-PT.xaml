@@ -129,7 +129,7 @@
     <v:String x:Key="LauncherNewsPage_Build_Text">Versão</v:String>
     <v:String x:Key="LauncherNewsPage_Changes_Text">Mudanças:</v:String>
     <v:String x:Key="LauncherNewsPage_CheckForUpdates">Verificar por atualizações</v:String>
-    <v:String x:Key="LauncherNewsPage_ForceUpdate">Forçar atualização</v:String>
+    <v:String x:Key="LauncherNewsPage_GetUpdates">Get Updates</v:String>
     <v:String x:Key="LauncherNewsPage_CurrentBuild_Text">Em uso</v:String>
 
     <!--#endregion-->
@@ -187,6 +187,14 @@
     <v:String x:Key="GeneralSettingsScreen_BackupsSubtitle">BACKUP OPTIONS</v:String>
     <v:String x:Key="GeneralSettingsScreen_BackupButton">Fazer cópia dos dados salvos</v:String>
     <v:String x:Key="GeneralSettingsScreen_BackupPreviewButton">Backup Save Data (Preview)</v:String>
+    <!--#endregion-->
+    
+    <!-- #region VersionsPage -->
+
+
+    <v:String x:Key="VersionsPage_InstallVersion">Install from Local File</v:String>
+
+
     <!--#endregion-->
 
     <!--#region AcountsSettingsPage -->
@@ -299,10 +307,13 @@
     <!--#region NewProfile -->
 
     <v:String x:Key="NewProfile_GoBackButton">❮ VOLTAR</v:String>
-    <v:String x:Key="NewProfile_CreateProfileText">PERFIL</v:String>
+    <v:String x:Key="NewProfile_ProfileNameHeader">PROFILE NAME</v:String>
+    <v:String x:Key="NewProfile_ProfilePathHeader">PROFILE DIRECTORY</v:String>
     <v:String x:Key="NewProfile_CreateProfileText_Error">ESTE NOME JÁ ESTÁ A SER UTILIZADO</v:String>
-    <v:String x:Key="NewProfile_CreateProfileSubTitle">Insira o nome do seu novo perfil!</v:String>
+    <v:String x:Key="NewProfile_CreateProfileSubTitle">Create profile</v:String>
     <v:String x:Key="NewProfile_CreateProfileButton">Criar</v:String>
+    <v:String x:Key="NewProfile_EditProfileButton">Save</v:String>
+    <v:String x:Key="NewProfile_EditProfileSubTitle">Edit profile</v:String>
 
     <!--#endregion-->
 
@@ -437,8 +448,10 @@ turned off, try turning the back on and search again</v:String>
 
     <v:String x:Key="ThemeEntries_LatestUpdate">Atualização mais recente</v:String>
     <v:String x:Key="ThemeEntries_Original">Original</v:String>
+    <v:String x:Key="ThemeEntries_Custom">Custom</v:String>
 
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">Caves &amp; Cliffs (Parte 1)</v:String>
+    <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">Caves &amp; Cliffs (Part 2)</v:String>
     <v:String x:Key="ThemeEntries_NetherUpdate">Nether Update</v:String>
     <v:String x:Key="ThemeEntries_BuzzyBeesUpdate">Buzzy Bees Update</v:String>
     <v:String x:Key="ThemeEntries_VillagePillageUpdate">Village &amp; Pillage Update</v:String>
@@ -449,6 +462,10 @@ turned off, try turning the back on and search again</v:String>
     <v:String x:Key="ThemeEntries_CombatUpdate">Combat Update [Java]</v:String>
     <v:String x:Key="ThemeEntries_CatsAndPandasUpdate">Cats &amp; Pandas [Bedrock]</v:String>
     <v:String x:Key="ThemeEntries_PocketEditionRelease">Versão Oficial [Bedrock]</v:String>
+
+    <v:String x:Key="ThemeEntries_BedrockAndJavaTogetherTechnoblade">Bedrock &amp; Java (Technoblade)</v:String>
+    <v:String x:Key="ThemeEntries_BedrockAndJavaTogether">Bedrock &amp; Java</v:String>
+
     <v:String x:Key="ThemeEntries_BedrockStandard">Bedrock Edition Standard</v:String>
     <v:String x:Key="ThemeEntries_BedrockMaster">Bedrock Edition Master</v:String>
     <v:String x:Key="ThemeEntries_EarlyLegacyConsole">Original Legacy Console Era</v:String>
@@ -468,6 +485,7 @@ turned off, try turning the back on and search again</v:String>
     <v:String x:Key="GeneralText_Remove">Remover</v:String>
     <v:String x:Key="GeneralText_Cancel">Cancelar</v:String>
     <v:String x:Key="GeneralText_Update">Atualizar</v:String>
+    <v:String x:Key="GeneralText_Install">Install</v:String>
     <v:String x:Key="GeneralText_Add">Adicionar</v:String>
     <v:String x:Key="GeneralText_Save">Salvar</v:String>
     <v:String x:Key="GeneralText_Refresh">Atualizar</v:String>

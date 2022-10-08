@@ -78,7 +78,7 @@
 
     <v:String x:Key="InstallationsPage_SortBy_LatestPlayed">Viimeisin pelattu</v:String>
     <v:String x:Key="InstallationsPage_SortBy_Name">Nimi</v:String>
-    <v:String x:Key="InstallationsPage_SortBy_None">None</v:String>
+    <v:String x:Key="InstallationsPage_SortBy_None">Ei mikään</v:String>
 
     <v:String x:Key="InstallationsPage_SearchBar_Content">Asennuksen nimi</v:String>
 
@@ -92,8 +92,8 @@
     <v:String x:Key="EditInstallationScreen_CreateButton">Luo</v:String>
     <v:String x:Key="EditInstallationScreen_AltCreateButton">Tallenna</v:String>
 
-    <v:String x:Key="EditInstallationScreen_LatestPreview">Latest preview</v:String>
-    <v:String x:Key="EditInstallationScreen_LatestBeta">Latest beta</v:String>
+    <v:String x:Key="EditInstallationScreen_LatestPreview">Viimeisin preview</v:String>
+    <v:String x:Key="EditInstallationScreen_LatestBeta">Viimeisin beta</v:String>
     <v:String x:Key="EditInstallationScreen_LatestRelease">Viimeisin julkaisu</v:String>
 
     <v:String x:Key="EditInstallationScreen_NameSubtitle">NIMI</v:String>
@@ -129,7 +129,7 @@
     <v:String x:Key="LauncherNewsPage_Build_Text">Build</v:String>
     <v:String x:Key="LauncherNewsPage_Changes_Text">Muutokset:</v:String>
     <v:String x:Key="LauncherNewsPage_CheckForUpdates">Tarkista päivitykset</v:String>
-    <v:String x:Key="LauncherNewsPage_ForceUpdate">Pakota päivitys</v:String>
+    <v:String x:Key="LauncherNewsPage_GetUpdates">Hanki päivityksiä</v:String>
     <v:String x:Key="LauncherNewsPage_CurrentBuild_Text">Nykyinen</v:String>
 
     <!--#endregion-->
@@ -174,7 +174,7 @@
     <v:String x:Key="GeneralSettingsScreen_KeepLauncherOpen">Pidä launcher avoinna, kun pelit ovat käynnissä</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimateTransitions">Animoi siirtymät launcherin sivujen välillä</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimatePlayButton">Animoi toistopainike launcherin Play-sivuilla</v:String>
-    <v:String x:Key="GeneralSettingsScreen_FetchVersionsFromMicrosoftStore">Allow additional checking for new versions directly from the Microsoft Store</v:String>
+    <v:String x:Key="GeneralSettingsScreen_FetchVersionsFromMicrosoftStore">Hyväksy uusien versioiden lisäasiallinen tarkistus suoraan Microsoft Storesta</v:String>
     
 
     <v:String x:Key="GeneralSettingsScreen_BedrockEditionSettingsSubtitle">MINECRAFT: BEDROCK EDITION-ASETUKSET</v:String>
@@ -184,9 +184,17 @@
 
     <v:String x:Key="GeneralSettingsScreen_SupportCreatorButton">Tue tekijää</v:String>
 
-    <v:String x:Key="GeneralSettingsScreen_BackupsSubtitle">BACKUP OPTIONS</v:String>
+    <v:String x:Key="GeneralSettingsScreen_BackupsSubtitle">VARMUUSKOPIOASETUKSET</v:String>
     <v:String x:Key="GeneralSettingsScreen_BackupButton">Varmuuskopioi tallennustiedot</v:String>
-    <v:String x:Key="GeneralSettingsScreen_BackupPreviewButton">Backup Save Data (Preview)</v:String>
+    <v:String x:Key="GeneralSettingsScreen_BackupPreviewButton">Varmuuskopioi tallennustiedot (Preview)</v:String>
+    <!--#endregion-->
+    
+    <!-- #region VersionsPage -->
+
+
+    <v:String x:Key="VersionsPage_InstallVersion">Asenna paikallisesta tiedostosta</v:String>
+
+
     <!--#endregion-->
 
     <!--#region AcountsSettingsPage -->
@@ -215,11 +223,11 @@
 
     <!--#region GeneralSettingsScreen_PathOptions -->
 
-    <v:String x:Key="GeneralSettingsScreen_PathOptions_LauncherOptions_Text">PATH OPTIONS</v:String>
-    <v:String x:Key="GeneralSettingsScreen_PathOptions_PathSubtitle_Text">STORAGE DIRECTORY</v:String>
-    <v:String x:Key="GeneralSettingsScreen_PathOptions_PortableMode_Text">Enable Portable Mode</v:String>
-    <v:String x:Key="GeneralSettingsScreen_PathOptions_RestartButton_Text">Apply &amp; Restart</v:String>
-    <v:String x:Key="GeneralSettingsScreen_PathOptions_Notice_Text">* These settings will restart the launcher</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_LauncherOptions_Text">POLKUASETUKSET</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_PathSubtitle_Text">TALLENNUSHAKEMISTO</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_PortableMode_Text">Ota siirrettävä tila käyttöön</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_RestartButton_Text">Aseta &amp; uudelleenkäynnistä</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_Notice_Text">* Nämä asetukset uudelleenkäynnistävät launcherin</v:String>
 
     <!--#endregion-->
 
@@ -299,10 +307,13 @@
     <!--#region NewProfile -->
 
     <v:String x:Key="NewProfile_GoBackButton">❮ TAKAISIN</v:String>
-    <v:String x:Key="NewProfile_CreateProfileText">PROFIILI</v:String>
+    <v:String x:Key="NewProfile_ProfileNameHeader">PROFIILIN NIMI</v:String>
+    <v:String x:Key="NewProfile_ProfilePathHeader">PROFIILIN HAKEMISTO</v:String>
     <v:String x:Key="NewProfile_CreateProfileText_Error">TÄMÄ NIMI ON JO OTETTU</v:String>
-    <v:String x:Key="NewProfile_CreateProfileSubTitle">Syötä uuden profiilisi nimi!</v:String>
+    <v:String x:Key="NewProfile_CreateProfileSubTitle">Luo profiili</v:String>
     <v:String x:Key="NewProfile_CreateProfileButton">Luo</v:String>
+    <v:String x:Key="NewProfile_EditProfileButton">Tallenna</v:String>
+    <v:String x:Key="NewProfile_EditProfileSubTitle">Muokkaa profiilia</v:String>
 
     <!--#endregion-->
 
@@ -312,7 +323,7 @@
     <v:String x:Key="Dialog_Item_Version_Text">versio</v:String>
     <v:String x:Key="Dialog_Item_Profile_Text">profiili</v:String>
 
-    <v:String x:Key="Dialog_Item_Optional_DeleteInstallationData">Delete user data</v:String>
+    <v:String x:Key="Dialog_Item_Optional_DeleteInstallationData">Poista käyttäjätiedot</v:String>
 
     <v:String x:Key="Dialog_DeleteItem_Title">Poista {0} pysyvästi</v:String>
     <v:String x:Key="Dialog_DeleteItem_Text" xml:space="preserve">Haluatko varmasti poistaa &quot;{1}&quot;:n?
@@ -425,8 +436,8 @@ Tämä {0} tullaan menettämään ikiajoiksi! (Pitkäksi ajaksi!)</v:String>
 
     <!--#region VersionEntries -->
 
-    <v:String x:Key="VersionEntries_LatestPreview">Latest Preview</v:String>
-    <v:String x:Key="VersionEntries_LatestBeta">Latest Beta</v:String>
+    <v:String x:Key="VersionEntries_LatestPreview">Viimeisin Preview</v:String>
+    <v:String x:Key="VersionEntries_LatestBeta">Viimeisin Beta</v:String>
     <v:String x:Key="VersionEntries_LatestRelease">Viimeisin julkaisu</v:String>
     <v:String x:Key="VersionEntries_UnnamedInstallation">&lt;nimetön asennus&gt;</v:String>
 
@@ -436,8 +447,10 @@ Tämä {0} tullaan menettämään ikiajoiksi! (Pitkäksi ajaksi!)</v:String>
 
     <v:String x:Key="ThemeEntries_LatestUpdate">Viimeisin päivitys</v:String>
     <v:String x:Key="ThemeEntries_Original">Alkuperäinen</v:String>
+    <v:String x:Key="ThemeEntries_Custom">Mukautettu</v:String>
 
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">Caves &amp; Cliffs (Osa 1)</v:String>
+    <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">Caves &amp; Cliffs (Osa 2)</v:String>
     <v:String x:Key="ThemeEntries_NetherUpdate">Nether Update</v:String>
     <v:String x:Key="ThemeEntries_BuzzyBeesUpdate">Buzzy Beez-päivitys</v:String>
     <v:String x:Key="ThemeEntries_VillagePillageUpdate">Village &amp; Pillage-päivitys</v:String>
@@ -448,6 +461,10 @@ Tämä {0} tullaan menettämään ikiajoiksi! (Pitkäksi ajaksi!)</v:String>
     <v:String x:Key="ThemeEntries_CombatUpdate">Combat-päivitys [Java]</v:String>
     <v:String x:Key="ThemeEntries_CatsAndPandasUpdate">Cats &amp; Pandas [Bedrock]</v:String>
     <v:String x:Key="ThemeEntries_PocketEditionRelease">Virallinen julkaisu [Bedrock]</v:String>
+
+    <v:String x:Key="ThemeEntries_BedrockAndJavaTogetherTechnoblade">Bedrock &amp; Java (Technoblade)</v:String>
+    <v:String x:Key="ThemeEntries_BedrockAndJavaTogether">Bedrock &amp; Java</v:String>
+
     <v:String x:Key="ThemeEntries_BedrockStandard">Bedrock Editionin standardi</v:String>
     <v:String x:Key="ThemeEntries_BedrockMaster">Bedrock Editionin pääteema</v:String>
     <v:String x:Key="ThemeEntries_EarlyLegacyConsole">Alkuperäinen Legacy Console -aikakausi</v:String>
@@ -467,6 +484,7 @@ Tämä {0} tullaan menettämään ikiajoiksi! (Pitkäksi ajaksi!)</v:String>
     <v:String x:Key="GeneralText_Remove">Poista</v:String>
     <v:String x:Key="GeneralText_Cancel">Peruuta</v:String>
     <v:String x:Key="GeneralText_Update">Päivitä</v:String>
+    <v:String x:Key="GeneralText_Install">Asenna</v:String>
     <v:String x:Key="GeneralText_Add">Lisää</v:String>
     <v:String x:Key="GeneralText_Save">Tallenna</v:String>
     <v:String x:Key="GeneralText_Refresh">Päivitä</v:String>
@@ -478,7 +496,7 @@ Tämä {0} tullaan menettämään ikiajoiksi! (Pitkäksi ajaksi!)</v:String>
     <v:String x:Key="GeneralText_No">Ei</v:String>
     <v:String x:Key="GeneralText_Releases">Julkaisut</v:String>
     <v:String x:Key="GeneralText_Betas">Betat</v:String>
-    <v:String x:Key="GeneralText_Previews">Previews</v:String>
+    <v:String x:Key="GeneralText_Previews">Previewit</v:String>
     <v:String x:Key="GeneralText_Export">Vie</v:String>
     <v:String x:Key="GeneralText_Repair">Korjaa</v:String>
 

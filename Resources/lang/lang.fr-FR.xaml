@@ -76,9 +76,9 @@
     <v:String x:Key="InstallationsPage_AddButton">Nouvelle configuration</v:String>
     <v:String x:Key="InstallationsPage_PlayButton">Jouer</v:String>
 
-    <v:String x:Key="InstallationsPage_SortBy_LatestPlayed">Dernièrement jou</v:String>
+    <v:String x:Key="InstallationsPage_SortBy_LatestPlayed">Dernièrement joués</v:String>
     <v:String x:Key="InstallationsPage_SortBy_Name">Nom</v:String>
-    <v:String x:Key="InstallationsPage_SortBy_None">None</v:String>
+    <v:String x:Key="InstallationsPage_SortBy_None">Aucun</v:String>
 
     <v:String x:Key="InstallationsPage_SearchBar_Content">Nom de la configuration</v:String>
 
@@ -92,8 +92,8 @@
     <v:String x:Key="EditInstallationScreen_CreateButton">Créer</v:String>
     <v:String x:Key="EditInstallationScreen_AltCreateButton">Enregistrer</v:String>
 
-    <v:String x:Key="EditInstallationScreen_LatestPreview">Latest preview</v:String>
-    <v:String x:Key="EditInstallationScreen_LatestBeta">Latest beta</v:String>
+    <v:String x:Key="EditInstallationScreen_LatestPreview">Dernière preview</v:String>
+    <v:String x:Key="EditInstallationScreen_LatestBeta">Dernière bêta</v:String>
     <v:String x:Key="EditInstallationScreen_LatestRelease">Dernière version</v:String>
 
     <v:String x:Key="EditInstallationScreen_NameSubtitle">NOM</v:String>
@@ -129,7 +129,7 @@
     <v:String x:Key="LauncherNewsPage_Build_Text">Version</v:String>
     <v:String x:Key="LauncherNewsPage_Changes_Text">Changements :</v:String>
     <v:String x:Key="LauncherNewsPage_CheckForUpdates">Vérifier les mises à jour</v:String>
-    <v:String x:Key="LauncherNewsPage_ForceUpdate">Forcer la mise à jour</v:String>
+    <v:String x:Key="LauncherNewsPage_GetUpdates">Obtenir des mises à jour</v:String>
     <v:String x:Key="LauncherNewsPage_CurrentBuild_Text">Actuelle</v:String>
 
     <!--#endregion-->
@@ -141,7 +141,7 @@
     <v:String x:Key="NewsScreen_MinecraftForumsTitle">Forums Minecraft</v:String>
     <v:String x:Key="NewsScreen_JavaNDungeonsTabTitle">Java / Dungeons</v:String>
 
-    <v:String x:Key="NewsScreen_SearchBar_Content">Titre de l'actualit</v:String>
+    <v:String x:Key="NewsScreen_SearchBar_Content">Titre de l'actualité</v:String>
 
     <v:String x:Key="NewsScreen_JavaNDungeons_JavaCheckbox">Minecraft : Version Java</v:String>
     <v:String x:Key="NewsScreen_JavaNDungeons_DungeonsCheckbox">Minecraft Dungeons</v:String>
@@ -174,7 +174,7 @@
     <v:String x:Key="GeneralSettingsScreen_KeepLauncherOpen">Garder le Launcher ouvert pendant le jeu</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimateTransitions">Animer les transitions entre les pages du Launcher</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimatePlayButton">Animer le bouton &quot;jouer&quot; sur les pages du Launcher</v:String>
-    <v:String x:Key="GeneralSettingsScreen_FetchVersionsFromMicrosoftStore">Allow additional checking for new versions directly from the Microsoft Store</v:String>
+    <v:String x:Key="GeneralSettingsScreen_FetchVersionsFromMicrosoftStore">Autoriser la vérification des nouvelles versions directement depuis le Microsoft Store</v:String>
     
 
     <v:String x:Key="GeneralSettingsScreen_BedrockEditionSettingsSubtitle">PARAMÈTRES MINECRAFT: VERSION BEDROCK</v:String>
@@ -184,9 +184,17 @@
 
     <v:String x:Key="GeneralSettingsScreen_SupportCreatorButton">Soutenir le créateur</v:String>
 
-    <v:String x:Key="GeneralSettingsScreen_BackupsSubtitle">BACKUP OPTIONS</v:String>
+    <v:String x:Key="GeneralSettingsScreen_BackupsSubtitle">OPTIONS DE SAUVEGARDE</v:String>
     <v:String x:Key="GeneralSettingsScreen_BackupButton">Enregistrer les données de sauvegarde</v:String>
-    <v:String x:Key="GeneralSettingsScreen_BackupPreviewButton">Backup Save Data (Preview)</v:String>
+    <v:String x:Key="GeneralSettingsScreen_BackupPreviewButton">Sauvegarde des données (Preview)</v:String>
+    <!--#endregion-->
+    
+    <!-- #region VersionsPage -->
+
+
+    <v:String x:Key="VersionsPage_InstallVersion">Installer à partir d'un fichier local</v:String>
+
+
     <!--#endregion-->
 
     <!--#region AcountsSettingsPage -->
@@ -215,11 +223,11 @@
 
     <!--#region GeneralSettingsScreen_PathOptions -->
 
-    <v:String x:Key="GeneralSettingsScreen_PathOptions_LauncherOptions_Text">PATH OPTIONS</v:String>
-    <v:String x:Key="GeneralSettingsScreen_PathOptions_PathSubtitle_Text">STORAGE DIRECTORY</v:String>
-    <v:String x:Key="GeneralSettingsScreen_PathOptions_PortableMode_Text">Enable Portable Mode</v:String>
-    <v:String x:Key="GeneralSettingsScreen_PathOptions_RestartButton_Text">Apply &amp; Restart</v:String>
-    <v:String x:Key="GeneralSettingsScreen_PathOptions_Notice_Text">* These settings will restart the launcher</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_LauncherOptions_Text">PARAMÈTRES DU CHEMIN D'ACCÈS</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_PathSubtitle_Text">RÉPERTOIRE DU STOCKAGE</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_PortableMode_Text">Activer le mode portable</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_RestartButton_Text">Appliquer &amp; redémarrer</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_Notice_Text">* Ces paramètres vont faire redémarrer le launcher</v:String>
 
     <!--#endregion-->
 
@@ -299,10 +307,13 @@
     <!--#region NewProfile -->
 
     <v:String x:Key="NewProfile_GoBackButton">❮ RETOUR</v:String>
-    <v:String x:Key="NewProfile_CreateProfileText">PROFIL</v:String>
+    <v:String x:Key="NewProfile_ProfileNameHeader">NOM DU PROFIL</v:String>
+    <v:String x:Key="NewProfile_ProfilePathHeader">RÉPERTOIRE DU PROFIL</v:String>
     <v:String x:Key="NewProfile_CreateProfileText_Error">CE NOM EST DÉJÀ PRIS</v:String>
-    <v:String x:Key="NewProfile_CreateProfileSubTitle">Entrez le nom de votre nouveau profil !</v:String>
+    <v:String x:Key="NewProfile_CreateProfileSubTitle">Créer un profil</v:String>
     <v:String x:Key="NewProfile_CreateProfileButton">Créer</v:String>
+    <v:String x:Key="NewProfile_EditProfileButton">Enregistrer</v:String>
+    <v:String x:Key="NewProfile_EditProfileSubTitle">Modifier le profil</v:String>
 
     <!--#endregion-->
 
@@ -312,7 +323,7 @@
     <v:String x:Key="Dialog_Item_Version_Text">version</v:String>
     <v:String x:Key="Dialog_Item_Profile_Text">profil</v:String>
 
-    <v:String x:Key="Dialog_Item_Optional_DeleteInstallationData">Delete user data</v:String>
+    <v:String x:Key="Dialog_Item_Optional_DeleteInstallationData">Supprimer les données de l'utilisateur</v:String>
 
     <v:String x:Key="Dialog_DeleteItem_Title">Supprimer {0} fichier(s) définitivement</v:String>
     <v:String x:Key="Dialog_DeleteItem_Text" xml:space="preserve">Voulez-vous vraiment supprimer &quot;{1}&quot;? Ce {0} sera perdu définitivement (et définitivement c'est long)</v:String>
@@ -426,8 +437,8 @@ du Minecraft Bedrock Launcher</v:String>
 
     <!--#region VersionEntries -->
 
-    <v:String x:Key="VersionEntries_LatestPreview">Latest Preview</v:String>
-    <v:String x:Key="VersionEntries_LatestBeta">Latest Beta</v:String>
+    <v:String x:Key="VersionEntries_LatestPreview">Dernière Preview</v:String>
+    <v:String x:Key="VersionEntries_LatestBeta">Dernière bêta</v:String>
     <v:String x:Key="VersionEntries_LatestRelease">Dernière version</v:String>
     <v:String x:Key="VersionEntries_UnnamedInstallation">configuration sans nom</v:String>
 
@@ -437,8 +448,10 @@ du Minecraft Bedrock Launcher</v:String>
 
     <v:String x:Key="ThemeEntries_LatestUpdate">Dernière mise à Jour</v:String>
     <v:String x:Key="ThemeEntries_Original">Originale</v:String>
+    <v:String x:Key="ThemeEntries_Custom">Personnalisé</v:String>
 
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">Cavernes et falaises (partie 1)</v:String>
+    <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">Caves &amp; Cliffs (Partie 2)</v:String>
     <v:String x:Key="ThemeEntries_NetherUpdate">Mise à jour du Nether</v:String>
     <v:String x:Key="ThemeEntries_BuzzyBeesUpdate">Mise à jour Abeilles bourdonnantes</v:String>
     <v:String x:Key="ThemeEntries_VillagePillageUpdate">Mise à jour Village et pillage</v:String>
@@ -449,6 +462,10 @@ du Minecraft Bedrock Launcher</v:String>
     <v:String x:Key="ThemeEntries_CombatUpdate">Mise à jour des combats [Java]</v:String>
     <v:String x:Key="ThemeEntries_CatsAndPandasUpdate">Chats &amp; Pandas [Bedrock]</v:String>
     <v:String x:Key="ThemeEntries_PocketEditionRelease">Version officielle [Bedrock]</v:String>
+
+    <v:String x:Key="ThemeEntries_BedrockAndJavaTogetherTechnoblade">Bedrock &amp; Java (Technoblade)</v:String>
+    <v:String x:Key="ThemeEntries_BedrockAndJavaTogether">Bedrock &amp; Java</v:String>
+
     <v:String x:Key="ThemeEntries_BedrockStandard">Version Bedrock Standard</v:String>
     <v:String x:Key="ThemeEntries_BedrockMaster">Version Bedrock Master</v:String>
     <v:String x:Key="ThemeEntries_EarlyLegacyConsole">Original Legacy Console Era</v:String>
@@ -463,11 +480,12 @@ du Minecraft Bedrock Launcher</v:String>
     <!--#region GeneralText -->
 
     <v:String x:Key="GeneralText_Delete">Supprimer</v:String>
-    <v:String x:Key="GeneralText_Edit">Editer</v:String>
+    <v:String x:Key="GeneralText_Edit">Modifier</v:String>
     <v:String x:Key="GeneralText_Duplicate">Dupliquer</v:String>
     <v:String x:Key="GeneralText_Remove">Retirer</v:String>
     <v:String x:Key="GeneralText_Cancel">Annuler</v:String>
     <v:String x:Key="GeneralText_Update">Mise à jour</v:String>
+    <v:String x:Key="GeneralText_Install">Installer</v:String>
     <v:String x:Key="GeneralText_Add">Ajouter</v:String>
     <v:String x:Key="GeneralText_Save">Enregistrer</v:String>
     <v:String x:Key="GeneralText_Refresh">Actualiser</v:String>
@@ -479,7 +497,7 @@ du Minecraft Bedrock Launcher</v:String>
     <v:String x:Key="GeneralText_No">Non</v:String>
     <v:String x:Key="GeneralText_Releases">Officielles</v:String>
     <v:String x:Key="GeneralText_Betas">Bêtas</v:String>
-    <v:String x:Key="GeneralText_Previews">Previews</v:String>
+    <v:String x:Key="GeneralText_Previews">Preview</v:String>
     <v:String x:Key="GeneralText_Export">Exporter</v:String>
     <v:String x:Key="GeneralText_Repair">Réparer</v:String>
 

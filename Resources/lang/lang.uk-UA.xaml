@@ -129,7 +129,7 @@
     <v:String x:Key="LauncherNewsPage_Build_Text">Збірка</v:String>
     <v:String x:Key="LauncherNewsPage_Changes_Text">Зміни:</v:String>
     <v:String x:Key="LauncherNewsPage_CheckForUpdates">Перевірити наявність оновлень</v:String>
-    <v:String x:Key="LauncherNewsPage_ForceUpdate">Примусове оновлення</v:String>
+    <v:String x:Key="LauncherNewsPage_GetUpdates">Get Updates</v:String>
     <v:String x:Key="LauncherNewsPage_CurrentBuild_Text">Поточний</v:String>
 
     <!--#endregion-->
@@ -187,6 +187,14 @@
     <v:String x:Key="GeneralSettingsScreen_BackupsSubtitle">BACKUP OPTIONS</v:String>
     <v:String x:Key="GeneralSettingsScreen_BackupButton">Створити резервну копію збережених файлів</v:String>
     <v:String x:Key="GeneralSettingsScreen_BackupPreviewButton">Backup Save Data (Preview)</v:String>
+    <!--#endregion-->
+    
+    <!-- #region VersionsPage -->
+
+
+    <v:String x:Key="VersionsPage_InstallVersion">Install from Local File</v:String>
+
+
     <!--#endregion-->
 
     <!--#region AcountsSettingsPage -->
@@ -299,10 +307,13 @@
     <!--#region NewProfile -->
 
     <v:String x:Key="NewProfile_GoBackButton">❮ ПОВЕРНУТИСЯ</v:String>
-    <v:String x:Key="NewProfile_CreateProfileText">ПРОФІЛЬ</v:String>
+    <v:String x:Key="NewProfile_ProfileNameHeader">PROFILE NAME</v:String>
+    <v:String x:Key="NewProfile_ProfilePathHeader">PROFILE DIRECTORY</v:String>
     <v:String x:Key="NewProfile_CreateProfileText_Error">ЦЯ НАЗВА ВЖЕ ВИКОРИСТОВУЄТЬСЯ</v:String>
-    <v:String x:Key="NewProfile_CreateProfileSubTitle">Введіть назву нового профілю!</v:String>
+    <v:String x:Key="NewProfile_CreateProfileSubTitle">Create profile</v:String>
     <v:String x:Key="NewProfile_CreateProfileButton">Створити</v:String>
+    <v:String x:Key="NewProfile_EditProfileButton">Save</v:String>
+    <v:String x:Key="NewProfile_EditProfileSubTitle">Edit profile</v:String>
 
     <!--#endregion-->
 
@@ -436,8 +447,10 @@
 
     <v:String x:Key="ThemeEntries_LatestUpdate">Останнє оновлення</v:String>
     <v:String x:Key="ThemeEntries_Original">Ориґінал</v:String>
+    <v:String x:Key="ThemeEntries_Custom">Custom</v:String>
 
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">Оновлення &quot;Печери та скелі (частина 1)&quot;</v:String>
+    <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">Caves &amp; Cliffs (Part 2)</v:String>
     <v:String x:Key="ThemeEntries_NetherUpdate">Оновлення нижнього світу</v:String>
     <v:String x:Key="ThemeEntries_BuzzyBeesUpdate">Оновлення &quot;Гудючі бджоли&quot;</v:String>
     <v:String x:Key="ThemeEntries_VillagePillageUpdate">Оновлення &quot;Селянини та розбійники&quot;</v:String>
@@ -448,6 +461,10 @@
     <v:String x:Key="ThemeEntries_CombatUpdate">Бойове оновлення [Java]</v:String>
     <v:String x:Key="ThemeEntries_CatsAndPandasUpdate">Оновлення &quot;Коти та панди&quot; [Bedrock]</v:String>
     <v:String x:Key="ThemeEntries_PocketEditionRelease">Офіційний реліз [Bedrock]</v:String>
+
+    <v:String x:Key="ThemeEntries_BedrockAndJavaTogetherTechnoblade">Bedrock &amp; Java (Technoblade)</v:String>
+    <v:String x:Key="ThemeEntries_BedrockAndJavaTogether">Bedrock &amp; Java</v:String>
+
     <v:String x:Key="ThemeEntries_BedrockStandard">Bedrock Edition Standard</v:String>
     <v:String x:Key="ThemeEntries_BedrockMaster">Bedrock Edition Master</v:String>
     <v:String x:Key="ThemeEntries_EarlyLegacyConsole">Період ранніх версій Legacy Console</v:String>
@@ -467,6 +484,7 @@
     <v:String x:Key="GeneralText_Remove">Вилучити</v:String>
     <v:String x:Key="GeneralText_Cancel">Скасувати</v:String>
     <v:String x:Key="GeneralText_Update">Оновити</v:String>
+    <v:String x:Key="GeneralText_Install">Install</v:String>
     <v:String x:Key="GeneralText_Add">Додати</v:String>
     <v:String x:Key="GeneralText_Save">Зберегти</v:String>
     <v:String x:Key="GeneralText_Refresh">Перезавантажити</v:String>

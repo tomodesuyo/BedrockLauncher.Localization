@@ -129,7 +129,7 @@
     <v:String x:Key="LauncherNewsPage_Build_Text">版本</v:String>
     <v:String x:Key="LauncherNewsPage_Changes_Text">變更</v:String>
     <v:String x:Key="LauncherNewsPage_CheckForUpdates">檢查更新</v:String>
-    <v:String x:Key="LauncherNewsPage_ForceUpdate">強制更新</v:String>
+    <v:String x:Key="LauncherNewsPage_GetUpdates">Get Updates</v:String>
     <v:String x:Key="LauncherNewsPage_CurrentBuild_Text">當前</v:String>
 
     <!--#endregion-->
@@ -187,6 +187,14 @@
     <v:String x:Key="GeneralSettingsScreen_BackupsSubtitle">BACKUP OPTIONS</v:String>
     <v:String x:Key="GeneralSettingsScreen_BackupButton">備份資料</v:String>
     <v:String x:Key="GeneralSettingsScreen_BackupPreviewButton">Backup Save Data (Preview)</v:String>
+    <!--#endregion-->
+    
+    <!-- #region VersionsPage -->
+
+
+    <v:String x:Key="VersionsPage_InstallVersion">Install from Local File</v:String>
+
+
     <!--#endregion-->
 
     <!--#region AcountsSettingsPage -->
@@ -299,10 +307,13 @@
     <!--#region NewProfile -->
 
     <v:String x:Key="NewProfile_GoBackButton">❮ GO BACK</v:String>
-    <v:String x:Key="NewProfile_CreateProfileText">個人檔</v:String>
+    <v:String x:Key="NewProfile_ProfileNameHeader">PROFILE NAME</v:String>
+    <v:String x:Key="NewProfile_ProfilePathHeader">PROFILE DIRECTORY</v:String>
     <v:String x:Key="NewProfile_CreateProfileText_Error">此名稱已存</v:String>
-    <v:String x:Key="NewProfile_CreateProfileSubTitle">輸入新個人檔案的名稱</v:String>
+    <v:String x:Key="NewProfile_CreateProfileSubTitle">Create profile</v:String>
     <v:String x:Key="NewProfile_CreateProfileButton">建立</v:String>
+    <v:String x:Key="NewProfile_EditProfileButton">Save</v:String>
+    <v:String x:Key="NewProfile_EditProfileSubTitle">Edit profile</v:String>
 
     <!--#endregion-->
 
@@ -436,8 +447,10 @@
 
     <v:String x:Key="ThemeEntries_LatestUpdate">最新更新</v:String>
     <v:String x:Key="ThemeEntries_Original">原</v:String>
+    <v:String x:Key="ThemeEntries_Custom">Custom</v:String>
 
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">洞穴與山崖 (第一部分)</v:String>
+    <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">Caves &amp; Cliffs (Part 2)</v:String>
     <v:String x:Key="ThemeEntries_NetherUpdate">地獄更新</v:String>
     <v:String x:Key="ThemeEntries_BuzzyBeesUpdate">嗡嗡蜂群</v:String>
     <v:String x:Key="ThemeEntries_VillagePillageUpdate">村莊與掠奪</v:String>
@@ -448,6 +461,10 @@
     <v:String x:Key="ThemeEntries_CombatUpdate">戰鬥更新[Java]</v:String>
     <v:String x:Key="ThemeEntries_CatsAndPandasUpdate">貓與貓熊 [Bedrock]</v:String>
     <v:String x:Key="ThemeEntries_PocketEditionRelease">官方版本 [Bedrock]</v:String>
+
+    <v:String x:Key="ThemeEntries_BedrockAndJavaTogetherTechnoblade">Bedrock &amp; Java (Technoblade)</v:String>
+    <v:String x:Key="ThemeEntries_BedrockAndJavaTogether">Bedrock &amp; Java</v:String>
+
     <v:String x:Key="ThemeEntries_BedrockStandard">Bedrock Edition Standard</v:String>
     <v:String x:Key="ThemeEntries_BedrockMaster">Bedrock Edition Master</v:String>
     <v:String x:Key="ThemeEntries_EarlyLegacyConsole">原始原主機版時代</v:String>
@@ -467,6 +484,7 @@
     <v:String x:Key="GeneralText_Remove">移除</v:String>
     <v:String x:Key="GeneralText_Cancel">取</v:String>
     <v:String x:Key="GeneralText_Update">更新</v:String>
+    <v:String x:Key="GeneralText_Install">Install</v:String>
     <v:String x:Key="GeneralText_Add">新增</v:String>
     <v:String x:Key="GeneralText_Save">儲存</v:String>
     <v:String x:Key="GeneralText_Refresh">重新整</v:String>

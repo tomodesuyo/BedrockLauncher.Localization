@@ -112,6 +112,7 @@
     <v:String x:Key="InstallationsPage_SortBy_Name">Name</v:String>
 
     <v:String x:Key="InstallationsPage_SearchBar_Content">Installation name</v:String>
+    <v:String x:Key="InstallationVersionSelect_SearchBar_Content">Version text</v:String>
 
     <!--#endregion-->
 
@@ -274,6 +275,14 @@
     <v:String x:Key="GeneralSettingsScreen_ExternalLauncherPathSubtitle">NAME</v:String>
     <v:String x:Key="GeneralSettingsScreen_ExternalLauncherArgumentsSubtitle">ARGUMENTS</v:String>
     <v:String x:Key="GeneralSettingsScreen_ExternalLauncherIconSubtitle">ICON</v:String>
+
+    <!--#endregion-->
+
+    <!-- #region VersionsPage -->
+
+
+    <v:String x:Key="VersionsPage_InstallVersion">Install from Local File</v:String>
+
 
     <!--#endregion-->
 
@@ -535,8 +544,10 @@
 
     <v:String x:Key="ThemeEntries_LatestUpdate">Latest Update</v:String>
     <v:String x:Key="ThemeEntries_Original">Original</v:String>
+    <v:String x:Key="ThemeEntries_Custom">Custom</v:String>
 
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">Caves &amp; Cliffs (Part 1)</v:String>
+    <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">Caves &amp; Cliffs (Part 2)</v:String>
     <v:String x:Key="ThemeEntries_NetherUpdate">Nether Update</v:String>
     <v:String x:Key="ThemeEntries_BuzzyBeesUpdate">Buzzy Bees Update</v:String>
     <v:String x:Key="ThemeEntries_VillagePillageUpdate">Village &amp; Pillage Update</v:String>
@@ -547,6 +558,10 @@
     <v:String x:Key="ThemeEntries_CombatUpdate">Combat Update [Java]</v:String>
     <v:String x:Key="ThemeEntries_CatsAndPandasUpdate">Cats &amp; Pandas [Bedrock]</v:String>
     <v:String x:Key="ThemeEntries_PocketEditionRelease">Official Release [Bedrock]</v:String>
+
+    <v:String x:Key="ThemeEntries_BedrockAndJavaTogetherTechnoblade">Bedrock &amp; Java (Technoblade)</v:String>
+    <v:String x:Key="ThemeEntries_BedrockAndJavaTogether">Bedrock &amp; Java</v:String>
+
     <v:String x:Key="ThemeEntries_BedrockStandard">Bedrock Edition Standard</v:String>
     <v:String x:Key="ThemeEntries_BedrockMaster">Bedrock Edition Master</v:String>
     <v:String x:Key="ThemeEntries_EarlyLegacyConsole">Original Legacy Console Era</v:String>
@@ -565,7 +580,9 @@
     <v:String x:Key="GeneralText_Duplicate">Duplicate</v:String>
     <v:String x:Key="GeneralText_Remove">Remove</v:String>
     <v:String x:Key="GeneralText_Cancel">Cancel</v:String>
+    <v:String x:Key="GeneralText_Select">Select</v:String>
     <v:String x:Key="GeneralText_Update">Update</v:String>
+    <v:String x:Key="GeneralText_Install">Install</v:String>
     <v:String x:Key="GeneralText_Add">Add</v:String>
     <v:String x:Key="GeneralText_Save">Save</v:String>
     <v:String x:Key="GeneralText_Refresh">Refresh</v:String>

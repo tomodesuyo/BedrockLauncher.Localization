@@ -81,6 +81,7 @@
     <v:String x:Key="InstallationsPage_SortBy_None">Tiada</v:String>
 
     <v:String x:Key="InstallationsPage_SearchBar_Content">Nama pemasangan</v:String>
+    <v:String x:Key="InstallationVersionSelect_SearchBar_Content">Version text</v:String>
 
     <!--#endregion-->
 
@@ -192,7 +193,15 @@
     <!-- #region VersionsPage -->
 
 
-    <v:String x:Key="VersionsPage_InstallVersion">Pasang dari Fail Tempatan</v:String>
+    <v:String x:Key="VersionsPage_InstallVersion">Install from Local File</v:String>
+
+
+    <!--#endregion-->
+
+    <!-- #region VersionsPage -->
+
+
+    <v:String x:Key="VersionsPage_InstallVersion">Install from Local File</v:String>
 
 
     <!--#endregion-->
@@ -484,6 +493,7 @@ dimatikan, cuba hidupkannya kembali dan cari lagi</v:String>
     <v:String x:Key="GeneralText_Duplicate">Buat Salinan</v:String>
     <v:String x:Key="GeneralText_Remove">Hapus</v:String>
     <v:String x:Key="GeneralText_Cancel">Batal</v:String>
+    <v:String x:Key="GeneralText_Select">Select</v:String>
     <v:String x:Key="GeneralText_Update">Kemas kini</v:String>
     <v:String x:Key="GeneralText_Install">Pasang</v:String>
     <v:String x:Key="GeneralText_Add">Tambah</v:String>

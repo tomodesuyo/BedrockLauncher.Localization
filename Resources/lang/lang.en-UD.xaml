@@ -500,6 +500,7 @@ sɹǝʇꞁᴉɟ ʎɹoᵷǝʇɐɔ ǝʌɐɥ noʎ ɟI ˙ɥɔɹɐǝs ɹnoʎ ᵷuᴉ�
     <v:String x:Key="GeneralText_Releases">sǝsɐǝꞁǝᴚ</v:String>
     <v:String x:Key="GeneralText_Betas">sɐʇǝᗺ</v:String>
     <v:String x:Key="GeneralText_Previews">sʍǝᴉʌǝɹԀ</v:String>
+    <v:String x:Key="GeneralText_Imported">Imported</v:String>
     <v:String x:Key="GeneralText_Export">ʇɹodxƎ</v:String>
     <v:String x:Key="GeneralText_Repair">ɹᴉɐdǝᴚ</v:String>
 
@@ -512,6 +513,7 @@ sɹǝʇꞁᴉɟ ʎɹoᵷǝʇɐɔ ǝʌɐɥ noʎ ɟI ˙ɥɔɹɐǝs ɹnoʎ ᵷuᴉ�
     <!--#region GeneralSubtitles -->
 
     <v:String x:Key="GeneralSubtitles_Versions">SNOISᴚƎɅ</v:String>
+    <v:String x:Key="GeneralSubtitles_Architectures">ARCHITECTURES</v:String>
     <v:String x:Key="GeneralSubtitles_Browse">ƎSMOᴚᗺ</v:String>
     <v:String x:Key="GeneralSubtitles_Reset">⟘ƎSƎᴚ</v:String>
     <v:String x:Key="GeneralSubtitles_Categories">SƎIᴚO⅁Ǝ⟘ⱯƆ</v:String>

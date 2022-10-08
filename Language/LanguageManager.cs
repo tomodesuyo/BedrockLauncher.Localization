@@ -104,6 +104,19 @@ namespace BedrockLauncher.Localization.Language
             }
         }
 
+        public static object GetResource(string resourceName)
+        {
+            try
+            {
+                return Application.Current.TryFindResource(resourceName);
+            }
+            catch (Exception ex)
+            {
+                Debug.WriteLine($"Something went wrong with the following resource: \"{resourceName}\" \r\n {ex}");
+                return resourceName;
+            }
+        }
+
 
         #region Public Methods
 

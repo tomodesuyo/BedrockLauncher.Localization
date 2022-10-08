@@ -198,14 +198,6 @@
 
     <!--#endregion-->
 
-    <!-- #region VersionsPage -->
-
-
-    <v:String x:Key="VersionsPage_InstallVersion">Install from Local File</v:String>
-
-
-    <!--#endregion-->
-
     <!--#region AcountsSettingsPage -->
 
     <v:String x:Key="AcountsSettingsPage_SelectedAccount_Subtitle">已选择的账户</v:String>

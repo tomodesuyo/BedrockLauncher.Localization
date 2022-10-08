@@ -499,6 +499,7 @@ Tämä {0} tullaan menettämään ikiajoiksi! (Pitkäksi ajaksi!)</v:String>
     <v:String x:Key="GeneralText_Releases">Julkaisut</v:String>
     <v:String x:Key="GeneralText_Betas">Betat</v:String>
     <v:String x:Key="GeneralText_Previews">Previewit</v:String>
+    <v:String x:Key="GeneralText_Imported">Imported</v:String>
     <v:String x:Key="GeneralText_Export">Vie</v:String>
     <v:String x:Key="GeneralText_Repair">Korjaa</v:String>
 
@@ -511,6 +512,7 @@ Tämä {0} tullaan menettämään ikiajoiksi! (Pitkäksi ajaksi!)</v:String>
     <!--#region GeneralSubtitles -->
 
     <v:String x:Key="GeneralSubtitles_Versions">VERSIOT</v:String>
+    <v:String x:Key="GeneralSubtitles_Architectures">ARCHITECTURES</v:String>
     <v:String x:Key="GeneralSubtitles_Browse">SELAA</v:String>
     <v:String x:Key="GeneralSubtitles_Reset">NOLLAA</v:String>
     <v:String x:Key="GeneralSubtitles_Categories">KATEGORIAT</v:String>

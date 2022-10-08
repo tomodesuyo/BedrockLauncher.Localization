@@ -193,15 +193,7 @@
     <!-- #region VersionsPage -->
 
 
-    <v:String x:Key="VersionsPage_InstallVersion">Install from Local File</v:String>
-
-
-    <!--#endregion-->
-
-    <!-- #region VersionsPage -->
-
-
-    <v:String x:Key="VersionsPage_InstallVersion">Install from Local File</v:String>
+    <v:String x:Key="VersionsPage_InstallVersion">Pasang dari Fail Tempatan</v:String>
 
 
     <!--#endregion-->

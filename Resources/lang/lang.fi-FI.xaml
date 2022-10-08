@@ -81,6 +81,7 @@
     <v:String x:Key="InstallationsPage_SortBy_None">Ei mikään</v:String>
 
     <v:String x:Key="InstallationsPage_SearchBar_Content">Asennuksen nimi</v:String>
+    <v:String x:Key="InstallationVersionSelect_SearchBar_Content">Version text</v:String>
 
     <!--#endregion-->
 
@@ -192,7 +193,15 @@
     <!-- #region VersionsPage -->
 
 
-    <v:String x:Key="VersionsPage_InstallVersion">Asenna paikallisesta tiedostosta</v:String>
+    <v:String x:Key="VersionsPage_InstallVersion">Install from Local File</v:String>
+
+
+    <!--#endregion-->
+
+    <!-- #region VersionsPage -->
+
+
+    <v:String x:Key="VersionsPage_InstallVersion">Install from Local File</v:String>
 
 
     <!--#endregion-->
@@ -483,6 +492,7 @@ Tämä {0} tullaan menettämään ikiajoiksi! (Pitkäksi ajaksi!)</v:String>
     <v:String x:Key="GeneralText_Duplicate">Kopioi</v:String>
     <v:String x:Key="GeneralText_Remove">Poista</v:String>
     <v:String x:Key="GeneralText_Cancel">Peruuta</v:String>
+    <v:String x:Key="GeneralText_Select">Select</v:String>
     <v:String x:Key="GeneralText_Update">Päivitä</v:String>
     <v:String x:Key="GeneralText_Install">Asenna</v:String>
     <v:String x:Key="GeneralText_Add">Lisää</v:String>

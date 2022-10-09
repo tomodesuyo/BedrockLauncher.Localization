@@ -81,7 +81,7 @@
     <v:String x:Key="InstallationsPage_SortBy_None">Ei mikään</v:String>
 
     <v:String x:Key="InstallationsPage_SearchBar_Content">Asennuksen nimi</v:String>
-    <v:String x:Key="InstallationVersionSelect_SearchBar_Content">Version text</v:String>
+    <v:String x:Key="InstallationVersionSelect_SearchBar_Content">Versioteksti</v:String>
 
     <!--#endregion-->
 
@@ -484,7 +484,7 @@ Tämä {0} tullaan menettämään ikiajoiksi! (Pitkäksi ajaksi!)</v:String>
     <v:String x:Key="GeneralText_Duplicate">Kopioi</v:String>
     <v:String x:Key="GeneralText_Remove">Poista</v:String>
     <v:String x:Key="GeneralText_Cancel">Peruuta</v:String>
-    <v:String x:Key="GeneralText_Select">Select</v:String>
+    <v:String x:Key="GeneralText_Select">Valitse</v:String>
     <v:String x:Key="GeneralText_Update">Päivitä</v:String>
     <v:String x:Key="GeneralText_Install">Asenna</v:String>
     <v:String x:Key="GeneralText_Add">Lisää</v:String>
@@ -499,7 +499,7 @@ Tämä {0} tullaan menettämään ikiajoiksi! (Pitkäksi ajaksi!)</v:String>
     <v:String x:Key="GeneralText_Releases">Julkaisut</v:String>
     <v:String x:Key="GeneralText_Betas">Betat</v:String>
     <v:String x:Key="GeneralText_Previews">Previewit</v:String>
-    <v:String x:Key="GeneralText_Imported">Imported</v:String>
+    <v:String x:Key="GeneralText_Imported">Tuotu</v:String>
     <v:String x:Key="GeneralText_Export">Vie</v:String>
     <v:String x:Key="GeneralText_Repair">Korjaa</v:String>
 
@@ -512,7 +512,7 @@ Tämä {0} tullaan menettämään ikiajoiksi! (Pitkäksi ajaksi!)</v:String>
     <!--#region GeneralSubtitles -->
 
     <v:String x:Key="GeneralSubtitles_Versions">VERSIOT</v:String>
-    <v:String x:Key="GeneralSubtitles_Architectures">ARCHITECTURES</v:String>
+    <v:String x:Key="GeneralSubtitles_Architectures">ARKKITEHTUURIT</v:String>
     <v:String x:Key="GeneralSubtitles_Browse">SELAA</v:String>
     <v:String x:Key="GeneralSubtitles_Reset">NOLLAA</v:String>
     <v:String x:Key="GeneralSubtitles_Categories">KATEGORIAT</v:String>

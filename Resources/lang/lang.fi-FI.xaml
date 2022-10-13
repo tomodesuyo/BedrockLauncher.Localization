@@ -247,7 +247,7 @@
     <v:String x:Key="FirstLaunch_ChooseAccountTitle">Valitse Insider-tili</v:String>
     <v:String x:Key="FirstLaunch_ChooseAccountSubtitle">* Tätä tullaan käyttämään betojen vahvistamiseen ja lataamiseen. Sinun pitää olla valinnut Minecraft Xbox Insider Hubissa valitulla tilillä jotta voit ladata betoja. Sinun ehkä tarvitsee uudelleenkäynnistää launcher tai poistaa Minecraft betojen latauksen toimimiseksi.</v:String>
 
-    <v:String x:Key="FirstLaunch_BeforeStartingToUse" xml:space="preserve">Ennen käyttämistä on vahvasti suositeltavaa, että painat varmuuskopiointia luodaksesi asennuksen olemassa olevista tallennustiedoistasi, koska laucher korvaa alkuperäisen hakemiston symbolisella linkillä minkä avulla voimme uudelleenohjata tallennusdatan.
+    <v:String x:Key="FirstLaunch_BeforeStartingToUse" xml:space="preserve">Ennen käyttämistä on vahvasti suositeltavaa, että painat varmuuskopiointia luodaksesi asennuksen olemassa olevista tallennustiedoistasi, koska launcher korvaa alkuperäisen hakemiston symbolisella linkillä minkä avulla voimme uudelleenohjata tallennusdatan.
 
  (Älä huoli, et menetä dataasi tekemällä tätä, menetät datasi vain jos paina &quot;pelaa&quot; etkä ole varmuuskopioinut dataasi)</v:String>
 

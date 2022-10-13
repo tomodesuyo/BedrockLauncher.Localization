@@ -30,7 +30,7 @@
     <!--#region UpdateButton-->
 
     <v:String x:Key="UpdateButton_NewUpdate_Text">Uusi päivitys!</v:String>
-    <v:String x:Key="UpdateButton_Download_Text">Paina ladataksesi!</v:String>
+    <v:String x:Key="UpdateButton_Download_Text">Klikkaa ladataksesi!</v:String>
 
     <!--#endregion-->
 
@@ -381,7 +381,7 @@ Tämä {0} tullaan menettämään ikiajoiksi! (Pitkäksi ajaksi!)</v:String>
     <v:String x:Key="Installer_WelcomePage_Title">Tervetuloa Minecraft Bedrock Launcherin asentimeen</v:String>
     <v:String x:Key="Installer_WelcomePage_Info_Text">Tämä asentaa Minecraft Bedrock Launcherin tietokoneellesi.</v:String>
     <v:String x:Key="Installer_WelcomePage_Info2_Text">On suositeltavaa, että suljet kaikki muut ohjelmat ennen jatkamista.</v:String>
-    <v:String x:Key="Installer_WelcomePage_Info3_Text">Paina Seuraava jatkaaksesi, tai Peruuta poistuaksesi asentimesta.</v:String>
+    <v:String x:Key="Installer_WelcomePage_Info3_Text">Klikkaa Seuraava jatkaaksesi, tai Peruuta poistuaksesi asentimesta.</v:String>
 
     <v:String x:Key="Installer_LicenseAgreement_Title">Lisenssisopimus</v:String>
     <v:String x:Key="Installer_LicenseAgreement_Info_Text">Luethan seuraavan lisenssisopimuksen. Sinun on hyväksyttävä tämän</v:String>
@@ -397,7 +397,7 @@ Tämä {0} tullaan menettämään ikiajoiksi! (Pitkäksi ajaksi!)</v:String>
 
     <v:String x:Key="Installer_InstallLocation_Title">Valitse asennussijainti</v:String>
     <v:String x:Key="Installer_InstallLocation_Info_Text">Asennin tulee asentamaan Minecraft Bedrock Launcherin seuraavaan kansioon. Asentaaksesi eri kansioon,</v:String>
-    <v:String x:Key="Installer_InstallLocation_Info2_Text">paina Selaa ja valitse toinen kansio.</v:String>
+    <v:String x:Key="Installer_InstallLocation_Info2_Text">klikkaa Selaa ja valitse toinen kansio.</v:String>
 
     <v:String x:Key="Installer_InstallLocation_DestinationFolder_Header">Kohdekansio</v:String>
     <v:String x:Key="Installer_InstallLocation_Browse_Text">SELAA</v:String>

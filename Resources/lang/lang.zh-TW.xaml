@@ -6,8 +6,8 @@
 
     <!--#region MainWindow -->
 
-    <v:String x:Key="MainWindow_Title">Minecraft Bedrock Launcher</v:String>
-    <v:String x:Key="MainWindow_Disclaimer">未經Mojang許</v:String>
+    <v:String x:Key="MainWindow_Title">Minecraft 基岩版啟動器</v:String>
+    <v:String x:Key="MainWindow_Disclaimer">未經Mojang許可</v:String>
 
     <!--#endregion-->
     
@@ -22,15 +22,15 @@
     <v:String x:Key="ToolbarButtons_NewsButton_Text">新聞</v:String>
     <v:String x:Key="ToolbarButtons_MinecraftEdition_Text">基岩</v:String>
     <v:String x:Key="ToolbarButtons_Minecraft_Text">MINECRAFT:</v:String>
-    <v:String x:Key="ToolbarButtons_ProfileButton_ProfileType_Text">個人檔</v:String>
-    <v:String x:Key="ToolbarButtons_SettingsButton_Text">設</v:String>
+    <v:String x:Key="ToolbarButtons_ProfileButton_ProfileType_Text">個人檔案</v:String>
+    <v:String x:Key="ToolbarButtons_SettingsButton_Text">設定</v:String>
 
     <!--#endregion-->
 
     <!--#region UpdateButton-->
 
-    <v:String x:Key="UpdateButton_NewUpdate_Text">有新的更新!</v:String>
-    <v:String x:Key="UpdateButton_Download_Text">點擊下載</v:String>
+    <v:String x:Key="UpdateButton_NewUpdate_Text">有可用的更新！</v:String>
+    <v:String x:Key="UpdateButton_Download_Text">點此下載！</v:String>
 
     <!--#endregion-->
 
@@ -39,7 +39,7 @@
     <v:String x:Key="ProgressBar_Downloading">正在下載...</v:String>
     <v:String x:Key="ProgressBar_Installing">安裝中...</v:String>
     <v:String x:Key="ProgressBar_Launching">正在啟動...</v:String>
-    <v:String x:Key="ProgressBar_Extracting">正在解壓</v:String>
+    <v:String x:Key="ProgressBar_Extracting">正在解壓縮檔案</v:String>
     <v:String x:Key="ProgressBar_Uninstalling">解除安裝中</v:String>
     <v:String x:Key="ProgressBar_RegisteringPackage">正在註冊</v:String>
     <v:String x:Key="ProgressBar_RemovingPackage">正在取消註冊</v:String>
@@ -49,11 +49,11 @@
 
     <!--#region ProfileButton -->
 
-    <v:String x:Key="ProfileButton_ManageProfiles_Text">管理個人檔</v:String>
-    <v:String x:Key="ProfileButton_ProfileSettings_Text">個人檔案設</v:String>
-    <v:String x:Key="ProfileButton_AddProfile_Text">新增個人檔</v:String>
-    <v:String x:Key="ProfileButton_RemoveProfile_Text">移除個人檔</v:String>
-    <v:String x:Key="ProfileButton_ChooseAccount_Text">選擇個人檔</v:String>
+    <v:String x:Key="ProfileButton_ManageProfiles_Text">管理個人檔案</v:String>
+    <v:String x:Key="ProfileButton_ProfileSettings_Text">管理個人檔案</v:String>
+    <v:String x:Key="ProfileButton_AddProfile_Text">新增個人檔案</v:String>
+    <v:String x:Key="ProfileButton_RemoveProfile_Text">移除個人檔案</v:String>
+    <v:String x:Key="ProfileButton_ChooseAccount_Text">選擇個人檔案</v:String>
 
     <!--#endregion-->
 

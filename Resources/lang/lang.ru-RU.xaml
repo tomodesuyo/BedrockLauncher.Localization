@@ -451,6 +451,7 @@
     <v:String x:Key="ThemeEntries_Original">Оригинальное</v:String>
     <v:String x:Key="ThemeEntries_Custom">Custom</v:String>
 
+    <v:String x:Key="ThemeEntries_TheWildUpdate">The Wild Update</v:String>
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">Обновление &quot;Пещеры и скалы&quot; (часть 1)</v:String>
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">Caves &amp; Cliffs (Part 2)</v:String>
     <v:String x:Key="ThemeEntries_NetherUpdate">Обновление &quot;Адское&quot;</v:String>

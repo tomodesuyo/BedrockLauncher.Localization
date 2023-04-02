@@ -450,6 +450,7 @@ Tämä {0} tullaan menettämään ikiajoiksi! (Pitkäksi ajaksi!)</v:String>
     <v:String x:Key="ThemeEntries_Original">Alkuperäinen</v:String>
     <v:String x:Key="ThemeEntries_Custom">Mukautettu</v:String>
 
+    <v:String x:Key="ThemeEntries_TheWildUpdate">The Wild Update</v:String>
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">Caves &amp; Cliffs (Osa 1)</v:String>
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">Caves &amp; Cliffs (Osa 2)</v:String>
     <v:String x:Key="ThemeEntries_NetherUpdate">Nether Update</v:String>

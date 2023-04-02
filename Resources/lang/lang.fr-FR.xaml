@@ -451,6 +451,7 @@ du Minecraft Bedrock Launcher</v:String>
     <v:String x:Key="ThemeEntries_Original">Originale</v:String>
     <v:String x:Key="ThemeEntries_Custom">Personnalisé</v:String>
 
+    <v:String x:Key="ThemeEntries_TheWildUpdate">The Wild Update</v:String>
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">Cavernes et falaises (partie 1)</v:String>
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">Caves &amp; Cliffs (Partie 2)</v:String>
     <v:String x:Key="ThemeEntries_NetherUpdate">Mise à jour du Nether</v:String>
@@ -500,7 +501,7 @@ du Minecraft Bedrock Launcher</v:String>
     <v:String x:Key="GeneralText_Releases">Officielles</v:String>
     <v:String x:Key="GeneralText_Betas">Bêtas</v:String>
     <v:String x:Key="GeneralText_Previews">Preview</v:String>
-    <v:String x:Key="GeneralText_Imported">Imported</v:String>
+    <v:String x:Key="GeneralText_Imported">Importé</v:String>
     <v:String x:Key="GeneralText_Export">Exporter</v:String>
     <v:String x:Key="GeneralText_Repair">Réparer</v:String>
 

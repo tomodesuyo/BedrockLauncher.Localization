@@ -13,14 +13,14 @@
     
     <!-- #region CommunityPage -->
 
-    <v:String x:Key="CommunityPage_SupportText">❤ Support Development ❤</v:String>
+    <v:String x:Key="CommunityPage_SupportText">❤支援開發❤</v:String>
 
     <!-- #endregion -->
 
     <!--#region ToolbarButtons -->
 
     <v:String x:Key="ToolbarButtons_NewsButton_Text">新聞</v:String>
-    <v:String x:Key="ToolbarButtons_MinecraftEdition_Text">基岩</v:String>
+    <v:String x:Key="ToolbarButtons_MinecraftEdition_Text">基岩版</v:String>
     <v:String x:Key="ToolbarButtons_Minecraft_Text">MINECRAFT:</v:String>
     <v:String x:Key="ToolbarButtons_ProfileButton_ProfileType_Text">個人檔案</v:String>
     <v:String x:Key="ToolbarButtons_SettingsButton_Text">設定</v:String>
@@ -78,10 +78,10 @@
 
     <v:String x:Key="InstallationsPage_SortBy_LatestPlayed">最近一次遊玩</v:String>
     <v:String x:Key="InstallationsPage_SortBy_Name">名稱</v:String>
-    <v:String x:Key="InstallationsPage_SortBy_None">None</v:String>
+    <v:String x:Key="InstallationsPage_SortBy_None">無</v:String>
 
     <v:String x:Key="InstallationsPage_SearchBar_Content">安裝檔名稱</v:String>
-    <v:String x:Key="InstallationVersionSelect_SearchBar_Content">Version text</v:String>
+    <v:String x:Key="InstallationVersionSelect_SearchBar_Content">版本敘述</v:String>
 
     <!--#endregion-->
 
@@ -93,8 +93,8 @@
     <v:String x:Key="EditInstallationScreen_CreateButton">建立</v:String>
     <v:String x:Key="EditInstallationScreen_AltCreateButton">儲存</v:String>
 
-    <v:String x:Key="EditInstallationScreen_LatestPreview">Latest preview</v:String>
-    <v:String x:Key="EditInstallationScreen_LatestBeta">Latest beta</v:String>
+    <v:String x:Key="EditInstallationScreen_LatestPreview">最新預覽版</v:String>
+    <v:String x:Key="EditInstallationScreen_LatestBeta">最新測試版</v:String>
     <v:String x:Key="EditInstallationScreen_LatestRelease">最新正式版</v:String>
 
     <v:String x:Key="EditInstallationScreen_NameSubtitle">名稱</v:String>
@@ -130,7 +130,7 @@
     <v:String x:Key="LauncherNewsPage_Build_Text">版本</v:String>
     <v:String x:Key="LauncherNewsPage_Changes_Text">變更內容：</v:String>
     <v:String x:Key="LauncherNewsPage_CheckForUpdates">檢查更新</v:String>
-    <v:String x:Key="LauncherNewsPage_GetUpdates">Get Updates</v:String>
+    <v:String x:Key="LauncherNewsPage_GetUpdates">取得更新</v:String>
     <v:String x:Key="LauncherNewsPage_CurrentBuild_Text">當前</v:String>
 
     <!--#endregion-->
@@ -175,7 +175,7 @@
     <v:String x:Key="GeneralSettingsScreen_KeepLauncherOpen">在遊戲進行時仍保持啟動器開啟</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimateTransitions">啟動器中的頁面轉場動畫</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimatePlayButton">啟動器中的「遊玩」按鈕動畫</v:String>
-    <v:String x:Key="GeneralSettingsScreen_FetchVersionsFromMicrosoftStore">Allow additional checking for new versions directly from the Microsoft Store</v:String>
+    <v:String x:Key="GeneralSettingsScreen_FetchVersionsFromMicrosoftStore">允許透過 Microsoft Store 額外檢查最新版本</v:String>
     
 
     <v:String x:Key="GeneralSettingsScreen_BedrockEditionSettingsSubtitle">MINECRAFT: BEDROCK EDITION 設定</v:String>
@@ -185,15 +185,15 @@
 
     <v:String x:Key="GeneralSettingsScreen_SupportCreatorButton">支持開發</v:String>
 
-    <v:String x:Key="GeneralSettingsScreen_BackupsSubtitle">BACKUP OPTIONS</v:String>
+    <v:String x:Key="GeneralSettingsScreen_BackupsSubtitle">備份選項</v:String>
     <v:String x:Key="GeneralSettingsScreen_BackupButton">備份資料</v:String>
-    <v:String x:Key="GeneralSettingsScreen_BackupPreviewButton">Backup Save Data (Preview)</v:String>
+    <v:String x:Key="GeneralSettingsScreen_BackupPreviewButton">備份儲存資料(預覽)</v:String>
     <!--#endregion-->
     
     <!-- #region VersionsPage -->
 
 
-    <v:String x:Key="VersionsPage_InstallVersion">Install from Local File</v:String>
+    <v:String x:Key="VersionsPage_InstallVersion">從本機路徑安裝</v:String>
 
 
     <!--#endregion-->
@@ -224,11 +224,11 @@
 
     <!--#region GeneralSettingsScreen_PathOptions -->
 
-    <v:String x:Key="GeneralSettingsScreen_PathOptions_LauncherOptions_Text">PATH OPTIONS</v:String>
-    <v:String x:Key="GeneralSettingsScreen_PathOptions_PathSubtitle_Text">STORAGE DIRECTORY</v:String>
-    <v:String x:Key="GeneralSettingsScreen_PathOptions_PortableMode_Text">Enable Portable Mode</v:String>
-    <v:String x:Key="GeneralSettingsScreen_PathOptions_RestartButton_Text">Apply &amp; Restart</v:String>
-    <v:String x:Key="GeneralSettingsScreen_PathOptions_Notice_Text">* These settings will restart the launcher</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_LauncherOptions_Text">路徑選項</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_PathSubtitle_Text">儲存資料夾</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_PortableMode_Text">啟用可攜版模式</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_RestartButton_Text">套用並重新啟動</v:String>
+    <v:String x:Key="GeneralSettingsScreen_PathOptions_Notice_Text">* 以下設定將重新啟動啟動器</v:String>
 
     <!--#endregion-->
 
@@ -258,7 +258,7 @@
     <v:String x:Key="FirstLaunch_BackupCheckBox_Subtext">(推薦)</v:String>
     <v:String x:Key="FirstLaunch_CloseButton">關閉</v:String>
     <v:String x:Key="FirstLaunch_BackButton">返回</v:String>
-    <v:String x:Key="FirstLaunch_GoBackButton">❮ GO BACK</v:String>
+    <v:String x:Key="FirstLaunch_GoBackButton">返回</v:String>
     <v:String x:Key="FirstLaunch_CreateProfileText">個人檔案</v:String>
     <v:String x:Key="FirstLaunch_CreateProfileButton">建立</v:String>
     <v:String x:Key="FirstLaunch_NextButton">下一步</v:String>
@@ -307,14 +307,14 @@
 
     <!--#region NewProfile -->
 
-    <v:String x:Key="NewProfile_GoBackButton">❮ GO BACK</v:String>
-    <v:String x:Key="NewProfile_ProfileNameHeader">PROFILE NAME</v:String>
-    <v:String x:Key="NewProfile_ProfilePathHeader">PROFILE DIRECTORY</v:String>
+    <v:String x:Key="NewProfile_GoBackButton">返回</v:String>
+    <v:String x:Key="NewProfile_ProfileNameHeader">設定名稱</v:String>
+    <v:String x:Key="NewProfile_ProfilePathHeader">儲存資料夾</v:String>
     <v:String x:Key="NewProfile_CreateProfileText_Error">此名稱已存</v:String>
-    <v:String x:Key="NewProfile_CreateProfileSubTitle">Create profile</v:String>
+    <v:String x:Key="NewProfile_CreateProfileSubTitle">建立設定檔</v:String>
     <v:String x:Key="NewProfile_CreateProfileButton">建立</v:String>
-    <v:String x:Key="NewProfile_EditProfileButton">Save</v:String>
-    <v:String x:Key="NewProfile_EditProfileSubTitle">Edit profile</v:String>
+    <v:String x:Key="NewProfile_EditProfileButton">儲存</v:String>
+    <v:String x:Key="NewProfile_EditProfileSubTitle">編輯設定檔</v:String>
 
     <!--#endregion-->
 
@@ -324,7 +324,7 @@
     <v:String x:Key="Dialog_Item_Version_Text">版本</v:String>
     <v:String x:Key="Dialog_Item_Profile_Text">個人檔</v:String>
 
-    <v:String x:Key="Dialog_Item_Optional_DeleteInstallationData">Delete user data</v:String>
+    <v:String x:Key="Dialog_Item_Optional_DeleteInstallationData">刪除使用者資料</v:String>
 
     <v:String x:Key="Dialog_DeleteItem_Title">永久刪除 {0}</v:String>
     <v:String x:Key="Dialog_DeleteItem_Text" xml:space="preserve">確定要刪除 “{1}” 嗎？
@@ -437,8 +437,8 @@
 
     <!--#region VersionEntries -->
 
-    <v:String x:Key="VersionEntries_LatestPreview">Latest Preview</v:String>
-    <v:String x:Key="VersionEntries_LatestBeta">Latest Beta</v:String>
+    <v:String x:Key="VersionEntries_LatestPreview">最新預覽版</v:String>
+    <v:String x:Key="VersionEntries_LatestBeta">最新測試版</v:String>
     <v:String x:Key="VersionEntries_LatestRelease">最新正式</v:String>
     <v:String x:Key="VersionEntries_UnnamedInstallation">&lt;unnamed installation&gt;</v:String>
 
@@ -448,10 +448,11 @@
 
     <v:String x:Key="ThemeEntries_LatestUpdate">最新更新</v:String>
     <v:String x:Key="ThemeEntries_Original">原</v:String>
-    <v:String x:Key="ThemeEntries_Custom">Custom</v:String>
+    <v:String x:Key="ThemeEntries_Custom">自訂</v:String>
 
+    <v:String x:Key="ThemeEntries_TheWildUpdate">The Wild Update</v:String>
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">洞穴與山崖 (第一部分)</v:String>
-    <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">Caves &amp; Cliffs (Part 2)</v:String>
+    <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">洞穴與山崖 (第二部分)</v:String>
     <v:String x:Key="ThemeEntries_NetherUpdate">地獄更新</v:String>
     <v:String x:Key="ThemeEntries_BuzzyBeesUpdate">嗡嗡蜂群</v:String>
     <v:String x:Key="ThemeEntries_VillagePillageUpdate">村莊與掠奪</v:String>
@@ -463,8 +464,8 @@
     <v:String x:Key="ThemeEntries_CatsAndPandasUpdate">貓與貓熊 [Bedrock]</v:String>
     <v:String x:Key="ThemeEntries_PocketEditionRelease">官方版本 [Bedrock]</v:String>
 
-    <v:String x:Key="ThemeEntries_BedrockAndJavaTogetherTechnoblade">Bedrock &amp; Java (Technoblade)</v:String>
-    <v:String x:Key="ThemeEntries_BedrockAndJavaTogether">Bedrock &amp; Java</v:String>
+    <v:String x:Key="ThemeEntries_BedrockAndJavaTogetherTechnoblade">基岩版 &amp; Java版 (Techniblade)</v:String>
+    <v:String x:Key="ThemeEntries_BedrockAndJavaTogether">基岩版 &amp; Java版</v:String>
 
     <v:String x:Key="ThemeEntries_BedrockStandard">Bedrock Edition Standard</v:String>
     <v:String x:Key="ThemeEntries_BedrockMaster">Bedrock Edition Master</v:String>
@@ -484,9 +485,9 @@
     <v:String x:Key="GeneralText_Duplicate">複製</v:String>
     <v:String x:Key="GeneralText_Remove">移除</v:String>
     <v:String x:Key="GeneralText_Cancel">取</v:String>
-    <v:String x:Key="GeneralText_Select">Select</v:String>
+    <v:String x:Key="GeneralText_Select">選擇</v:String>
     <v:String x:Key="GeneralText_Update">更新</v:String>
-    <v:String x:Key="GeneralText_Install">Install</v:String>
+    <v:String x:Key="GeneralText_Install">安裝</v:String>
     <v:String x:Key="GeneralText_Add">新增</v:String>
     <v:String x:Key="GeneralText_Save">儲存</v:String>
     <v:String x:Key="GeneralText_Refresh">重新整</v:String>
@@ -498,8 +499,8 @@
     <v:String x:Key="GeneralText_No">否</v:String>
     <v:String x:Key="GeneralText_Releases">正式</v:String>
     <v:String x:Key="GeneralText_Betas">開發</v:String>
-    <v:String x:Key="GeneralText_Previews">Previews</v:String>
-    <v:String x:Key="GeneralText_Imported">Imported</v:String>
+    <v:String x:Key="GeneralText_Previews">預覽</v:String>
+    <v:String x:Key="GeneralText_Imported">已匯入</v:String>
     <v:String x:Key="GeneralText_Export">匯出</v:String>
     <v:String x:Key="GeneralText_Repair">修</v:String>
 
@@ -512,7 +513,7 @@
     <!--#region GeneralSubtitles -->
 
     <v:String x:Key="GeneralSubtitles_Versions">版本</v:String>
-    <v:String x:Key="GeneralSubtitles_Architectures">ARCHITECTURES</v:String>
+    <v:String x:Key="GeneralSubtitles_Architectures">架構</v:String>
     <v:String x:Key="GeneralSubtitles_Browse">瀏覽</v:String>
     <v:String x:Key="GeneralSubtitles_Reset">重設</v:String>
     <v:String x:Key="GeneralSubtitles_Categories">分類</v:String>

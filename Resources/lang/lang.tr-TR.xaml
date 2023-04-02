@@ -451,6 +451,7 @@ turned off, try turning the back on and search again</v:String>
     <v:String x:Key="ThemeEntries_Original">Orijinal</v:String>
     <v:String x:Key="ThemeEntries_Custom">Özel</v:String>
 
+    <v:String x:Key="ThemeEntries_TheWildUpdate">The Wild Update</v:String>
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">Mağaralar &amp; Kayalıklar (Kısım 1)</v:String>
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">Mağaralar &amp; Kayalıklar (Kısım 2)</v:String>
     <v:String x:Key="ThemeEntries_NetherUpdate">Nether Güncellemesi</v:String>

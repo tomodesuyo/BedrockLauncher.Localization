@@ -212,11 +212,11 @@
 
     <v:String x:Key="AboutPage_Title">MINECRAFT: BEDROCK EDITION ランチャーについて</v:String>
     <v:String x:Key="AboutPage_DevelopedBy_Text">開発元</v:String>
-    <v:String x:Key="AboutPage_OriginallyDevelopedBy_Text">の作品から派生したものです</v:String>
+    <v:String x:Key="AboutPage_OriginallyDevelopedBy_Text">この作品から派生したものです</v:String>
     <v:String x:Key="AboutPage_SpecialThanks_Text">スペシャルサンクス</v:String>
 
     <v:String x:Key="AboutPage_McMrArm_Text">本作品の元となる「Minecraft Windows 10 Version」ダウンローダーを作成したことで</v:String>
-    <v:String x:Key="AboutPage_Mojang_Text">マインクラフトのために！！！</v:String>
+    <v:String x:Key="AboutPage_Mojang_Text">マインクラフト</v:String>
     <v:String x:Key="AboutPage_CurrentBuild">現在のビルド: </v:String>
 
     <!--#endregion-->

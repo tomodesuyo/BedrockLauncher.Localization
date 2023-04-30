@@ -445,7 +445,7 @@
 
     <!--#region ThemeEntries -->
 
-    <v:String x:Key="ThemeEntries_LatestUpdate">最新情報</v:String>
+    <v:String x:Key="ThemeEntries_LatestUpdate">最新アップデート</v:String>
     <v:String x:Key="ThemeEntries_Original">オリジナル</v:String>
     <v:String x:Key="ThemeEntries_Custom">カスタム</v:String>
 

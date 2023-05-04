@@ -449,8 +449,10 @@
     <v:String x:Key="ThemeEntries_Original">オリジナル</v:String>
     <v:String x:Key="ThemeEntries_Custom">カスタム</v:String>
 
-    <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">洞窟と崖(パート1)</v:String>
-    <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">洞窟と崖(パート2)</v:String>
+    <v:String x:Key="ThemeEntries_TheWildUpdate">ワイルドアップデート</v:String>
+    <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">洞窟と崖アップデート(パート1)</v:String>
+    <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">洞窟と崖アップデート(パート1)</v:String>
+    <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">洞窟と崖アップデート(パート2)</v:String>
     <v:String x:Key="ThemeEntries_NetherUpdate">ネザーアップデート</v:String>
     <v:String x:Key="ThemeEntries_BuzzyBeesUpdate">ハチアップデート</v:String>
     <v:String x:Key="ThemeEntries_VillagePillageUpdate">村と略奪アップデート</v:String>
@@ -459,7 +461,7 @@
     <v:String x:Key="ThemeEntries_WorldOfColorUpdate">ワールド・オブ・カラー アップデート[Java]</v:String>
     <v:String x:Key="ThemeEntries_ExplorationUpdate">エクスプロレーション アップデート[Java]</v:String>
     <v:String x:Key="ThemeEntries_CombatUpdate">コンバットアップデート[Java]</v:String>
-    <v:String x:Key="ThemeEntries_CatsAndPandasUpdate">猫とパンダ[Bedrock]</v:String>
+    <v:String x:Key="ThemeEntries_CatsAndPandasUpdate">猫とパンダアップデート[Bedrock]</v:String>
     <v:String x:Key="ThemeEntries_PocketEditionRelease">公式リリース[Bedrock]</v:String>
 
     <v:String x:Key="ThemeEntries_BedrockAndJavaTogetherTechnoblade">Bedrock &amp; Java (Technoblade)</v:String>

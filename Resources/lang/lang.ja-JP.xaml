@@ -499,6 +499,7 @@
     <v:String x:Key="GeneralText_Releases">リリース</v:String>
     <v:String x:Key="GeneralText_Betas">ベータ</v:String>
     <v:String x:Key="GeneralText_Previews">プレビュー</v:String>
+    <v:String x:Key="GeneralText_Imported">インポート</v:String>
     <v:String x:Key="GeneralText_Export">エクスポート</v:String>
     <v:String x:Key="GeneralText_Repair">修復</v:String>
 
@@ -511,6 +512,7 @@
     <!--#region GeneralSubtitles -->
 
     <v:String x:Key="GeneralSubtitles_Versions">バージョン</v:String>
+    <v:String x:Key="GeneralSubtitles_Architectures">アーキテクチャ</v:String>
     <v:String x:Key="GeneralSubtitles_Browse">ブラウズ</v:String>
     <v:String x:Key="GeneralSubtitles_Reset">リセット</v:String>
     <v:String x:Key="GeneralSubtitles_Categories">カテゴリ</v:String>

@@ -451,7 +451,6 @@
 
     <v:String x:Key="ThemeEntries_TheWildUpdate">ワイルドアップデート</v:String>
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">洞窟と崖アップデート(パート1)</v:String>
-    <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">洞窟と崖アップデート(パート1)</v:String>
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">洞窟と崖アップデート(パート2)</v:String>
     <v:String x:Key="ThemeEntries_NetherUpdate">ネザーアップデート</v:String>
     <v:String x:Key="ThemeEntries_BuzzyBeesUpdate">ハチアップデート</v:String>

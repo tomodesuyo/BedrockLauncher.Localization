@@ -461,7 +461,7 @@
     <v:String x:Key="ThemeEntries_ExplorationUpdate">エクスプロレーション アップデート[Java]</v:String>
     <v:String x:Key="ThemeEntries_CombatUpdate">コンバットアップデート[Java]</v:String>
     <v:String x:Key="ThemeEntries_CatsAndPandasUpdate">猫とパンダアップデート[Bedrock]</v:String>
-    <v:String x:Key="ThemeEntries_PocketEditionRelease">公式リリース[Bedrock]</v:String>
+    <v:String x:Key="ThemeEntries_PocketEditionRelease">正式リリース[Bedrock]</v:String>
 
     <v:String x:Key="ThemeEntries_BedrockAndJavaTogetherTechnoblade">Bedrock &amp; Java (Technoblade)</v:String>
     <v:String x:Key="ThemeEntries_BedrockAndJavaTogether">Bedrock &amp; Java</v:String>

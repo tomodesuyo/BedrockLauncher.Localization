@@ -29,8 +29,8 @@
 
     <!--#region UpdateButton-->
 
-    <v:String x:Key="UpdateButton_NewUpdate_Text">新しいアップデート!</v:String>
-    <v:String x:Key="UpdateButton_Download_Text">クリックでダウンロード!</v:String>
+    <v:String x:Key="UpdateButton_NewUpdate_Text">最新バージョンがあります!</v:String>
+    <v:String x:Key="UpdateButton_Download_Text">クリックしてダウンロード!</v:String>
 
     <!--#endregion-->
 
@@ -78,7 +78,7 @@
 
     <v:String x:Key="InstallationsPage_SortBy_LatestPlayed">最終プレイ日</v:String>
     <v:String x:Key="InstallationsPage_SortBy_Name">名前</v:String>
-    <v:String x:Key="InstallationsPage_SortBy_None">なし</v:String>
+    <v:String x:Key="InstallationsPage_SortBy_None">手動</v:String>
 
     <v:String x:Key="InstallationsPage_SearchBar_Content">起動構成の名前</v:String>
 
@@ -107,8 +107,8 @@
 
     <!--#region PatchNotesPage -->
 
-    <v:String x:Key="PatchNotesPage_MorePatchNotes">更新履歴を更に表示</v:String>
-    <v:String x:Key="PatchNotesPage_MorePatchNotesBeta">ベータの更新履歴を更に表示</v:String>
+    <v:String x:Key="PatchNotesPage_MorePatchNotes">更新履歴をさらに表示</v:String>
+    <v:String x:Key="PatchNotesPage_MorePatchNotesBeta">ベータの更新履歴をさらに表示</v:String>
 
     <!--#endregion-->
 
@@ -130,7 +130,7 @@
     <v:String x:Key="LauncherNewsPage_Changes_Text">変更:</v:String>
     <v:String x:Key="LauncherNewsPage_CheckForUpdates">更新を確認する</v:String>
     <v:String x:Key="LauncherNewsPage_GetUpdates">更新を取得する</v:String>
-    <v:String x:Key="LauncherNewsPage_CurrentBuild_Text">Current</v:String>
+    <v:String x:Key="LauncherNewsPage_CurrentBuild_Text">最新のビルド</v:String>
 
     <!--#endregion-->
 
@@ -141,7 +141,7 @@
     <v:String x:Key="NewsScreen_MinecraftForumsTitle">Minecraft Forums</v:String>
     <v:String x:Key="NewsScreen_JavaNDungeonsTabTitle">Java / Dungeons</v:String>
 
-    <v:String x:Key="NewsScreen_SearchBar_Content">新しいタイトル</v:String>
+    <v:String x:Key="NewsScreen_SearchBar_Content">お知らせの題名</v:String>
 
     <v:String x:Key="NewsScreen_JavaNDungeons_JavaCheckbox">Minecraft: Java Edition</v:String>
     <v:String x:Key="NewsScreen_JavaNDungeons_DungeonsCheckbox">Minecraft Dungeons</v:String>
@@ -174,7 +174,7 @@
     <v:String x:Key="GeneralSettingsScreen_KeepLauncherOpen">ゲーム起動後もランチャーを開いたままにする</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimateTransitions">ランチャーのページ間の移動アニメーションを有効にする</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimatePlayButton">ランチャーのプレイボタンのアニメーションを有効にする</v:String>
-    <v:String x:Key="GeneralSettingsScreen_FetchVersionsFromMicrosoftStore">Microsoft Storeから直接、新バージョンの追加チェックを有効にする</v:String>
+    <v:String x:Key="GeneralSettingsScreen_FetchVersionsFromMicrosoftStore">Microsoft Storeから直接、最新バージョンのチェックを有効にする</v:String>
     
 
     <v:String x:Key="GeneralSettingsScreen_BedrockEditionSettingsSubtitle">MINECRAFT: BEDROCK EDITION SETTINGS</v:String>
@@ -215,8 +215,8 @@
     <v:String x:Key="AboutPage_OriginallyDevelopedBy_Text">この作品から派生したものです</v:String>
     <v:String x:Key="AboutPage_SpecialThanks_Text">スペシャルサンクス</v:String>
 
-    <v:String x:Key="AboutPage_McMrArm_Text">本作品の元となる「Minecraft Windows 10 Version」ダウンローダーを作成したことで</v:String>
-    <v:String x:Key="AboutPage_Mojang_Text">マインクラフト</v:String>
+    <v:String x:Key="AboutPage_McMrArm_Text">本作品の元となる「Minecraft Windows 10 Version」ダウンローダーを作成</v:String>
+    <v:String x:Key="AboutPage_Mojang_Text">For Minecraft!!!</v:String>
     <v:String x:Key="AboutPage_CurrentBuild">現在のビルド: </v:String>
 
     <!--#endregion-->

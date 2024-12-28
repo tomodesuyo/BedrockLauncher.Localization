@@ -81,6 +81,7 @@
     <v:String x:Key="InstallationsPage_SortBy_None">Aucun</v:String>
 
     <v:String x:Key="InstallationsPage_SearchBar_Content">Nom de la configuration</v:String>
+    <v:String x:Key="InstallationVersionSelect_SearchBar_Content">Texte de la version</v:String>
 
     <!--#endregion-->
 
@@ -170,7 +171,7 @@
 
     <v:String x:Key="GeneralSettingsScreen_LauncherSettingsSubtitle">PARAMÈTRES DU LAUNCHER</v:String>
     <v:String x:Key="GeneralSettingsScreen_ShortcutSettingsSubtitle">PARAMÈTRES DES RACCOURCIS</v:String>
-    <v:String x:Key="GeneralSettingsScreen_UseBetaLauncher">Utiliser la version bêta du Launcher</v:String>
+    <v:String x:Key="GeneralSettingsScreen_KeepAppx">Conserver le package Appx</v:String>
     <v:String x:Key="GeneralSettingsScreen_KeepLauncherOpen">Garder le Launcher ouvert pendant le jeu</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimateTransitions">Animer les transitions entre les pages du Launcher</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimatePlayButton">Animer le bouton &quot;jouer&quot; sur les pages du Launcher</v:String>
@@ -450,6 +451,7 @@ du Minecraft Bedrock Launcher</v:String>
     <v:String x:Key="ThemeEntries_Original">Originale</v:String>
     <v:String x:Key="ThemeEntries_Custom">Personnalisé</v:String>
 
+    <v:String x:Key="ThemeEntries_TheWildUpdate">La mise à jour The Wild</v:String>
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">Cavernes et falaises (partie 1)</v:String>
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">Caves &amp; Cliffs (Partie 2)</v:String>
     <v:String x:Key="ThemeEntries_NetherUpdate">Mise à jour du Nether</v:String>
@@ -484,6 +486,7 @@ du Minecraft Bedrock Launcher</v:String>
     <v:String x:Key="GeneralText_Duplicate">Dupliquer</v:String>
     <v:String x:Key="GeneralText_Remove">Retirer</v:String>
     <v:String x:Key="GeneralText_Cancel">Annuler</v:String>
+    <v:String x:Key="GeneralText_Select">Sélectionner</v:String>
     <v:String x:Key="GeneralText_Update">Mise à jour</v:String>
     <v:String x:Key="GeneralText_Install">Installer</v:String>
     <v:String x:Key="GeneralText_Add">Ajouter</v:String>
@@ -498,6 +501,7 @@ du Minecraft Bedrock Launcher</v:String>
     <v:String x:Key="GeneralText_Releases">Officielles</v:String>
     <v:String x:Key="GeneralText_Betas">Bêtas</v:String>
     <v:String x:Key="GeneralText_Previews">Preview</v:String>
+    <v:String x:Key="GeneralText_Imported">Importé</v:String>
     <v:String x:Key="GeneralText_Export">Exporter</v:String>
     <v:String x:Key="GeneralText_Repair">Réparer</v:String>
 
@@ -510,6 +514,7 @@ du Minecraft Bedrock Launcher</v:String>
     <!--#region GeneralSubtitles -->
 
     <v:String x:Key="GeneralSubtitles_Versions">VERSIONS</v:String>
+    <v:String x:Key="GeneralSubtitles_Architectures">ARCHITECTURES</v:String>
     <v:String x:Key="GeneralSubtitles_Browse">PARCOURIR</v:String>
     <v:String x:Key="GeneralSubtitles_Reset">RESET</v:String>
     <v:String x:Key="GeneralSubtitles_Categories">CATÉGORIES</v:String>

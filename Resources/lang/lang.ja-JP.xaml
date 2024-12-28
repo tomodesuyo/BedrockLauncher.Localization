@@ -81,6 +81,7 @@
     <v:String x:Key="InstallationsPage_SortBy_None">手動</v:String>
 
     <v:String x:Key="InstallationsPage_SearchBar_Content">起動構成の名前</v:String>
+    <v:String x:Key="InstallationVersionSelect_SearchBar_Content">Version text</v:String>
 
     <!--#endregion-->
 
@@ -241,14 +242,12 @@
     <v:String x:Key="FirstLaunch_WelcomeSubTitle">Minecraft Bedrock Launcherへようこそ！</v:String>
     <v:String x:Key="FirstLaunch_CreateProfileSubTitle">最初のプロフィールを作成します！</v:String>
     <v:String x:Key="FirstLaunch_AlmostThereTitle">あと少しです！</v:String>
-    <v:String x:Key="FirstLaunch_OneThingTitle">ひとつだけ...</v:String>
-    <v:String x:Key="FirstLaunch_OneThingSubtitle">これらを確認しながら、自分好みに仕上げてください。</v:String>
+    <v:String x:Key="FirstLaunch_OneThingTitle">最初に...</v:String>
+    <v:String x:Key="FirstLaunch_OneThingSubtitle">自分の好みになるように、設定してみてください</v:String>
     <v:String x:Key="FirstLaunch_ChooseAccountTitle">インサイダーアカウントの選択</v:String>
-    <v:String x:Key="FirstLaunch_ChooseAccountSubtitle">* ベータの確認とダウンロードに使用されます。ベータをダウンロードするには、選択したアカウントのXbox Insider Hubにオプトインしている必要があります。また、ベータをダウンロードするためには、ランチャーを再起動するか、Minecraftをアンインストールする必要がある場合があります。</v:String>
+    <v:String x:Key="FirstLaunch_ChooseAccountSubtitle">* ベータの確認とダウンロードに使用されます。ベータをダウンロードするには、選択したアカウントのXbox Insider Hubにオプトインしている必要があります。また、ベータをダウンロードするためには、ランチャーを再起動するか、Minecraftをアンインストールする必要がある場合があります</v:String>
 
-    <v:String x:Key="FirstLaunch_BeforeStartingToUse" xml:space="preserve">ランチャーが元のディレクトリをシンボリックリンクに置き換えることで、セーブデータをリダイレクトすることができます。
-
- (心配しないでください。この操作でデータが失われることはありません。プレイを押してバックアップしていない場合にのみデータが失われます)</v:String>
+    <v:String x:Key="FirstLaunch_BeforeStartingToUse" xml:space="preserve">ランチャーが元のディレクトリをシンボリックリンクに置き換えることで、セーブデータをリダイレクトすることができます。(心配しないでください。この操作でデータが失われることはありません。プレイを押してバックアップしていない場合にのみデータが失われます)</v:String>
 
     <v:String x:Key="FirstLaunch_InstallType_Header">ランチャーデータの保存/読み込み元:</v:String>
     <v:String x:Key="FirstLaunch_FixedInstall_Checkbox">固定フォルダ（推奨）</v:String>
@@ -269,7 +268,7 @@
     <!--#region ErrorScreen -->
 
     <v:String x:Key="ErrorScreen_Title">エラー</v:String>
-    <v:String x:Key="ErrorScreen_SubTitle">ランチャーがクラッシュした</v:String>
+    <v:String x:Key="ErrorScreen_SubTitle">ランチャーがクラッシュしました</v:String>
     <v:String x:Key="ErrorScreen_DefaultErrorMessage">予期せぬ問題が発生し、ランチャーがクラッシュしました。ご不便をおかけして申し訳ありません。</v:String>
     <v:String x:Key="ErrorScreen_CloseButton">閉じる</v:String>
     <v:String x:Key="ErrorScreen_ViewCrash">クラッシュレポートを見る</v:String>
@@ -330,7 +329,7 @@
 この{0}は永遠に失われることになります！</v:String>
 
     <v:String x:Key="Dialog_KillGame_Title">ゲーム終了</v:String>
-    <v:String x:Key="Dialog_KillGame_Text">これは危険なので、行き詰まったときだけお勧めします。まだゲームを閉じますか？</v:String>
+    <v:String x:Key="Dialog_KillGame_Text">これは危険なので、スタックしたときだけお勧めします。まだゲームを閉じますか？</v:String>
 
     <v:String x:Key="Dialog_CloseGame_Title">ゲームはすでに起動しています</v:String>
     <v:String x:Key="Dialog_CloseGame_Text">強制終了させますか？(これはスタックした場合にのみ推奨されます。ゲームは普通に閉じてください)</v:String>
@@ -347,7 +346,7 @@
     <v:String x:Key="Dialog_ResultPanel_Loading_Text" xml:space="preserve">お待ちください！</v:String>
 
     <v:String x:Key="Dialog_ResultPanel_Error_Title">エラー</v:String>
-    <v:String x:Key="Dialog_ResultPanel_Error_Text" xml:space="preserve">:(</v:String>
+    <v:String x:Key="Dialog_ResultPanel_Error_Text" xml:space="preserve">(´・ω・`)</v:String>
 
     <v:String x:Key="Dialog_NoContentFound_NoMatchingResultsTitle">結果なし</v:String>
     <v:String x:Key="Dialog_NoContentFound_NoMatchingResultsText" xml:space="preserve">検索に一致する項目はありませんでした。</v:String>
@@ -356,7 +355,7 @@
 
     <!--#region Internal -->
 
-    <v:String x:Key="GameManager_RecoveringDataIssue_FileNotExistant_Text">ファイル{0}は保存先に既に存在しています。/nこれを置き換えますか？そうしないと古いファイルが消えてしまいます。</v:String>
+    <v:String x:Key="GameManager_RecoveringDataIssue_FileNotExistant_Text">ファイル{0}は保存先に既に存在しています。\nこれを置き換えますか？そうしないと古いファイルが消えてしまいます。</v:String>
     <v:String x:Key="GameManager_RecoveringDataIssue_NotaDirectory_Text">ファイル{0}はディレクトリではありません。削除しますか？そうしないと古いディレクトリのデータが失われます。</v:String>
 
     <v:String x:Key="GameManager_RecoveringDataIssue_Title">既存のセーブデータを移動構成に変換する</v:String>
@@ -419,12 +418,12 @@
     <v:String x:Key="Installer_Dialog_MovingFileFailed_Text">ファイルの移動ができません</v:String>
     <v:String x:Key="Installer_Dialog_FileLocked_Text">使用するファイル</v:String>
     <v:String x:Key="Installer_Dialog_TryAgain_Text">再度お試ししますか？</v:String>
-    <v:String x:Key="Installer_Dialog_ErrorOccured_Text">An error has occurred.</v:String>
+    <v:String x:Key="Installer_Dialog_ErrorOccured_Text">エラーが発生しました</v:String>
 
     <!--#region ProgressBar -->
 
     <v:String x:Key="Installer_ProgressBar_Downloading">ダウンロード中...</v:String>
-    <v:String x:Key="Installer_ProgressBar_Finalizing">最終調整中...</v:String>
+    <v:String x:Key="Installer_ProgressBar_Finalizing">仕上げ中...</v:String>
     <v:String x:Key="Installer_ProgressBar_Initalizing">初期化中...</v:String>
 
 
@@ -468,9 +467,9 @@
 
     <v:String x:Key="ThemeEntries_BedrockStandard">Bedrock Edition スタンダード</v:String>
     <v:String x:Key="ThemeEntries_BedrockMaster">Bedrock Edition マスター</v:String>
-    <v:String x:Key="ThemeEntries_EarlyLegacyConsole">オリジナルレガシーコンソール</v:String>
-    <v:String x:Key="ThemeEntries_MidLegacyConsole">レガシーコンソール中期</v:String>
-    <v:String x:Key="ThemeEntries_LateLegacyConsole">レガシーコンソール後期</v:String>
+    <v:String x:Key="ThemeEntries_EarlyLegacyConsole">レガシーコンソール(オリジナル)</v:String>
+    <v:String x:Key="ThemeEntries_MidLegacyConsole">レガシーコンソール(中期)</v:String>
+    <v:String x:Key="ThemeEntries_LateLegacyConsole">レガシーコンソール(後期)</v:String>
     <v:String x:Key="ThemeEntries_IndieDays">インディーデイズ</v:String>
     <v:String x:Key="ThemeEntries_Dungeons">Minecraft Dungeons</v:String>
 
@@ -484,6 +483,7 @@
     <v:String x:Key="GeneralText_Duplicate">複製</v:String>
     <v:String x:Key="GeneralText_Remove">削除</v:String>
     <v:String x:Key="GeneralText_Cancel">キャンセル</v:String>
+    <v:String x:Key="GeneralText_Select">選択</v:String>
     <v:String x:Key="GeneralText_Update">アップデート</v:String>
     <v:String x:Key="GeneralText_Install">インストール</v:String>
     <v:String x:Key="GeneralText_Add">追加</v:String>

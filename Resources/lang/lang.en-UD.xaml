@@ -81,6 +81,7 @@
     <v:String x:Key="InstallationsPage_SortBy_None">ǝuoN</v:String>
 
     <v:String x:Key="InstallationsPage_SearchBar_Content">ǝɯɐu uoᴉʇɐllɐʇsuI</v:String>
+    <v:String x:Key="InstallationVersionSelect_SearchBar_Content">ʇxǝʇ uoᴉsɹǝΛ</v:String>
 
     <!--#endregion-->
 
@@ -170,7 +171,7 @@
 
     <v:String x:Key="GeneralSettingsScreen_LauncherSettingsSubtitle">S⅁NI⟘⟘ƎS ᴚƎHƆN∩ⱯꞀ</v:String>
     <v:String x:Key="GeneralSettingsScreen_ShortcutSettingsSubtitle">S⅁NI⟘⟘ƎS ⟘∩Ɔ⟘ᴚOHS</v:String>
-    <v:String x:Key="GeneralSettingsScreen_UseBetaLauncher">ɹǝɥɔunɐꞀ ǝɥʇ ɟo uoᴉsɹǝʌ ɐʇǝq ǝs∩</v:String>
+    <v:String x:Key="GeneralSettingsScreen_KeepAppx">Keep Appx Package</v:String>
     <v:String x:Key="GeneralSettingsScreen_KeepLauncherOpen">ᵷuᴉuunɹ ǝɹɐ sǝɯɐᵷ ǝꞁᴉɥʍ uǝdo ɹǝɥɔunɐꞀ ǝɥʇ dǝǝꞰ</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimateTransitions">ɹǝɥɔunɐꞀ ǝɥʇ uᴉ sǝᵷɐd uǝǝʍʇǝq suoᴉʇᴉsuɐɹʇ ǝʇɐɯᴉuⱯ</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimatePlayButton">ɹǝɥɔunɐꞀ ǝɥʇ uᴉ sǝᵷɐd ʎɐꞁԀ ǝɥʇ uo uoʇʇnq ʎɐꞁd ǝʇɐɯᴉuⱯ</v:String>
@@ -450,6 +451,7 @@ sɹǝʇꞁᴉɟ ʎɹoᵷǝʇɐɔ ǝʌɐɥ noʎ ɟI ˙ɥɔɹɐǝs ɹnoʎ ᵷuᴉ�
     <v:String x:Key="ThemeEntries_Original">ꞁɐuᴉᵷᴉɹO</v:String>
     <v:String x:Key="ThemeEntries_Custom">ɯoʇsnƆ</v:String>
 
+    <v:String x:Key="ThemeEntries_TheWildUpdate">The Wild Update</v:String>
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">(⥝ ʇɹɐԀ) sɟɟᴉꞁƆ ⅋ sǝʌɐƆ</v:String>
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">(ᄅ ʇɹɐԀ) sɟɟᴉlƆ ⅋ sǝʌɐƆ</v:String>
     <v:String x:Key="ThemeEntries_NetherUpdate">ǝʇɐpd∩ ɹǝɥʇǝN</v:String>
@@ -484,6 +486,7 @@ sɹǝʇꞁᴉɟ ʎɹoᵷǝʇɐɔ ǝʌɐɥ noʎ ɟI ˙ɥɔɹɐǝs ɹnoʎ ᵷuᴉ�
     <v:String x:Key="GeneralText_Duplicate">ǝʇɐɔᴉꞁdnᗡ</v:String>
     <v:String x:Key="GeneralText_Remove">ǝʌoɯǝᴚ</v:String>
     <v:String x:Key="GeneralText_Cancel">lǝɔuɐƆ</v:String>
+    <v:String x:Key="GeneralText_Select">ʇɔǝlǝS</v:String>
     <v:String x:Key="GeneralText_Update">ǝʇɐpd∩</v:String>
     <v:String x:Key="GeneralText_Install">llɐʇsuI</v:String>
     <v:String x:Key="GeneralText_Add">ppⱯ</v:String>
@@ -498,6 +501,7 @@ sɹǝʇꞁᴉɟ ʎɹoᵷǝʇɐɔ ǝʌɐɥ noʎ ɟI ˙ɥɔɹɐǝs ɹnoʎ ᵷuᴉ�
     <v:String x:Key="GeneralText_Releases">sǝsɐǝꞁǝᴚ</v:String>
     <v:String x:Key="GeneralText_Betas">sɐʇǝᗺ</v:String>
     <v:String x:Key="GeneralText_Previews">sʍǝᴉʌǝɹԀ</v:String>
+    <v:String x:Key="GeneralText_Imported">pǝʇɹodɯI</v:String>
     <v:String x:Key="GeneralText_Export">ʇɹodxƎ</v:String>
     <v:String x:Key="GeneralText_Repair">ɹᴉɐdǝᴚ</v:String>
 
@@ -510,6 +514,7 @@ sɹǝʇꞁᴉɟ ʎɹoᵷǝʇɐɔ ǝʌɐɥ noʎ ɟI ˙ɥɔɹɐǝs ɹnoʎ ᵷuᴉ�
     <!--#region GeneralSubtitles -->
 
     <v:String x:Key="GeneralSubtitles_Versions">SNOISᴚƎɅ</v:String>
+    <v:String x:Key="GeneralSubtitles_Architectures">SƎɹ∩┴ƆƎ┴IHƆɹ∀</v:String>
     <v:String x:Key="GeneralSubtitles_Browse">ƎSMOᴚᗺ</v:String>
     <v:String x:Key="GeneralSubtitles_Reset">⟘ƎSƎᴚ</v:String>
     <v:String x:Key="GeneralSubtitles_Categories">SƎIᴚO⅁Ǝ⟘ⱯƆ</v:String>

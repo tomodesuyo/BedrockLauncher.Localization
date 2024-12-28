@@ -81,6 +81,7 @@
     <v:String x:Key="InstallationsPage_SortBy_None">Tiada</v:String>
 
     <v:String x:Key="InstallationsPage_SearchBar_Content">Nama pemasangan</v:String>
+    <v:String x:Key="InstallationVersionSelect_SearchBar_Content">Teks versi</v:String>
 
     <!--#endregion-->
 
@@ -170,7 +171,7 @@
 
     <v:String x:Key="GeneralSettingsScreen_LauncherSettingsSubtitle">TETAPAN PELANCAR</v:String>
     <v:String x:Key="GeneralSettingsScreen_ShortcutSettingsSubtitle">TETAPAN JALAN PINTAS</v:String>
-    <v:String x:Key="GeneralSettingsScreen_UseBetaLauncher">Gunakan versi beta Pelancar</v:String>
+    <v:String x:Key="GeneralSettingsScreen_KeepAppx">Keep Appx Package</v:String>
     <v:String x:Key="GeneralSettingsScreen_KeepLauncherOpen">Kekalkan Pelancar terbuka saat permainan dijalankan</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimateTransitions">Animasikan peralihan diantara halaman di dalam Pelancar</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimatePlayButton">Animasikan butang main di halaman Main di dalam Pelancar</v:String>
@@ -450,6 +451,7 @@ dimatikan, cuba hidupkannya kembali dan cari lagi</v:String>
     <v:String x:Key="ThemeEntries_Original">Asal</v:String>
     <v:String x:Key="ThemeEntries_Custom">Tersuai</v:String>
 
+    <v:String x:Key="ThemeEntries_TheWildUpdate">The Wild Update</v:String>
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart1Update">Caves &amp; Cliffs (Part 1)</v:String>
     <v:String x:Key="ThemeEntries_CavesAndCliffsPart2Update">Caves &amp; Cliffs (Part 2)</v:String>
     <v:String x:Key="ThemeEntries_NetherUpdate">Nether Update</v:String>
@@ -484,6 +486,7 @@ dimatikan, cuba hidupkannya kembali dan cari lagi</v:String>
     <v:String x:Key="GeneralText_Duplicate">Buat Salinan</v:String>
     <v:String x:Key="GeneralText_Remove">Hapus</v:String>
     <v:String x:Key="GeneralText_Cancel">Batal</v:String>
+    <v:String x:Key="GeneralText_Select">Pilih</v:String>
     <v:String x:Key="GeneralText_Update">Kemas kini</v:String>
     <v:String x:Key="GeneralText_Install">Pasang</v:String>
     <v:String x:Key="GeneralText_Add">Tambah</v:String>
@@ -498,6 +501,7 @@ dimatikan, cuba hidupkannya kembali dan cari lagi</v:String>
     <v:String x:Key="GeneralText_Releases">Keluaran</v:String>
     <v:String x:Key="GeneralText_Betas">Beta</v:String>
     <v:String x:Key="GeneralText_Previews">Pratonton</v:String>
+    <v:String x:Key="GeneralText_Imported">Diimport</v:String>
     <v:String x:Key="GeneralText_Export">Eksport</v:String>
     <v:String x:Key="GeneralText_Repair">Baiki</v:String>
 
@@ -510,6 +514,7 @@ dimatikan, cuba hidupkannya kembali dan cari lagi</v:String>
     <!--#region GeneralSubtitles -->
 
     <v:String x:Key="GeneralSubtitles_Versions">VERSI</v:String>
+    <v:String x:Key="GeneralSubtitles_Architectures">SENI BINA</v:String>
     <v:String x:Key="GeneralSubtitles_Browse">CARI</v:String>
     <v:String x:Key="GeneralSubtitles_Reset">TETAPKAN SEMULA</v:String>
     <v:String x:Key="GeneralSubtitles_Categories">KATEGORI</v:String>

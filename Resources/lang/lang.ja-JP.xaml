@@ -109,13 +109,13 @@
     <!--#region PatchNotesPage -->
 
     <v:String x:Key="PatchNotesPage_MorePatchNotes">更新履歴をさらに表示</v:String>
-    <v:String x:Key="PatchNotesPage_MorePatchNotesBeta">ベータの更新履歴をさらに表示</v:String>
+    <v:String x:Key="PatchNotesPage_MorePatchNotesBeta">ベータ版の更新履歴をさらに表示</v:String>
 
     <!--#endregion-->
 
     <!--#region SkinsPage -->
 
-    <v:String x:Key="SkinsPage_AddButton">新しい...</v:String>
+    <v:String x:Key="SkinsPage_AddButton">新規...</v:String>
     <v:String x:Key="SkinsPage_ImportButton">インポート...</v:String>
 
     <!--#endregion-->
@@ -142,7 +142,7 @@
     <v:String x:Key="NewsScreen_MinecraftForumsTitle">Minecraft Forums</v:String>
     <v:String x:Key="NewsScreen_JavaNDungeonsTabTitle">Java / Dungeons</v:String>
 
-    <v:String x:Key="NewsScreen_SearchBar_Content">お知らせの題名</v:String>
+    <v:String x:Key="NewsScreen_SearchBar_Content">お知らせのタイトル</v:String>
 
     <v:String x:Key="NewsScreen_JavaNDungeons_JavaCheckbox">Minecraft: Java Edition</v:String>
     <v:String x:Key="NewsScreen_JavaNDungeons_DungeonsCheckbox">Minecraft Dungeons</v:String>
@@ -171,6 +171,7 @@
 
     <v:String x:Key="GeneralSettingsScreen_LauncherSettingsSubtitle">ランチャー設定</v:String>
     <v:String x:Key="GeneralSettingsScreen_ShortcutSettingsSubtitle">ショートカット設定</v:String>
+    <v:String x:Key="GeneralSettingsScreen_KeepAppx">Appxパッケージをそのままにする</v:String>
     <v:String x:Key="GeneralSettingsScreen_UseBetaLauncher">ベータ版のランチャーを使用する</v:String>
     <v:String x:Key="GeneralSettingsScreen_KeepLauncherOpen">ゲーム起動後もランチャーを開いたままにする</v:String>
     <v:String x:Key="GeneralSettingsScreen_AnimateTransitions">ランチャーのページ間の移動アニメーションを有効にする</v:String>
@@ -216,7 +217,7 @@
     <v:String x:Key="AboutPage_OriginallyDevelopedBy_Text">この作品から派生したものです</v:String>
     <v:String x:Key="AboutPage_SpecialThanks_Text">スペシャルサンクス</v:String>
 
-    <v:String x:Key="AboutPage_McMrArm_Text">本作品の元となる「Minecraft Windows 10 Version」ダウンローダーを作成</v:String>
+    <v:String x:Key="AboutPage_McMrArm_Text">元となる「Minecraft Windows 10 Version」ダウンローダーを作成</v:String>
     <v:String x:Key="AboutPage_Mojang_Text">For Minecraft!!!</v:String>
     <v:String x:Key="AboutPage_CurrentBuild">現在のビルド: </v:String>
 
@@ -247,7 +248,8 @@
     <v:String x:Key="FirstLaunch_ChooseAccountTitle">インサイダーアカウントの選択</v:String>
     <v:String x:Key="FirstLaunch_ChooseAccountSubtitle">* ベータの確認とダウンロードに使用されます。ベータをダウンロードするには、選択したアカウントのXbox Insider Hubにオプトインしている必要があります。また、ベータをダウンロードするためには、ランチャーを再起動するか、Minecraftをアンインストールする必要がある場合があります</v:String>
 
-    <v:String x:Key="FirstLaunch_BeforeStartingToUse" xml:space="preserve">ランチャーが元のディレクトリをシンボリックリンクに置き換えることで、セーブデータをリダイレクトすることができます。(心配しないでください。この操作でデータが失われることはありません。プレイを押してバックアップしていない場合にのみデータが失われます)</v:String>
+    <v:String x:Key="FirstLaunch_BeforeStartingToUse" xml:space="preserve">ランチャーが元のディレクトリをシンボリックリンクに置き換えることで、セーブデータをリダイレクトすることができます。
+(心配しないでください。この操作でデータが失われることはありません。プレイを押してバックアップしていない場合にのみデータが失われます)</v:String>
 
     <v:String x:Key="FirstLaunch_InstallType_Header">ランチャーデータの保存/読み込み元:</v:String>
     <v:String x:Key="FirstLaunch_FixedInstall_Checkbox">固定フォルダ（推奨）</v:String>
@@ -281,25 +283,25 @@
     <v:String x:Key="Error_AuthenticationFailed">認証に失敗しました。あなたのアカウントがベータプログラムに加入していることを確認してください。</v:String>
 
     <v:String x:Key="Error_AppReregisterFailed_Title">アプリの登録に失敗しました</v:String>
-    <v:String x:Key="Error_AppReregisterFailed">再度お試しください :(</v:String>
+    <v:String x:Key="Error_AppReregisterFailed">再度お試しください (´・ω・`)</v:String>
 
     <v:String x:Key="Error_AppDeregisteringFailed_Title">アプリの登録解除に失敗しました</v:String>
-    <v:String x:Key="Error_AppDeregisteringFailed">再度お試しください :(</v:String>
+    <v:String x:Key="Error_AppDeregisteringFailed">再度お試しください (´・ω・`)</v:String>
 
     <v:String x:Key="Error_AppLaunchFailed_Title">起動失敗</v:String>
-    <v:String x:Key="Error_AppLaunchFailed">再度お試しください :(</v:String>
+    <v:String x:Key="Error_AppLaunchFailed">再度お試しください (´・ω・`)</v:String>
 
     <v:String x:Key="Error_AppDownloadFailed_Title">ダウンロード失敗</v:String>
-    <v:String x:Key="Error_AppDownloadFailed">再度お試しください :(</v:String>
+    <v:String x:Key="Error_AppDownloadFailed">再度お試しください (´・ω・`)</v:String>
 
     <v:String x:Key="Error_SaveDirectoryRedirectionFailed_Title">セーブリダイレクトに失敗</v:String>
-    <v:String x:Key="Error_SaveDirectoryRedirectionFailed">再度お試しください :(</v:String>
+    <v:String x:Key="Error_SaveDirectoryRedirectionFailed">再度お試しください (´・ω・`)</v:String>
 
     <v:String x:Key="Error_AppUninstallFailed_Title">アンインストールに失敗しました</v:String>
-    <v:String x:Key="Error_AppUninstallFailed">再度お試しください :(</v:String>
+    <v:String x:Key="Error_AppUninstallFailed">再度お試しください (´・ω・`)</v:String>
 
     <v:String x:Key="Error_AppExtractionFailed_Title">抽出に失敗した</v:String>
-    <v:String x:Key="Error_AppExtractionFailed">再度お試しください :(</v:String>
+    <v:String x:Key="Error_AppExtractionFailed">再度お試しください (´・ω・`)</v:String>
 
     <!--#endregion-->
 
